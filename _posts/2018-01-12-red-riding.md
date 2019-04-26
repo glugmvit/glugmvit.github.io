@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "Red Riding Hood"
-author: sal
+author: absingh
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---
