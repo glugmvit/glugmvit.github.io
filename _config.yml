@@ -1,9 +1,9 @@
 # Site
-name: "Affiliates Theme for Jekyll"
+name: "GLUG MVIT"
 title: "GLUG MVIT"
-description: "Jekyll Theme for Blogging"
-meta_description: "Jekyll theme for blogging."
-logo: 'assets/images/logo.png'
+description: "Community of FOSS developers from Sir M. Visvesvaraya Institute of Technology"
+meta_description: "Technical community at Sir MVIT, Bangalore"
+logo: 'assets/images/logo_full_rect.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
@@ -14,14 +14,14 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  absingh:
+    name: Abhijeet Singh
+    display_name: Abhijeet Singh
+    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: contact.abhijeetsingh@gmail.com
+    web: https://www.absingh.com
+    twitter: https://twitter.com/cse_as
+    description: "GLUG Lead | Microsoft Student Partner | AI Developer"
   john:
     name: John
     display_name: John
