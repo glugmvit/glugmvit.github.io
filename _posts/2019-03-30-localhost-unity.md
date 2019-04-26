@@ -3,25 +3,65 @@ layout: post
 title:  "MLH Localhost: Game Development with Unity 3D"
 author: absingh
 categories: [ Unity, Windows, C# ]
-# image: assets/images/1.jpg
-image: assets/images/unity3d/poster.jpg
+image: assets/images/1.jpg
 featured: true
 ---
 # Concept
 On Saturday, 30th March 2019, we hosted our first ever MLH Localhost: Game Development with Unity 3D, powered by Microsoft and Subway. [MLH Localhost](https://localhost.mlh.io/) events are free, out-of-the-box workshops covering today's most relevant technology so you can share knowledge with your community, spend less time on content, and learn as you go.
 
-Duration: 3 hours
-
-Venue: CSE Seminar Hall, Admin Block
-
-Location: Sir M. Visvesvaraya Institute of Technology, Bengaluru, Karnataka
-
-Topics: Game Development for Windows, Unity 3D, C#
+**Duration**: 3 hours  
+**Venue**: CSE Seminar Hall, Admin Block  
+**Location**: Sir M. Visvesvaraya Institute of Technology, Bangalore  
+**Topics**: Game Development for Windows, Unity 3D, C#
 
 ![](/assets/images/unity3d/poster.jpg)
 
 # Organizers
 
-Hosting Department: This is changed. As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
+**Hosting Department**: Department of Computer Science and Engineering  
+**Hosted by**: Dr. G. C. Banu Prakash (Professor and Head)  
 
-It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
+**Faculty coordinators**:
+- Mrs Sushila Shidnal (Associate Professor, Dept. of CSE)
+- Mrs Savita Choudhary (Associate Professor, Dept. of CSE)
+- Mrs Sheela Kathavate (Associate Professor, Dept. of CSE)
+
+**Student coordinators**:
+- [Abhijeet Singh](http://absingh.com), 1MV16CS001 (Microsoft Student Partner & Lead, GLUG MVIT)
+- Vipul Gaurav, 1MV16CS124 (Co-lead, GLUG MVIT)
+
+# Requirements/Prerequisites:
+Participants need to be able to install the Unity engine on their computers. While no background knowledge is required, familiarity with any scripted language (C, Java, etc.) will be beneficial for participation in this workshop.
+
+**System Requirements**: MacOS, Linux, or Windows 8 or higher
+
+# Statistics:
+**No. of participants**: 150
+**No. of speakers**: 3
+
+# Agenda
+
+| No. | Session | Time | Speaker |
+|-----|---------|------|---------|
+|  1. | Opening keynote  | 09:30 - 09:40  | Abhijeet Singh |
+|  2. | Setting up the Unity development environment  | 09:40 - 10:00  | Sushen Kumar |
+|  3. | Introduction to Unity | 10:00 - 10:45 | Sushen Kumar |
+|  4. | Introduction to C# | 10:45 - 11:15 | Vipul Gaurav |
+|  5. | Subway Snack break | 11:15 - 11:30 | NIL |
+|  6. | Build your own 3D game | 11:30 - 12:15 | Sushen Kumar |
+|  7. | Closing keynote | 12:15 - 12:30 | Abhijeet Singh |
+
+# The event
+
+The event was organized by the *Computer Science & Engineering Department* of [Sir M. Visvesvaraya Institute of Technology, Bangalore](http://sirmvit.edu). The event began with an invocation keynote after which the technical sessions started. The event was sponsored by MLH, Microsoft, and Subway. Students were given a starter code with bugs for a 3D car racing game using Unity 3D. The aim of the workshop was to explain the workflow of Unity 3D for Windows Desktop game development and solve the bugs in the code to complete and play the game. The event ended with a closing keynote and a group photograph after which the audience was dispersed.
+
+# About the speakers
+
+- [Sushen Kumar]()
+    Nice guy
+
+- [Abhijeet Singh]()
+    Another Nice guy
+
+- [Vipul Gaurav]()
+    Also nice guy
