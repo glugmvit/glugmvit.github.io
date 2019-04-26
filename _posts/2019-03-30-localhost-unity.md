@@ -6,7 +6,6 @@ categories: [ Unity, Windows, C# ]
 image: assets/images/1.jpg
 featured: true
 ---
-# Concept
 On Saturday, 30th March 2019, we hosted our first ever MLH Localhost: Game Development with Unity 3D, powered by Microsoft and Subway. [MLH Localhost](https://localhost.mlh.io/) events are free, out-of-the-box workshops covering today's most relevant technology so you can share knowledge with your community, spend less time on content, and learn as you go.
 
 **Duration**: 3 hours  
@@ -36,7 +35,7 @@ Participants need to be able to install the Unity engine on their computers. Whi
 **System Requirements**: MacOS, Linux, or Windows 8 or higher
 
 # Statistics:
-**No. of participants**: 150
+**No. of participants**: 150  
 **No. of speakers**: 3
 
 # Agenda
@@ -57,11 +56,11 @@ The event was organized by the *Computer Science & Engineering Department* of [S
 
 # About the speakers
 
-- [Sushen Kumar]()
+- [Sushen Kumar]()  
     Nice guy
 
-- [Abhijeet Singh]()
+- [Abhijeet Singh]()  
     Another Nice guy
 
-- [Vipul Gaurav]()
+- [Vipul Gaurav]()  
     Also nice guy
