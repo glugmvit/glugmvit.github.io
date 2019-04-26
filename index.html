@@ -1,82 +1,88 @@
+---
+layout: default
+title: Home
+---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>GLUG MVIT</title>
-
-<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
-
-<link rel="stylesheet" type="text/css" href="assets/fonts/line-icons.css">
-
-<link rel="stylesheet" type="text/css" href="assets/css/slicknav.css">
-
-<link rel="stylesheet" type="text/css" href="assets/css/menu_sideslide.css">
-
-<link rel="stylesheet" type="text/css" href="assets/css/vegas.min.css">
-
-<link rel="stylesheet" type="text/css" href="assets/css/animate.css">
-
-<link rel="stylesheet" type="text/css" href="assets/css/main.css">
-
-<link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
-</head>
-<body>
-<div class="bg-wraper overlay has-vignette">
-<div id="example" class="slider opacity-50 vegas-container" style="height: 983px;"></div>
-</div>
-
-<section class="countdown-timer">
-<div class="container">
-<div class="row text-center">
-<div class="col-md-12 col-sm-12 col-xs-12">
-<div class="heading-count">
-<h2>WE ARE LAUNCHING SOON</h2>
-</div>
-</div>
-<div class="col-md-12 col-sm-12 col-xs-12">
-<p>
-Please check back later.<br>
-Excelsior!
-</p>
-</div>
-</div>
-</div>
+<!-- Home Jumbotron
+================================================== -->    
+<section class="intro full-width">
+    <div class="wrapintro">
+        <h1>Jekyll Theme for Marketers</h1>
+        <h2 class="lead">"Affiliates" is a Jekyll theme designed & developed by WowThemesNet, best suitable for affiliate marketing.</h2>    
+        <a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" class="btn">Download</a>
+    </div>
 </section>
 
 
-<div id="preloader">
-<div class="loader" id="loader-1"></div>
-</div>
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
 
+    <div class="section-title">
+        <h2><span>Featured</span></h2>
+    </div>
 
-<script src="assets/js/jquery-min.js"></script>
-<script src="assets/js/popper.min.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/vegas.min.js"></script>
-<script src="assets/js/jquery.countdown.min.js"></script>
-<script src="assets/js/classie.js"></script>
-<script src="assets/js/jquery.nav.js"></script>
-<script src="assets/js/jquery.easing.min.js"></script>
-<script src="assets/js/wow.js"></script>
-<script src="assets/js/jquery.slicknav.js"></script>
-<script src="assets/js/main.js"></script>
-<script src="assets/js/form-validator.min.js"></script>
-<script src="assets/js/contact-form-script.min.js"></script>
-<script type="text/javascript">
-      $("#example").vegas({
-          timer: false,
-          delay: 6000,
-          transitionDuration: 2000,
-          transition: "blur",
-          slides: [
-              { src: "assets/img/slide1.jpg" },
-              { src: "assets/img/slide2.jpg" },
-              { src: "assets/img/slide3.jpg" }
-          ]
-      });
-    </script>
-</body>
-</html>
+    <div class="row listfeaturedtag">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+
+</section>
+
+<!-- Posts Index
+================================================== -->
+{% if paginator.previous_page %}
+{% if paginator.previous_page > 0 %}
+<div id="jumptopageof"></div>
+{% endif %}
+{% endif %}    
+
+<section class="recent-posts row">
+
+    <div class="col-sm-4">
+        {% include sidebar.html %}
+    </div>
+
+    <div class="col-sm-8">
+
+        <div class="section-title">
+            <h2><span>All Stories</span></h2>    
+        </div>
+
+        <div class="masonrygrid row listrecent">
+
+            {% for post in paginator.posts %}
+
+            {% unless post.featured == true %}
+
+                {% include postbox.html %}
+
+            {% endunless %}
+
+            {% endfor %}
+
+        </div> 
+
+        <!-- Pagination -->
+        <div class="bottompagination">
+
+            <span class="navigation" role="navigation">
+
+                {% include pagination.html %}
+
+            </span>
+
+        </div>
+
+    </div>
+
+</section>
