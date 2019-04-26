@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "MLH LOCALHOST: GAME DEVELOPMENT WITH UNITY 3D"
+title:  "MLH Localhost: Game Development with Unity 3D"
 author: absingh
 categories: [ Unity, Windows, C# ]
-image: assets/images/1.jpg
+# image: assets/images/1.jpg
+image: assets/images/unity3d/poster.jpg
 featured: true
 ---
 # Concept
@@ -17,7 +18,7 @@ Location: Sir M. Visvesvaraya Institute of Technology, Bengaluru, Karnataka
 
 Topics: Game Development for Windows, Unity 3D, C#
 
-![](assets/images/unity3d/poster.jpg)
+![](/assets/images/unity3d/poster.jpg)
 
 # Organizers
 
