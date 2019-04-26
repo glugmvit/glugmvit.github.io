@@ -7,9 +7,9 @@ logo: 'assets/images/logo_full_rect.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
-email: 'wowthemesnet@gmail.com'
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+email: 'glugmvit@gmail.com'
+# google_analytics: 'UA-46278016-1'
+disqus: 'glugmvit'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
 # Authors
