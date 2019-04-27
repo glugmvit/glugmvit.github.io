@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Is Intelligence Enough"
-author: vipul
+author: vhr
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 ---
