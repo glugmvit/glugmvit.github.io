@@ -43,8 +43,8 @@ The event was organized by the *Computer Science & Engineering Department* of [S
 - [Sushen Kumar]()  
     Nice guy
 
-- [Vipul Gaurav]()  
-    Also nice guy
+- [Vipul Gaurav](https://www.linkedin.com/in/vipul-gaurav/)  
+    MLH representative and Smart India Hackathon winner 2019
 
 - [Abhijeet Singh](http://absingh.com/)  
     A Microsoft Student Partner, AI developer, open source contributor, and low-key memelord.
