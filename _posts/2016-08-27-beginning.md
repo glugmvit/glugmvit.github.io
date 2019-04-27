@@ -2,7 +2,7 @@
 layout: post
 title:  "Starting GNU Linux Users Group Sir MVIT"
 author: vhr
-categories: [ GLUG, Beginning ]
+categories: [ GLUG, FSMK ]
 image: assets/images/5.jpg
 excerpt: The inception of this Club for free software enthusiasts called GLUG (GNU Linux Users Group)
 ---
@@ -14,11 +14,11 @@ excerpt: The inception of this Club for free software enthusiasts called GLUG (G
 # Background
 
 To start with our college had many other clubs like Developer Students Club, Mozilla Club etc., But lacked a club that would support, teach and promote free software. Even though more than 80% of the software that is being used by the tech industries today are basically free software’s like python, MongoDB, Django to name a few. During the FSMK Camp-16 Mr. Rakesh had given me the brief overview about GLUG and encouraged me to start up a GLUG in our college too.
-Once the camp was over I didn’t stop there ,the real journey began from then on, I met various people and student friends from various places and started speaking about free software. This continued in our college also, I met many juniors who were really interested in free software and wanted to be the part of this new culture. So the foundation for GLUG MVIT was almost ready. Once I had the required human resources the next very important thing is guidance, FSMK has been very supportive thought this journey starting from motivating me until monitoring such that all the events go on very smoothly. So as directed by Mr. Rakesh we planned to have a official inauguration of GLUG MVIT on 17 August 2016.
+Once the camp was over I didn’t stop there, the real journey began from then on, I met various people and student friends from various places and started speaking about free software. This continued in our college also, I met many juniors who were really interested in free software and wanted to be the part of this new culture. So the foundation for GLUG MVIT was almost ready. Once I had the required human resources the next very important thing is guidance, FSMK has been very supportive thought this journey starting from motivating me until monitoring such that all the events go on very smoothly. So as directed by Mr. Rakesh we planned to have a official inauguration of GLUG MVIT on 17 August 2016.
 
 # Action Plan
 
-So the basic action plan was almost ready and the next step was to put this plan into force. So I met our HOD Prof. Dilip K Sen, and the way he supported me to take up this venture was mind boggling, he assured me to give full support and necessary help in bring this club to life and sustaining it in the long run. I should not forget to mention the support from the principal ,staffs and management of SIR MVIT in all our endeavours. Mrs. Shella S Kathavathe, Associate professor CSE department was more than happy to help us by being the faculty in charge for this club.
+So the basic action plan was almost ready and the next step was to put this plan into force. So I met our HOD Prof. Dilip K Sen, and the way he supported me to take up this venture was mind boggling, he assured me to give full support and necessary help in bring this club to life and sustaining it in the long run. I should not forget to mention the support from the principal, staffs and management of SIR MVIT in all our endeavours. Mrs. Shella S Kathavathe, Associate professor CSE department was more than happy to help us by being the faculty in charge for this club.
 
 The next task was to organise the group of core members of GLUG MVIT team, so I started going to each classes and spoke about the club and asked for volunteers. The response was overwhelming, and got around 10 volunteers who were really interested to be the pillars of this club. So each of them took the responsibility of a task ranging from poster design to advertisement.
 
@@ -30,10 +30,10 @@ The most awaited day was finally here! _Mr. Karthic Rao_ was the speaker for the
 
 #### Jahnavi, Team GLUG MVIT.
 
-> The inaugural event of GLUG (GNU LINUX USERS GROUP) MVIT, a club for free software enthusiasts was held on 17th of august. The event included talk by the venerated speaker Mr. Karthic Rao. Mr. Rao is a founding member/open source contributor of Caddy project. He is also a software consultant for Minio.io, Palo Alto, California. Not only is he a tech blogger and an open source contributor but a musician as well. He has also been volunteering for the fsmk(free software movement Karnataka) for over seven years. Free Software Movement Karnataka (FSMK) is a non-profitable organisation working for spreading free software and its ideals.
+> The inaugural event of GLUG (GNU LINUX USERS GROUP) MVIT, a club for free software enthusiasts was held on 17th of august. The event included talk by the venerated speaker Mr. Karthic Rao. Mr. Rao is a founding member/open source contributor of Caddy project. He is also a software consultant for Minio.io, Palo Alto, California. Not only is he a tech blogger and an open source contributor but a musician as well. He has also been volunteering for FSMK (Free Software Movement Karnataka) for over seven years. FSMK is a non-profitable organisation working for spreading free software and its ideals.
 The event kicked off with a brief introduction to the speaker. Mr. Rao kept everyone captivated with his talk on open source. He started with giving examples of free software such as Python, VLC media player etc. He then proceeded on to talk about relevance of free software. Free software has become the foundation of a learning society where we share our knowledge in a way that others can build upon and enjoy. Proprietary software denies users of this freedom and benefits. Linux, Wikipedia etc. are all inspired from the idea of open source. Their source codes are available to the masses to change and modify freely.
 
-> We were graced by the presence of our beloved and cherished principal Dr M.S Indira and our much loved HOD Prof Dilip K Sen of CSE department and Dr P Vijaykarthik of ISE department. Prof Dilip Sen also spoke on the advantages of open source over closed source and thanked Mr. Karthic Rao for enlightening the students with his insightful take on free software. By the end of the event everyone left with a broader perspective and better hold on open source. The event was surely one of a kind.
+> We were graced by the presence of our beloved and cherished principal Dr M.S Indira and our much loved HOD Prof. Dilip K. Sen of CSE department and Dr P Vijaykarthik of ISE department. Prof Dilip Sen also spoke on the advantages of open source over closed source and thanked Mr. Karthic Rao for enlightening the students with his insightful take on free software. By the end of the event everyone left with a broader perspective and better hold on open source. The event was surely one of a kind.
 
 ![Jam Packed Seminar Hall](/assets/images/beginning/seminar.JPG)
 
