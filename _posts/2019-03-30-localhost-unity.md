@@ -15,28 +15,10 @@ On Saturday, 30th March 2019, we hosted our first ever MLH Localhost: Game Devel
 
 ![](/assets/images/unity3d/poster.jpg)
 
-# Organizers
-
-**Hosting Department**: Department of Computer Science and Engineering  
-**Hosted by**: Dr. G. C. Banu Prakash (Professor and Head)  
-
-**Faculty coordinators**:
-- Mrs Sushila Shidnal (Associate Professor, Dept. of CSE)
-- Mrs Savita Choudhary (Associate Professor, Dept. of CSE)
-- Mrs Sheela Kathavate (Associate Professor, Dept. of CSE)
-
-**Student coordinators**:
-- [Abhijeet Singh](http://absingh.com), 1MV16CS001 (Microsoft Student Partner & Lead, GLUG MVIT)
-- Vipul Gaurav, 1MV16CS124 (Co-lead, GLUG MVIT)
-
 # Requirements/Prerequisites:
 Participants need to be able to install the Unity engine on their computers. While no background knowledge is required, familiarity with any scripted language (C, Java, etc.) will be beneficial for participation in this workshop.
 
 **System Requirements**: MacOS, Linux, or Windows 8 or higher
-
-# Statistics:
-**No. of participants**: 150  
-**No. of speakers**: 3
 
 # Agenda
 
@@ -50,6 +32,7 @@ Participants need to be able to install the Unity engine on their computers. Whi
 |  6. | Build your own 3D game | 11:30 - 12:15 | Sushen Kumar |
 |  7. | Closing keynote | 12:15 - 12:30 | Abhijeet Singh |
 
+
 # The event
 
 The event was organized by the *Computer Science & Engineering Department* of [Sir M. Visvesvaraya Institute of Technology, Bangalore](http://sirmvit.edu). The event began with an invocation keynote after which the technical sessions started. The event was sponsored by MLH, Microsoft, and Subway. Students were given a starter code with bugs for a 3D car racing game using Unity 3D. The aim of the workshop was to explain the workflow of Unity 3D for Windows Desktop game development and solve the bugs in the code to complete and play the game. The event ended with a closing keynote and a group photograph after which the audience was dispersed.
@@ -59,8 +42,25 @@ The event was organized by the *Computer Science & Engineering Department* of [S
 - [Sushen Kumar]()  
     Nice guy
 
+- [Vipul Gaurav]()  
+    Also nice guy
+
 - [Abhijeet Singh]()  
     Another Nice guy
 
-- [Vipul Gaurav]()  
-    Also nice guy
+# Organizers
+**Hosting Department**: Department of Computer Science and Engineering  
+**Hosted by**: Dr. G. C. Banu Prakash (Professor and Head)  
+
+**Faculty coordinators**:
+- Mrs Sushila Shidnal (Associate Professor, Dept. of CSE)
+- Mrs Savita Choudhary (Associate Professor, Dept. of CSE)
+- Mrs Sheela Kathavate (Associate Professor, Dept. of CSE)
+
+**Student coordinators**:
+- [Abhijeet Singh](http://absingh.com), 1MV16CS001 (Microsoft Student Partner & Lead, GLUG MVIT)
+- Vipul Gaurav, 1MV16CS124 (Co-lead, GLUG MVIT)
+
+# Statistics
+**No. of participants**: 150  
+**No. of speakers**: 3
