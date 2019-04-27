@@ -1,5 +1,5 @@
 ---
-layout: post-right-sidebar
+layout: post
 title:  "Red Riding Hood"
 author: absingh
 categories: [ Jekyll, tutorial ]
