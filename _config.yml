@@ -47,13 +47,13 @@ authors:
     description: "MLH representative and Smart India Hackathon winner 2019"
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-        
+
 # Archives
 jekyll-archives:
   enabled:
@@ -61,7 +61,7 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
