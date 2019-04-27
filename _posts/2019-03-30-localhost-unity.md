@@ -11,7 +11,7 @@ On Saturday, 30th March 2019, we hosted our first ever MLH Localhost: Game Devel
 **Duration**: 3 hours  
 **Venue**: CSE Seminar Hall, Admin Block  
 **Location**: Sir M. Visvesvaraya Institute of Technology, Bangalore  
-**Topics**: Game Development for Windows, Unity 3D, C#
+**Topics**: Game Development for Windows, Unity 3D, C#  
 **No. of participants**: 150
 
 ![](/assets/images/unity3d/poster.jpg)
@@ -46,8 +46,8 @@ The event was organized by the *Computer Science & Engineering Department* of [S
 - [Vipul Gaurav]()  
     Also nice guy
 
-- [Abhijeet Singh]()  
-    Another Nice guy
+- [Abhijeet Singh](http://absingh.com/)  
+    A Microsoft Student Partner, AI developer, open source contributor, and low-key memelord.
 
 # Organizers
 **Hosting Department**: Department of Computer Science and Engineering  
