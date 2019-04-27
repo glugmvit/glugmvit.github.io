@@ -38,14 +38,22 @@ authors:
     twitter: https://twitter.com/vhr121
     description: "Machine Learning Engineer, Full stack Developer, Tech Speaker, FOSS Enthusiast, Traveller and Biker. Founder of GLUG MVIT."
 
-# Plugins
-plugins: 
+  harsh:
+    name: Harsh Gahlot
+    display_name: Harsh Gahlot
+    gravatar: "609075465595e233f1e062f70a76566b"
+    email: harshghlt25@gmail.com
+    web: https://www.linkedin.com/in/hersh257/
+    twitter: https://twitter.com/Hersh257
+    description: "Web Developer, Machine Learning Enthusiast, Tech Speaker"
+# Plugins,
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-        
+
 # Archives
 jekyll-archives:
   enabled:
@@ -53,7 +61,7 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
