@@ -45,8 +45,9 @@ authors:
     web: https://euno257.github.io
     twitter: https://twitter.com/Hersh257
     description: "Web Developer, Machine Learning Enthusiast, Tech Speaker"
-# Plugins,
-plugins:
+
+# Plugins
+plugins: 
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
