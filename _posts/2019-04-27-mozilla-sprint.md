@@ -7,8 +7,13 @@ categories: [OpenSource, Mozilla]
 image: assets/images/mozilla.jpg
 ---
 
-# Common Voice 100 hours sprint
-## April 22 - May 5
+## Common Voice Sprint - MVIT, Bangalore
+### May 4,2019 - [Event Details](https://reps.mozilla.org/e/common-voice-sprint-mvit-bangalore/)
+
+# About
+
+## Common Voice 100 hours sprint
+### April 22 - May 5
 
 > Mozilla's Common Voice is the project that aims to unlock and open the voice ecosystem. It needs **YOUR** help to advance English voice collection and get to the next level. In order for a language to be usable by speech recognition engines we need at least 2000 hours of voice collected from at least 1000 diverse people, and we think communities are the only ones that can enable this diversity.
 
