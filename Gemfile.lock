@@ -253,7 +253,6 @@ DEPENDENCIES
   jekyll-archives
   jekyll-feed
   jekyll-paginate
-  jekyll-remote-theme
   jekyll-seo-tag
   jekyll-sitemap
 

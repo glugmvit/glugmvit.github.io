@@ -45,7 +45,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-  - jekyll-remote-theme
         
 # Archives
 jekyll-archives:
