@@ -2,9 +2,10 @@
 layout: post
 title : "Mozilla Voice Sprint 2019"
 author: sunchit
-excerpt: Common Voice Sprint
 categories: [OpenSource, Mozilla]
 image: assets/images/mozilla.jpg
+featured: true
+excerpt: Common Voice Sprint
 ---
 
 ## Common Voice Sprint - MVIT, Bangalore
