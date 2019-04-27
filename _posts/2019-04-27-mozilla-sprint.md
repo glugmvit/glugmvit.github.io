@@ -2,9 +2,10 @@
 layout: post
 title : "Mozilla Voice Sprint 2019"
 author: sunchit
-excerpt: Common Voice Sprint
 categories: [OpenSource, Mozilla]
 image: assets/images/mozilla.jpg
+featured: true
+excerpt: We join hands with Mozilla Reps Bangalore to conduct the Common Voice 100 hours sprint, contributing to Mozilla's Common Voice project.
 ---
 
 ## Common Voice Sprint - MVIT, Bangalore

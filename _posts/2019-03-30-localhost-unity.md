@@ -4,7 +4,7 @@ title:  "MLH Localhost: Game Development with Unity 3D"
 author: absingh
 categories: [ Unity, Windows, C# ]
 image: assets/images/1.jpg
-featured: true
+featured: false
 excerpt: Our experience with hosting MLH Localhost at Sir M. Visvesvaraya Institute of Technology, Bangalore, in association with Microsoft and Subway.
 ---
 On Saturday, 30th March 2019, we hosted our first ever MLH Localhost: Game Development with Unity 3D, powered by Microsoft and Subway. [MLH Localhost](https://localhost.mlh.io/) events are free, out-of-the-box workshops covering today's most relevant technology so you can share knowledge with your community, spend less time on content, and learn as you go.
