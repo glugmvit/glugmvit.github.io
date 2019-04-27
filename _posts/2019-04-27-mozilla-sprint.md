@@ -40,6 +40,8 @@ So you’re planning to go big and host a big event? We have you covered! Check 
 - [Contribute to Common Voice](https://www.facebook.com/events/630686270735977/) - Palestine
 - [Codebridge Pretoria and Mozilla Common Voice](https://www.meetup.com/Codebridge-Pretoria/events/260759551/) - South Africa
 
+![Contribute](/assets/images/mozillarob.jpg)
+
  
 
 
