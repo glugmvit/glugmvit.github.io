@@ -16,7 +16,7 @@ authors:
   absingh:
     name: Abhijeet Singh
     display_name: Abhijeet Singh
-    gravatar: "assets/images/gravatar/abhijeet-singh.png"
+    gravatar: "/assets/images/gravatar/abhijeet-singh.png"
     email: contact.abhijeetsingh@gmail.com
     web: https://www.absingh.com
     twitter: https://twitter.com/cse_as
