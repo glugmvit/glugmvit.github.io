@@ -15,7 +15,7 @@ On Saturday, 30th March 2019, we hosted our first ever MLH Localhost: Game Devel
 
 ![](/assets/images/unity3d/poster.jpg)
 
-# Requirements/Prerequisites:
+# Prerequisites
 Participants need to be able to install the Unity engine on their computers. While no background knowledge is required, familiarity with any scripted language (C, Java, etc.) will be beneficial for participation in this workshop.
 
 **System Requirements**: MacOS, Linux, or Windows 8 or higher
