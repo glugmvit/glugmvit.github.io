@@ -5,7 +5,7 @@ author: sunchit
 categories: [OpenSource, Mozilla]
 image: assets/images/mozilla.jpg
 featured: true
-excerpt: We join hands with Mozilla Reps Bangalore to conduct and be a part of the Common Voice 100 hours sprint, contributing to Mozilla's Common Voice project.
+excerpt: We join hands with Mozilla Reps Bangalore to conduct the Common Voice 100 hours sprint, contributing to Mozilla's Common Voice project.
 ---
 
 ## Common Voice Sprint - MVIT, Bangalore
