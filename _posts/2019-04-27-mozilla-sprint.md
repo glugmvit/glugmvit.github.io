@@ -10,6 +10,8 @@ image: assets/images/mozilla.jpg
 ## Common Voice Sprint - MVIT, Bangalore
 ### May 4,2019 - [Event Details](https://reps.mozilla.org/e/common-voice-sprint-mvit-bangalore/)
 
+________________________________________________________________________________________________________________________________________
+
 # About
 
 ## Common Voice 100 hours sprint
