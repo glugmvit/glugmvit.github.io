@@ -40,31 +40,6 @@ Participants need to be able to install the Unity engine on their computers. Whi
 
 # Agenda
 
-<style type="text/css">
-table {
-	font-family: verdana,arial,sans-serif;
-	font-size:11px;
-	color:#333333;
-	border-width: 1px;
-	border-color: #666666;
-	border-collapse: collapse;
-}
-table th {
-	border-width: 1px;
-	padding: 8px;
-	border-style: solid;
-	border-color: #666666;
-	background-color: #dedede;
-}
-table td {
-	border-width: 1px;
-	padding: 8px;
-	border-style: solid;
-	border-color: #666666;
-	background-color: #ffffff;
-}
-</style>
-
 | No. | Session | Time | Speaker |
 |-----|---------|------|---------|
 |  1. | Opening keynote  | 09:30 - 09:40  | Abhijeet Singh |
