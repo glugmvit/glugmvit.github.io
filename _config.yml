@@ -45,6 +45,14 @@ authors:
     web: https://euno257.github.io
     twitter: https://twitter.com/Hersh257
     description: "Web Developer, Machine Learning Enthusiast, Tech Speaker"
+  sunchit:
+    name: Sunchit Lakhanpal
+    display_name: Sunchit Lakhanpal
+    gravatar: "3c3e0937721eb2d94f0773ad23c18e03?d=robohash"
+    email: lakhanpalsunchit8@gmail.com
+    web: https://sunchit17.github.io
+    twitter: https://twitter.com/SLakhanpal17
+    description: "Android & Flutter Developer| Machine Learning Enthusiast"
 
 # Plugins
 plugins: 
