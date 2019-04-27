@@ -16,7 +16,7 @@ authors:
   absingh:
     name: Abhijeet Singh
     display_name: Abhijeet Singh
-    gravatar: "/assets/images/gravatar/abhijeet-singh.png"
+    gravatar: "/assets/images/avatar/absingh.png"
     email: contact.abhijeetsingh@gmail.com
     web: https://www.absingh.com
     twitter: https://twitter.com/cse_as
@@ -24,7 +24,7 @@ authors:
   vipul:
     name: Vipul Gaurav
     display_name: Vipul Gaurav
-    gravatar: "3c3e0937721eb2d94f0773ad23c18e03?d=robohash"
+    gravatar: "/assets/images/avatar/absingh.png"
     email: vgaurav3011@gmail.com
     web: https://www.linkedin.com/in/vipul-gaurav/
     twitter: https://twitter.com/username
@@ -32,7 +32,7 @@ authors:
   vhr:
     name: Veeresh H R
     display_name: Veeresh H R
-    gravatar: "3c3e0937721eb2d94f0773ad23c18e03?d=robohash"
+    gravatar: "/assets/images/avatar/absingh.png"
     email: veereshhr121@gmail.com
     web: https://vhr121.github.io/
     twitter: https://twitter.com/vhr121
@@ -40,7 +40,7 @@ authors:
   harsh:
     name: Harsh Gahlot
     display_name: Harsh Gahlot
-    gravatar: "609075465595e233f1e062f70a76566b"
+    gravatar: "https://www.gravatar.com/avatar/609075465595e233f1e062f70a76566b?s=250&d=mm&r=x"
     email: harshghlt25@gmail.com
     web: https://euno257.github.io
     twitter: https://twitter.com/Hersh257
@@ -48,7 +48,7 @@ authors:
   sunchit:
     name: Sunchit Lakhanpal
     display_name: Sunchit Lakhanpal
-    gravatar: "a9b01bf4da44670301874b50f8245eca"
+    gravatar: "https://www.gravatar.com/avatar/a9b01bf4da44670301874b50f8245eca?s=250&d=mm&r=x"
     email: lakhanpalsunchit8@gmail.com
     web: https://sunchit17.github.io
     twitter: https://twitter.com/SLakhanpal17
