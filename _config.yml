@@ -5,7 +5,6 @@ description: "Community of FOSS developers from Sir M. Visvesvaraya Institute of
 meta_description: "Technical community at Sir MVIT, Bangalore"
 logo: 'assets/images/logo_full_rect.png'
 favicon: 'assets/images/favicon.ico'
-paginate: 12
 baseurl: '/'
 email: 'glugmvit@gmail.com'
 # google_analytics: 'UA-46278016-1'
@@ -47,6 +46,10 @@ jekyll-archives:
   permalinks:
     category: '/category/:name/'
     
-# Other
+# Conversion
 markdown: kramdown
 highlighter: rouge
+
+# Output
+permalink: /:categories/:title/
+paginate: 5
