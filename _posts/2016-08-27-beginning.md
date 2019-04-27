@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Starting GNU Linux Users Group Sir MVIT"
+title:  "Starting GNU Linux Users Group"
 author: vhr
 categories: [ GLUG, FSMK ]
 image: assets/images/5.jpg
-excerpt: The inception of this Club for free software enthusiasts called GLUG (GNU Linux Users Group)
+excerpt: The inception of this Club for Free Software enthusiasts, called GLUG (GNU Linux Users Group).
 ---
 
 **“Libre Not Gratis”**, free as in freedom of speech and not as in free beer, a freedom to use, understand, modify and share the software. The freedoms that I really care for made me to take up this initiative of creating a Club called GLUG MVIT at our college.
@@ -13,12 +13,12 @@ excerpt: The inception of this Club for free software enthusiasts called GLUG (G
 
 # Background
 
-To start with our college had many other clubs like Developer Students Club, Mozilla Club etc., But lacked a club that would support, teach and promote free software. Even though more than 80% of the software that is being used by the tech industries today are basically free software’s like python, MongoDB, Django to name a few. During the FSMK Camp-16 Mr. Rakesh had given me the brief overview about GLUG and encouraged me to start up a GLUG in our college too.
-Once the camp was over I didn’t stop there, the real journey began from then on, I met various people and student friends from various places and started speaking about free software. This continued in our college also, I met many juniors who were really interested in free software and wanted to be the part of this new culture. So the foundation for GLUG MVIT was almost ready. Once I had the required human resources the next very important thing is guidance, FSMK has been very supportive thought this journey starting from motivating me until monitoring such that all the events go on very smoothly. So as directed by Mr. Rakesh we planned to have a official inauguration of GLUG MVIT on 17 August 2016.
+To start with our college had many other clubs like Developer Students Club, Mozilla Club, etc. But lacked a club that would support, teach and promote free software. Even though more than 80% of the software that is being used by the tech industries today are basically free softwares like Python, MongoDB, and Django to name a few. During the FSMK Camp-16, Mr. Rakesh had given me the brief overview about GLUG and encouraged me to start up a GLUG in our college too.
+Once the camp was over, I didn’t stop there. The real journey began from there onwards. I met various people and student friends from various places and started speaking about free software. This continued in our college also. I met many juniors who were really interested in free software and wanted to be the part of this new culture. So the foundation for GLUG MVIT was almost ready. Once I had the required human resources, the next very important thing is guidance. FSMK has been very supportive thought this journey starting from motivating me until monitoring such that all the events go on very smoothly. So as directed by Mr. Rakesh we planned to have a official inauguration of GLUG MVIT on 17 August 2016.
 
 # Action Plan
 
-So the basic action plan was almost ready and the next step was to put this plan into force. So I met our HOD Prof. Dilip K Sen, and the way he supported me to take up this venture was mind boggling, he assured me to give full support and necessary help in bring this club to life and sustaining it in the long run. I should not forget to mention the support from the principal, staffs and management of SIR MVIT in all our endeavours. Mrs. Shella S Kathavathe, Associate professor CSE department was more than happy to help us by being the faculty in charge for this club.
+So the basic action plan was almost ready and the next step was to put this plan into force. So I met our HOD Prof. Dilip K Sen, and the way he supported me to take up this venture was mind boggling. He assured me to give full support and necessary help in bring this club to life and sustaining it in the long run. I should not forget to mention the support from the principal, staff and management of Sir MVIT in all our endeavours. Mrs. Sheela S. Kathavathe, Associate Professor, CSE department, was more than happy to help us by being the faculty in charge for this club.
 
 The next task was to organise the group of core members of GLUG MVIT team, so I started going to each classes and spoke about the club and asked for volunteers. The response was overwhelming, and got around 10 volunteers who were really interested to be the pillars of this club. So each of them took the responsibility of a task ranging from poster design to advertisement.
 
