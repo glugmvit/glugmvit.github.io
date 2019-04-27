@@ -18,15 +18,7 @@ permalink: "/authors-list.html"
             <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
             <div class="excerpt">{{ author[1].description }}</div>
             </a>
-            <small class="d-block text-muted">
-            In <span class="catlist">
-            {% if author.post %}
-            {% for category in post.categories %}
-            <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/authors-list/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-            {% endfor %}
-            {% endif %}
-            </span>
-            </small>
+            
             <div class="icon-block mt-3 d-flex justify-content-between">
             <div>
             <a target="_blank" href="{{ author[1].twitter }}"><i class="fa fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
