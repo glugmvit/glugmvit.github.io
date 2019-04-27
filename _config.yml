@@ -5,7 +5,7 @@ description: "Community of FOSS developers from Sir M. Visvesvaraya Institute of
 meta_description: "Technical community at Sir MVIT, Bangalore"
 logo: 'assets/images/logo_full_rect.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/'
+baseurl:
 email: 'glugmvit@gmail.com'
 # google_analytics: 'UA-46278016-1'
 disqus: 'glugmvit'
@@ -29,6 +29,14 @@ authors:
     web: https://www.linkedin.com/in/vipul-gaurav/
     twitter: https://twitter.com/username
     description: "MLH representative and Smart India Hackathon winner 2019"
+  vhr:
+    name: Veeresh H R
+    display_name: Veeresh H R
+    gravatar: "3c3e0937721eb2d94f0773ad23c18e03?d=robohash"
+    email: veereshhr121@gmail.com
+    web: https://vhr121.github.io/
+    twitter: https://twitter.com/vhr121
+    description: "Machine Learning Engineer, Full stack Developer, Tech Speaker, FOSS Enthusiast, Traveller and Biker. Founder of GLUG MVIT."
 
 # Plugins
 plugins: 
@@ -53,3 +61,6 @@ highlighter: rouge
 # Output
 permalink: /:title/
 paginate: 6
+
+sass:
+    sass_dir: _sass
