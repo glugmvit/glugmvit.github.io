@@ -104,7 +104,7 @@ highlighter: rouge
 
 # Output
 permalink: /:title/
-paginate: 6
+paginate: 8
 
 sass:
     sass_dir: _sass
