@@ -45,14 +45,22 @@ authors:
     web: https://sunchit17.github.io
     twitter: https://twitter.com/SLakhanpal17
     description: "Java | Android | Flutter | Django Developer | Tech Speaker"
+  srishti:
+    name: Srishti Nema
+    display_name: Srishti Nema
+    gravatar: "/assets/images/avatar/srishti.jpeg"
+    email: srishtinema.0699@gmail.com
+    web: https://www.linkedin.com/in/srishti-nema-909954182/
+    twitter: https://github.com/srishti-nema
+    description: "Web Developer | Problem Solver | Filled with Ideas"
   masoomi:
     name: Masoomi Saxena
     display_name: Masoomi Saxena
-    gravatar: "https://www.gravatar.com/avatar/a9b01bf4da44670301874b50f8245eca?s=250&d=mm&r=x"
-    email: lakhanpalsunchit8@gmail.com
-    web: https://sunchit17.github.io
-    twitter: https://twitter.com/SLakhanpal17
-    description: "Java | Android | Flutter | Django Developer | Tech Speaker"
+    gravatar: "https://www.gravatar.com/avatar/a9b01bf4da44670301874b"
+    email:
+    web: 
+    twitter: 
+    description:
   vipul:
     name: Vipul Gaurav
     display_name: Vipul Gaurav
