@@ -8,7 +8,7 @@ featured: true
 mathjax: false
 excerpt: A Machine Learning implementation in Python to recognise faces in input images.
 ---
->**Machine learning** - one of the most common buzzword in tech nowadays, is surely going to make our life simpler and easier in future.With increasing applications of face recognition,a popular sub-domain of computer vision, the technological world is getting more secure.A facial recognition system is a technology capable of identifying or verifying a person from a digital image or a video frame from a video source.The usage of face-recognition is going to increase rapidly with time and many tech giants like Facebook and Apple are already using it.In this context,a workshop called "Machine Learning using Python-Concept of Facial recognition " was conducted by GLUG MVIT on <---the date---> for the students of second and third year.This was an amazing way of getting the students understand the basics of Face recognition.The following topics were covered:
+>**Machine learning** - one of the most common buzzword in tech nowadays, is surely going to make our life simpler and easier in future.With increasing applications of face recognition,a popular sub-domain of computer vision, the technological world is getting more secure.A facial recognition system is a technology capable of identifying or verifying a person from a digital image or a video frame from a video source.The usage of face-recognition is going to increase rapidly with time and many tech giants like Facebook and Apple are already using it.In this context,a workshop called "Machine Learning using Python-Concept of Facial recognition " was conducted by GLUG MVIT on 28th April 2019 for the students of second and third year.This was an amazing way of getting the students understand the basics of Face recognition.The following topics were covered:
 
 
 - **Understanding how Face Recognition works**
@@ -68,8 +68,9 @@ Here,faces in pictures will be identified.<img src="https://warehouse-camo.cmh1.
 
 ## Implementation in Python
 
-The code can be studied thoroughly through the following repository<------github link---->.
-Just try to understand the code and go through the folder structure.You can run it in your own system.This would help you understand better.The sections of the code can be referred and the explanation for each block of code is given in the next section.
+The code can be studied thoroughly.Just try to understand the code and go through the folder structure.You can run it in your own system.This would help you understand better.The sections of the code can be referred and the explanation for each block of code is given in the next section.
+
+![](/assets/images/face_rec/whole.png)
 
 ## Understanding the code
 
@@ -77,13 +78,27 @@ You need to follow the blocks of code in order to understand the explanation giv
 
 1. The first three lines of code show the various libraries which are imported for the purpose.The **os** library is for getting the images in data set and the **face_recognition** library is used to implement the algorithm.
 
+![](/assets/images/face_rec/pic1.png)
+
 2. The next two lines give the path of all images present in the images directory.After writing these lines,an array "images" is formed containing all the images which are present in the images directory.The **listdir()** method of the os library is used for this purpose.
+
+![](/assets/images/face_rec/pic2.png)
+
 
 3. The image which is to be matched is loaded in the following two lines.The **load_image_file()**  method does this.The parameter is usually the name or path of the input image.
 
+![](/assets/images/face_rec/pic3.png)
+
+
 4. The next three lines of code tell you how to encode these images into a feature vector.For this,a face_recognition method called  **face_encodings()** is used.The parameters for this can be RGB values or numbers to specify the attributes which make up the feature vector. 
 
+![](/assets/images/face_rec/pic4.png)
+
+
 5. The rest of the lines of code navigate through all the images and check each image of the data set with the input image with every iteration if the for loop.A method **compare_faces()** is used for this.The if condition is used to display the message "matched" or "not matched" along with the name of the image.
+
+![](/assets/images/face_rec/pic5.png)
+
 
 Yay!! You can now design your own models taking various sets of data.There are a various other methods inside the face_recognition library which can be used for various purposes. 
 
@@ -106,6 +121,7 @@ If our model does much better on the training set than on the test set, then weâ
 - Early stopping 
 - Regularisation 
 - Ensembling
+
 These concepts are out of scope of this tutorial and can be looked up on other resources.
 
 ## Applications of Facial Recognition systems
@@ -123,7 +139,8 @@ These concepts are out of scope of this tutorial and can be looked up on other r
   1. Improvement of security level
   2. High accuracy
   3. Fully automated
--Disadvantages
+
+- Disadvantages
   1. Processing and Storage of data
   2. Image quality
   3. Bad angle of picture or camera
