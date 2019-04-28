@@ -32,7 +32,7 @@ It tells us how often A happens given that B happens, written P(A/B), when we kn
 
 ## Training a Naive Bayes model to identify the author of an email or document
 In this demo, we use a set of emails or documents that were written by two different individuals. The purpose is to train a Naive Bayes model to be able to predict who wrote a document/email, given the words used in it.
-The GitHub repo with files is **[here](https://github.com/ayushianan)**.
+The GitHub repo with files is **[here](https://github.com/ayushianan/email_classifier)**.
 
 ## 1. Load the data
 The first section of the script loads the data.As usual, we split the data into train and test sets using the Scikit-learn method `sklearn.model_selection.train_test_split`.
