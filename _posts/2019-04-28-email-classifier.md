@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ML classification model for emails"
+title:  "Machine Learning: Email classification"
 author: ayushi
 categories: [ machine learning, python ]
 image: assets/images/classifier/machine-learning1.png
