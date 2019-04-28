@@ -16,7 +16,7 @@ authors:
   absingh:
     name: Abhijeet Singh
     display_name: Abhijeet Singh
-    gravatar: "/assets/images/avatar/absingh.png"
+    gravatar: "https://www.gravatar.com/avatar/a737e0e0b617487e706c406b0b80ef5d?s=250&d=mm&r=x"
     email: contact.abhijeetsingh@gmail.com
     web: https://www.absingh.com
     twitter: https://twitter.com/cse_as
@@ -24,7 +24,7 @@ authors:
   vipul:
     name: Vipul Gaurav
     display_name: Vipul Gaurav
-    gravatar: "/assets/images/avatar/absingh.png"
+    gravatar: "/assets/images/avatar/vipul.jpeg"
     email: vgaurav3011@gmail.com
     web: https://www.linkedin.com/in/vipul-gaurav/
     twitter: https://twitter.com/username
@@ -32,7 +32,7 @@ authors:
   vhr:
     name: Veeresh H R
     display_name: Veeresh H R
-    gravatar: "/assets/images/avatar/absingh.png"
+    gravatar: "/assets/images/avatar/vhr.jpeg"
     email: veereshhr121@gmail.com
     web: https://vhr121.github.io/
     twitter: https://twitter.com/vhr121
@@ -44,7 +44,7 @@ authors:
     email: harshghlt25@gmail.com
     web: https://euno257.github.io
     twitter: https://twitter.com/Hersh257
-    description: "Web Developer, Machine Learning Enthusiast, Tech Speaker"
+    description: "Web Developer | Machine Learning Developer | Tech Speaker"
   sunchit:
     name: Sunchit Lakhanpal
     display_name: Sunchit Lakhanpal
@@ -52,7 +52,7 @@ authors:
     email: lakhanpalsunchit8@gmail.com
     web: https://sunchit17.github.io
     twitter: https://twitter.com/SLakhanpal17
-    description: "Android & Flutter Developer| Machine Learning Enthusiast"
+    description: "Java | Android | Flutter | Django Developer | Tech Speaker"
   ayushi:
     name: Ayushi
     display_name: Ayushi
@@ -61,7 +61,17 @@ authors:
     web: https://ayushianan.github.io
     twitter: https://twitter.com/Ayushi21084272
     description: "Web Developer, Machine Learning Engineer, Tech Speaker"
-
+  masoomi:
+    name: Masoomi Saxena
+    display_name: Masoomi Saxena
+    gravatar: "https://www.gravatar.com/avatar/a9b01bf4da44670301874b50f8245eca?s=250&d=mm&r=x"
+    email: lakhanpalsunchit8@gmail.com
+    web: https://sunchit17.github.io
+    twitter: https://twitter.com/SLakhanpal17
+    description: "Java | Android | Flutter | Django Developer | Tech Speaker"
+# Reading Files
+include:
+- _pages
 # Plugins
 plugins:
   - jekyll-paginate
@@ -69,6 +79,15 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
 
 # Archives
 jekyll-archives:
