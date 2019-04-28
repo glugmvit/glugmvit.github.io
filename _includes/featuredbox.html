@@ -14,7 +14,8 @@
                 <h2 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
                 <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:25 }}</h4>
                 <div class="metafooter">
-                    <div class="wrapfooter">
+                  <span> </span>
+                  <div class="wrapfooter">
                         {% if post.author %}
                         <span class="meta-footer-thumb">
                         <img class="author-thumb" src="{{ author.gravatar }}" alt="{{ author.display_name }}">
@@ -22,18 +23,11 @@
                         <span class="author-meta">
                         <span class="post-name"><a target="_blank" href="{{ author.web }}">{{ author.display_name }}</a></span><br/>
                         {% endif %}
-                        <small class="d-block text-muted">
-                        In <span class="catlist">
-                        {% for category in post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                        {% endfor %}
-                        </span>
-                        </small>
                         <span class="post-date">{{ post.date | date_to_string }}</span>
                         </span>
                         <span class="post-read-more"><a href="{{ post.url | absolute_url }}" title="Read Story"><i class="fa fa-link"></i></a></span>
                         <div class="clearfix"></div>
-                    </div>
+                        </div>
                 </div>
             </div>
         </div>

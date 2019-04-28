@@ -53,6 +53,14 @@ authors:
     web: https://sunchit17.github.io
     twitter: https://twitter.com/SLakhanpal17
     description: "Android & Flutter Developer| Machine Learning Enthusiast"
+  ayushi:
+    name: Ayushi
+    display_name: Ayushi
+    gravatar: "/assets/images/avatar/ayushi.png"
+    email: ayushi2712@gmail.com
+    web: https://ayushianan.github.io
+    twitter: https://twitter.com/Ayushi21084272
+    description: "Web Developer, Machine Learning Engineer, Tech Speaker"
 
 # Plugins
 plugins:
