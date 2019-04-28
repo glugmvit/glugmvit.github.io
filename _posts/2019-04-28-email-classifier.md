@@ -5,6 +5,7 @@ author: ayushi
 categories: [ machine learning, python ]
 image: assets/images/classifier/machine-learning1.png
 featured: true
+mathjax: true
 excerpt: A Machine Learning model to classify emails according to author names using Naive Bayes Classifier
 ---
 ## The fundamental rule that Naive Bayes uses: Bayes Theorem
