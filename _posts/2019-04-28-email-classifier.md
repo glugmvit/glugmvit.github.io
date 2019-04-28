@@ -15,10 +15,10 @@ It tells us how often A happens given that B happens, written P(A/B), when we kn
 
 ![](/assets/images/classifier/formula.png)
 
-- P(A/B) = P(B/A) * P(A) / P(B) where A and B are events and P(B) != 0
-- P(A/B) is a conditional probability: the likelihood of event A occurring given that B is true.
-- P(B/A) is also a conditional probability: the likelihood of event B occurring given that A is true.
-- P(A) and P(B) are the probabilities of observing A and B independently of each other. This is known as the marginal probability.
+- Here $A$ and $B$ are events and $P(B) \neq 0$
+- $P(A/B)$ is a conditional probability: the likelihood of event $A$ occurring given that $B$ is true.
+- $P(B/A)$ is also a conditional probability: the likelihood of event $B$ occurring given that $A$ is true.
+- $P(A)$ and $P(B)$ are the probabilities of observing $A$ and $B$ independently of each other. This is known as the marginal probability.
 
 ## Prerequisites
 1. Install Python
