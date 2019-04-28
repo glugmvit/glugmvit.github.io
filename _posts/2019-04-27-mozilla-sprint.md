@@ -2,8 +2,8 @@
 layout: post
 title : "Mozilla Voice Sprint 2019"
 author: sunchit
-categories: [OpenSource, Mozilla]
-image: assets/images/mozilla.jpg
+categories: [ glug, mozilla ]
+image: assets/images/mozilla/mozilla.jpg
 featured: true
 excerpt: We join hands with Mozilla Reps Bangalore to conduct the Common Voice 100 hours sprint, contributing to Mozilla's Common Voice project.
 ---
@@ -48,7 +48,7 @@ So you’re planning to go big and host a big event? We have you covered! Check 
 - [Contribute to Common Voice](https://www.facebook.com/events/630686270735977/) - Palestine
 - [Codebridge Pretoria and Mozilla Common Voice](https://www.meetup.com/Codebridge-Pretoria/events/260759551/) - South Africa
 
-![Contribute](/assets/images/mozillarob.jpg)
+![Contribute](/assets/images/mozilla/mozillarob.jpg)
 
  
 

@@ -16,27 +16,19 @@ authors:
   absingh:
     name: Abhijeet Singh
     display_name: Abhijeet Singh
-    gravatar: "/assets/images/avatar/absingh.png"
+    gravatar: "https://www.gravatar.com/avatar/a737e0e0b617487e706c406b0b80ef5d?s=250&d=mm&r=x"
     email: contact.abhijeetsingh@gmail.com
     web: https://www.absingh.com
     twitter: https://twitter.com/cse_as
     description: "Neighbourhood friendly Software Engineer. GLUG Lead | Microsoft Student Partner | AI Developer"
-  vipul:
-    name: Vipul Gaurav
-    display_name: Vipul Gaurav
-    gravatar: "/assets/images/avatar/vipul.jpeg"
-    email: vgaurav3011@gmail.com
-    web: https://www.linkedin.com/in/vipul-gaurav/
-    twitter: https://twitter.com/username
-    description: "MLH representative and Smart India Hackathon winner 2019"
-  vhr:
-    name: Veeresh H R
-    display_name: Veeresh H R
-    gravatar: "/assets/images/avatar/vhr.jpeg"
-    email: veereshhr121@gmail.com
-    web: https://vhr121.github.io/
-    twitter: https://twitter.com/vhr121
-    description: "Machine Learning Engineer, Full stack Developer, Tech Speaker, FOSS Enthusiast, Traveller and Biker. Founder of GLUG MVIT."
+  ayushi:
+    name: Ayushi
+    display_name: Ayushi
+    gravatar: "/assets/images/avatar/ayushi.jpg"
+    email: ayushi2712@gmail.com
+    web: https://ayushianan.github.io
+    twitter: https://twitter.com/Ayushi21084272
+    description: "Web Developer, Machine Learning Engineer, Tech Speaker"
   harsh:
     name: Harsh Gahlot
     display_name: Harsh Gahlot
@@ -53,15 +45,42 @@ authors:
     web: https://sunchit17.github.io
     twitter: https://twitter.com/SLakhanpal17
     description: "Java | Android | Flutter | Django Developer | Tech Speaker"
+  srishti:
+    name: Srishti Nema
+    display_name: Srishti Nema
+    gravatar: "/assets/images/avatar/srishti.jpeg"
+    email: srishtinema.0699@gmail.com
+    web: https://www.linkedin.com/in/srishti-nema-909954182/
+    twitter: https://github.com/srishti-nema
+    description: "Web Developer | Problem Solver | Filled with Ideas"
   masoomi:
     name: Masoomi Saxena
     display_name: Masoomi Saxena
-    gravatar: "https://www.gravatar.com/avatar/a9b01bf4da44670301874b50f8245eca?s=250&d=mm&r=x"
-    email: lakhanpalsunchit8@gmail.com
-    web: https://sunchit17.github.io
-    twitter: https://twitter.com/SLakhanpal17
-    description: "Java | Android | Flutter | Django Developer | Tech Speaker"
+    gravatar: "https://www.gravatar.com/avatar/a9b01bf4da44670301874b"
+    email:
+    web: 
+    twitter: 
+    description:
+  vipul:
+    name: Vipul Gaurav
+    display_name: Vipul Gaurav
+    gravatar: "/assets/images/avatar/vipul.jpeg"
+    email: vgaurav3011@gmail.com
+    web: https://www.linkedin.com/in/vipul-gaurav/
+    twitter: https://twitter.com/username
+    description: "MLH representative and Smart India Hackathon winner 2019"
+  vhr:
+    name: Veeresh H R
+    display_name: Veeresh H R
+    gravatar: "/assets/images/avatar/vhr.jpeg"
+    email: veereshhr121@gmail.com
+    web: https://vhr121.github.io/
+    twitter: https://twitter.com/vhr121
+    description: "Machine Learning Engineer, Full stack Developer, Tech Speaker, FOSS Enthusiast, Traveller and Biker. Founder of GLUG MVIT."
 
+# Reading Files
+include:
+- _pages
 # Plugins
 plugins:
   - jekyll-paginate
@@ -69,6 +88,15 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
 
 # Archives
 jekyll-archives:
@@ -84,7 +112,7 @@ highlighter: rouge
 
 # Output
 permalink: /:title/
-paginate: 6
+paginate: 8
 
 sass:
     sass_dir: _sass
