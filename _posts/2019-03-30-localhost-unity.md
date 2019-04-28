@@ -2,7 +2,7 @@
 layout: post
 title:  "MLH Localhost: Game Development with Unity 3D"
 author: absingh
-categories: [ Unity, Windows, C# ]
+categories: [ glug, microsoft ]
 image: assets/images/1.jpg
 featured: false
 excerpt: Our experience with hosting MLH Localhost at Sir M. Visvesvaraya Institute of Technology, Bangalore, in association with Microsoft and Subway.

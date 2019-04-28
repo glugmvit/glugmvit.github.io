@@ -2,7 +2,7 @@
 layout: post
 title:  "Tree of Codes"
 author: masoomi
-categories: [ Jekyll, tutorial ]
+categories: [ glug, hackathon ]
 image: assets/images/2.jpg
 ---
 <!-- Add your post in Markdown below this line -->
