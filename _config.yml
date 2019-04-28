@@ -53,6 +53,14 @@ authors:
     web: https://sunchit17.github.io
     twitter: https://twitter.com/SLakhanpal17
     description: "Java | Android | Flutter | Django Developer | Tech Speaker"
+  ayushi:
+    name: Ayushi
+    display_name: Ayushi
+    gravatar: "/assets/images/avatar/ayushi.png"
+    email: ayushi2712@gmail.com
+    web: https://ayushianan.github.io
+    twitter: https://twitter.com/Ayushi21084272
+    description: "Web Developer, Machine Learning Engineer, Tech Speaker"
   masoomi:
     name: Masoomi Saxena
     display_name: Masoomi Saxena
@@ -61,11 +69,9 @@ authors:
     web: https://sunchit17.github.io
     twitter: https://twitter.com/SLakhanpal17
     description: "Java | Android | Flutter | Django Developer | Tech Speaker"
-
 # Reading Files
 include:
-  - _pages
-
+- _pages
 # Plugins
 plugins:
   - jekyll-paginate
