@@ -1,10 +1,13 @@
 ---
 layout: post
-categories: [ Machine_learning, Face_recognition]
-title: Facial Recognition 
+categories: [ machine learning, python ]
+title: Facial Recognition with Python
+image: "https://techqoon.net/wp-content/uploads/2019/02/Facial-Recognition-750x421.jpg"
+author: srishti
+featured: true
+mathjax: false
+excerpt: A Machine Learning implementation in Python to recognise faces in input images.
 ---
-<img src="https://techqoon.net/wp-content/uploads/2019/02/Facial-Recognition-750x421.jpg">
-
 >**Machine learning** - one of the most common buzzword in tech nowadays, is surely going to make our life simpler and easier in future.With increasing applications of face recognition,a popular sub-domain of computer vision, the technological world is getting more secure.A facial recognition system is a technology capable of identifying or verifying a person from a digital image or a video frame from a video source.The usage of face-recognition is going to increase rapidly with time and many tech giants like Facebook and Apple are already using it.In this context,a workshop called "Machine Learning using Python-Concept of Facial recognition " was conducted by GLUG MVIT on <---the date---> for the students of second and third year.This was an amazing way of getting the students understand the basics of Face recognition.The following topics were covered:
 
 
