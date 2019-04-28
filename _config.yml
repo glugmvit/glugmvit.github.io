@@ -62,6 +62,10 @@ authors:
     twitter: https://twitter.com/SLakhanpal17
     description: "Java | Android | Flutter | Django Developer | Tech Speaker"
 
+# Reading Files
+include:
+  - _pages
+
 # Plugins
 plugins:
   - jekyll-paginate
