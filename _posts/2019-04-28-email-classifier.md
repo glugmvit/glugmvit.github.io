@@ -30,7 +30,7 @@ It tells us how often A happens given that B happens, written P(A/B), when we kn
 **Sklearn** in Python provides a simple interface to implement popular machine learning algorithms like Naive Bayes.
 
 ## Training a Naive Bayes model to identify the author of an email or document
-In this,we use a set of emails or documents that were written by two different individuals. The purpose is to train a Naive Bayes model to be able to predict who wrote a document/email, given the words used in it.
+In this demo, we use a set of emails or documents that were written by two different individuals. The purpose is to train a Naive Bayes model to be able to predict who wrote a document/email, given the words used in it.
 The GitHub repo with files is **[here](https://github.com/ayushianan)**.
 
 ## 1. Load the data
