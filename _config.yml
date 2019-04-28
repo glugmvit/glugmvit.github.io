@@ -69,7 +69,8 @@ authors:
     web: https://sunchit17.github.io
     twitter: https://twitter.com/SLakhanpal17
     description: "Java | Android | Flutter | Django Developer | Tech Speaker"
-# Reading Files
+
+    # Reading Files
 include:
 - _pages
 # Plugins
