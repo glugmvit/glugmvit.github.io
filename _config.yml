@@ -70,6 +70,15 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
 
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+
 # Archives
 jekyll-archives:
   enabled:
