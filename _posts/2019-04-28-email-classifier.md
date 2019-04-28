@@ -27,14 +27,14 @@ It tells us how often A happens given that B happens, written P(A/B), when we kn
 4. Install numpy: `pip install numpy`
 5. Install SciPy: `pip install scipy`
 
-**Sklearn** in python provides ready to use popular machine learning algorithm like Naive Bayes.
+**Sklearn** in Python provides a simple interface to implement popular machine learning algorithms like Naive Bayes.
 
 ## Training a Naive Bayes model to identify the author of an email or document
 In this,we use a set of emails or documents that were written by two different individuals. The purpose is to train a Naive Bayes model to be able to predict who wrote a document/email, given the words used in it.
-The github repo with files is **[here](https://github.com/ayushianan)**.
+The GitHub repo with files is **[here](https://github.com/ayushianan)**.
 
 ## 1. Load the data
-The first section of the script loads the data.As usual, we split the data into train and test sets using the Scikit-learn method sklearn.model_selection.train_test_split.
+The first section of the script loads the data.As usual, we split the data into train and test sets using the Scikit-learn method `sklearn.model_selection.train_test_split`.
 
 ![](/assets/images/classifier/data.png)
 
