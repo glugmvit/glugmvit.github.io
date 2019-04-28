@@ -8,4 +8,6 @@
 	"syntax"
 ;
 
-// p { overflow-x: scroll; }
+@media only screen 
+and (max-device-width: 600px)
+{ p { overflow-x: scroll; } }
