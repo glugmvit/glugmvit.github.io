@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Object Detection using python's ImageAI library"
+title:  "Object Recognition using python's ImageAI library"
 author: harsh
 categories: [ Deep Learning, Computer Vision, Image Recognition ]
 image: assets/images/objdetect/mainobj.jpg
@@ -16,7 +16,7 @@ With the rise and popularity of deep learning algorithms, there has been impress
 
 
 # Downloads
-<p>To start performing object detection, you must download the RetinaNet, YOLOv3 or TinyYOLOv3 object detection model via the links below:</p>
+<p>To start performing object Recognition and detection, you must download the RetinaNet, YOLOv3 or TinyYOLOv3 object detection model via the links below:</p>
 
 - [RetinaNet](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5) (Size = 145 mb, high performance and accuracy, with longer detection time)
 - [YOLOv3](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5)(Size = 237 mb, moderate performance and accuracy, with a moderate detection time)
