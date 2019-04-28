@@ -2,7 +2,7 @@
 layout: post
 categories: [ machine learning, python ]
 title: Facial Recognition with Python
-image: "https://techqoon.net/wp-content/uploads/2019/02/Facial-Recognition-750x421.jpg"
+image: https://techqoon.net/wp-content/uploads/2019/02/Facial-Recognition-750x421.jpg
 author: srishti
 featured: true
 mathjax: false
