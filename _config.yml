@@ -21,22 +21,14 @@ authors:
     web: https://www.absingh.com
     twitter: https://twitter.com/cse_as
     description: "Neighbourhood friendly Software Engineer. GLUG Lead | Microsoft Student Partner | AI Developer"
-  vipul:
-    name: Vipul Gaurav
-    display_name: Vipul Gaurav
-    gravatar: "/assets/images/avatar/vipul.jpeg"
-    email: vgaurav3011@gmail.com
-    web: https://www.linkedin.com/in/vipul-gaurav/
-    twitter: https://twitter.com/username
-    description: "MLH representative and Smart India Hackathon winner 2019"
-  vhr:
-    name: Veeresh H R
-    display_name: Veeresh H R
-    gravatar: "/assets/images/avatar/vhr.jpeg"
-    email: veereshhr121@gmail.com
-    web: https://vhr121.github.io/
-    twitter: https://twitter.com/vhr121
-    description: "Machine Learning Engineer, Full stack Developer, Tech Speaker, FOSS Enthusiast, Traveller and Biker. Founder of GLUG MVIT."
+  ayushi:
+    name: Ayushi
+    display_name: Ayushi
+    gravatar: "/assets/images/avatar/ayushi.png"
+    email: ayushi2712@gmail.com
+    web: https://ayushianan.github.io
+    twitter: https://twitter.com/Ayushi21084272
+    description: "Web Developer, Machine Learning Engineer, Tech Speaker"
   harsh:
     name: Harsh Gahlot
     display_name: Harsh Gahlot
@@ -53,14 +45,6 @@ authors:
     web: https://sunchit17.github.io
     twitter: https://twitter.com/SLakhanpal17
     description: "Java | Android | Flutter | Django Developer | Tech Speaker"
-  ayushi:
-    name: Ayushi
-    display_name: Ayushi
-    gravatar: "/assets/images/avatar/ayushi.png"
-    email: ayushi2712@gmail.com
-    web: https://ayushianan.github.io
-    twitter: https://twitter.com/Ayushi21084272
-    description: "Web Developer, Machine Learning Engineer, Tech Speaker"
   masoomi:
     name: Masoomi Saxena
     display_name: Masoomi Saxena
@@ -69,8 +53,24 @@ authors:
     web: https://sunchit17.github.io
     twitter: https://twitter.com/SLakhanpal17
     description: "Java | Android | Flutter | Django Developer | Tech Speaker"
+  vipul:
+    name: Vipul Gaurav
+    display_name: Vipul Gaurav
+    gravatar: "/assets/images/avatar/vipul.jpeg"
+    email: vgaurav3011@gmail.com
+    web: https://www.linkedin.com/in/vipul-gaurav/
+    twitter: https://twitter.com/username
+    description: "MLH representative and Smart India Hackathon winner 2019"
+  vhr:
+    name: Veeresh H R
+    display_name: Veeresh H R
+    gravatar: "/assets/images/avatar/vhr.jpeg"
+    email: veereshhr121@gmail.com
+    web: https://vhr121.github.io/
+    twitter: https://twitter.com/vhr121
+    description: "Machine Learning Engineer, Full stack Developer, Tech Speaker, FOSS Enthusiast, Traveller and Biker. Founder of GLUG MVIT."
 
-    # Reading Files
+# Reading Files
 include:
 - _pages
 # Plugins

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Markdown Example"
-author: vipul
+author: absingh
 categories: [ markdown, tutorial ]
 image: assets/images/6.jpg
 ---
