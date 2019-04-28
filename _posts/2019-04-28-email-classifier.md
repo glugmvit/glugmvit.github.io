@@ -9,7 +9,7 @@ mathjax: true
 excerpt: A Machine Learning model to classify emails according to author names using Naive Bayes Classifier
 ---
 ## The fundamental rule that Naive Bayes uses: Bayes Theorem
-Naive Bayes is a supervised classification technique based on Bayes' Theorem with an assumption of independence among predictors. That is, a Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature.
+Naive Bayes is a [supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) classification technique based on Bayes' Theorem with an assumption of independence among predictors. That is, a Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature.
 It is a popular technique for text categorization, judging documents as belonging to one category or the other (such as spam or legitimate, sports or politics, etc.) with word frequencies as features.
 
 It tells us how often A happens given that B happens, written P(A/B), when we know how often B happens given that A happens, written P(B/A) , and how likely A and B are on their own.
