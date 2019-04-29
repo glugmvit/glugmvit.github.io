@@ -77,6 +77,14 @@ authors:
     web: https://vhr121.github.io/
     twitter: https://twitter.com/vhr121
     description: "Machine Learning Engineer, Full stack Developer, Tech Speaker, FOSS Enthusiast, Traveller and Biker. Founder of GLUG MVIT."
+  sharjil:
+    name: Sharjil Ahmed
+    display_name: Sharjil Ahmed
+    gravatar: "/assets/images/avatar/patrick.jpg"
+    email: 
+    web: 
+    twitter: 
+    description: 
 
 # Reading Files
 include:
