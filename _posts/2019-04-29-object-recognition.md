@@ -5,7 +5,7 @@ author: harsh
 categories: [ Deep Learning, Computer Vision ]
 image: assets/images/objdetect/mainobj.jpg
 featured: true
-excerpt: ImageAI is Python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities.
+excerpt: ImageAI is Python library built to empower developers to build applications with self-contained Computer Vision capabilities.
 ---
 With the rise and popularity of deep learning algorithms, there has been impressive progress in the field of Artificial Intelligence, especially in Computer Vision.
 
