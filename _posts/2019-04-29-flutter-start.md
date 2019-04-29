@@ -90,8 +90,9 @@ Now there is the app itself, which is named **MyApp** which extends a StatelessW
 
 There are two basic types of widgets:
 
-1.Stateful Widgets
-2.Stateless Widgets
+1. Stateful Widgets  
+
+2. Stateless Widgets
 
 Simply put, if a page is static with non-changing information, make it a **Stateless Widget**. If anything on a page needs the capability to change, make it a **Stateful Widget**. The main app itself is a Stateless Widget. The above applies for pages inside the app.
 
