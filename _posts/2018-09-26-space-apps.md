@@ -193,6 +193,6 @@ The event came to an end with valedictory and closing keynote.
 
 ### Future Development:
 
-* To create a community to ensure that students learn about       technology and build up their ideas to solve real time          problems.
-* To support the students selected to the next round of Space     Apps hackathon by providing relevant mentors and technical      experts.
-* To support innovations in the community from layman and young    students.
+- To create a community to ensure that students learn about technology and build up their ideas to solve real time problems.
+- To support the students selected to the next round of Space Apps hackathon by providing relevant mentors and technical experts.
+- To support innovations in the community from layman and young students.
