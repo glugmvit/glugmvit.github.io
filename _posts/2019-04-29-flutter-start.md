@@ -31,9 +31,7 @@ Here we want to create a Flutter Application, which is a complete app runnable o
 
 All packages are listed on [pub.dartlang.org](https://pub.dartlang.org/).  
 
-_Click Next to Continue_.
-
-Moving On...
+_Click Next to Continue_.  
 
 Choose Flutter from the side menu and make sure your SDK Path is correct and refers to the location where you downloaded the Flutter SDK
 
