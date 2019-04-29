@@ -35,7 +35,8 @@ categories: [ Glug, Hackathon, NASA, Space Apps ]
    * Mrs. Rekha B.N (Associate Professor)
    * Mrs. Sushila Shindal (Assistant Professor)
        
-### FACULTY COORDINATORS:
+### FACULTY COORDINATORS:  
+
    | Name                       |    Name                       |
    |----------------------------|-------------------------------|
    | Dr. Suma Swamy             |      Mr. Ravi Kumar H.R       |
@@ -43,9 +44,9 @@ categories: [ Glug, Hackathon, NASA, Space Apps ]
    | Mr. Srinivas B.C           |      Mr. Narendra Babu C      |
    | Mrs. Pallavi R             |      Ms. Dhivya V             |
    | Mrs. Sowjaanya Lakshmi     |      Mrs. Supriya H.S         |
-   | Mrs. Ajina A               |      Mrs. Sapna R            |
+   | Mrs. Ajina A               |      Mrs. Sapna R             |
    | Mr. Revanasiddappa B.Bandi |      Mrs. Monika Rani H.G     |
-   | Mr. Elaiyaraja P           |      Mrs. Savithri R         |
+   | Mr. Elaiyaraja P           |      Mrs. Savithri R          |
    | Mrs. Savitha P             |      Mrs. Nethra              |
    | Mrs. Mayuri K.P            |      Mr. Manjunath            |
    | Mrs. Savithri C            |      Mr. Venkata Raju         |
