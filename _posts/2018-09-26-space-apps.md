@@ -61,7 +61,7 @@ The International Space Apps Challenge is a hackathon that happens world wide wi
 
 ![](/assets/images/nasa3.jpeg)
 
-**Number of Participants**: 86
+**Number of Participants**: 86  
 **Number of Teams Registered**: 22
 
 ## DAY 1:
