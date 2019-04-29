@@ -40,7 +40,7 @@ The event was organized by the *Computer Science & Engineering Department* of [S
 # About the speakers
 
 - [Sushen Kumar]()  
-    Nice guy
+    Founder of Statosphere.io
 
 - [Vipul Gaurav](https://www.linkedin.com/in/vipul-gaurav/)  
     MLH representative and Smart India Hackathon winner 2019
