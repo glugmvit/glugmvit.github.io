@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "NASA Space Apps Challenges"
-author: Masoomi Saxena
+title:  "NASA Space Apps Challenge"
+author: masoomi
 categories: [ Glug, Hackathon ]
-image: assets/images/2.jpg
+image: assets/images/nasa/logo.jpg
+excerpt: We conducted the NASA Space Apps Challenge 2018 Regional Round for Karnataka at Sir M. Visvesvaraya Institute of Technology, Bangalore.
 ---
 <!-- Add your post in Markdown below this line -->
 ## Concept 
@@ -195,23 +196,3 @@ The event came to an end with valedictory and closing keynote.
 * To create a community to ensure that students learn about       technology and build up their ideas to solve real time          problems.
 * To support the students selected to the next round of Space     Apps hackathon by providing relevant mentors and technical      experts.
 * To support innovations in the community from layman and young    students.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-Here how to reference an image:
-
-![](/assets/images/nasa/logo.jpg)
