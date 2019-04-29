@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NASA Space Apps Challenge"
-author: Masoomi Saxena
+author: masoomi
 categories: [ Glug, Hackathon, NASA, Space Apps ]
 ---
 <!-- Add your post in Markdown below this line -->
