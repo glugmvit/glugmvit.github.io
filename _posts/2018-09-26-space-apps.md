@@ -36,7 +36,8 @@ categories: [ Glug, Hackathon, NASA, Space Apps ]
    * Mrs. Sushila Shindal (Assistant Professor)
        
 ### FACULTY COORDINATORS:
-
+   | Name                       |    Name                       |
+   |----------------------------|-------------------------------|
    | Dr. Suma Swamy             |      Mr. Ravi Kumar H.R       |
    | Mrs. Sheela Kathavate      |      Mrs. Mohammadi Kousar    | 
    | Mr. Srinivas B.C           |      Mr. Narendra Babu C      |
