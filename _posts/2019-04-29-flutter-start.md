@@ -4,6 +4,7 @@ title: Building your First Flutter App
 excerpt: Article focused on cross-platform app development on Google's Flutter Framework
 image: assets/images/start_flutter/flutter_head.png
 author: sunchit
+featured: true
 categories: [Flutter,App Dev]
 ---
 
