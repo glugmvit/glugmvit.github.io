@@ -68,14 +68,14 @@ categories: [ Glug, Hackathon, NASA, Space Apps ]
    * The Earth and Us
    * Planetary builders
 
-![](/assets/nasaimg/nasa3.jpeg)
+![](/assets/images/nasa3.jpeg)
 
 ## Number of Participants: 86
 ## Number of Teams Registered: 22
 
 ## DAY 1:
 
-![](/assets/nasaimg/nasa2.jpeg)
+![](/assets/images/nasa2.jpeg)
 
 
 The day began with registrations at the CS Seminar hall, which was followed by an invocation.
@@ -161,7 +161,7 @@ Around 4:00 pm, the first session of the hackathon came to an end
 * To support innovations in the community from layman and young    students.
 
 
-![](/assets/nasaimg/nasa4.jpeg)
+![](/assets/images/nasa4.jpeg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/61ob9GDEdLc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
 
