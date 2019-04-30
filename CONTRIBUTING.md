@@ -1,8 +1,3 @@
----
-layout: post
-title: How to Contribute?
----
-
 >Want to learn or add something and feeling left out? No worries.This post is for people like you.We would like to have maximum participation from people to make this site a massive success.We at GLUG MVIT, believe that there should not be any barriers on learning new skills and sharing knowledge.So, this is a guide to running and contributing to the code of this website and adding a new blog post.This will help all the aspiring authors and programming beginners to contribute and grow.
 
 This is a website built with **Jekyll**, a fantastic website generator that’s designed for building minimal, static blogs to be hosted on **GitHub Pages**.Jekyll takes your content written in **Markdown**, passes it through your templates and spits it out as a complete static website, ready to be served. GitHub Pages conveniently serves the website directly from your GitHub repository so that you don’t have to deal with any hosting.
@@ -20,7 +15,7 @@ You need to follow certain steps before making any changes to the code or adding
  
  2. Liquid template tags are used to execute loops and conditional statements and to output content.Liquid markup uses double curly braces to output content. The two common template tags are page.title and content(enclosed in double curly braces), which output the title and content of the blog post.Single curly braces and modules are used for conditionals and loops and for displaying includes.
 
- 3. Layouts of a page are templates that wrap around your content.There is no front matter to the HTML files,just content is replaced with content variable.You can add images to the _images folder and you can also make use of preprocessor support.Advanced features of Jekyll includes the concept of Data files(in YAML and JSON) form which can be used to store datasets.Collections can be used to define your own document types in Jekyll.
+ 3. Layouts of a page are templates that wrap around your content.There is no front matter to the HTML files,just content is replaced with content variable.You can add images to the _images folder and you can also make use of preprocessor support. Advanced features of Jekyll includes the concept of Data files(in YAML and JSON) form which can be used to store datasets.Collections can be used to define your own document types in Jekyll.
 
  To gain insight,you can refer to [Jekyll tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) 
 
@@ -84,12 +79,3 @@ For everyone who have made changes and want to see their site running,you can fo
      * Click “Commit to gh-pages” in the lower left.
      * After the commit has completed, click “Sync” in the upper right.
      * Allow 10-90 seconds for your changes to reach GitHub’s web servers, then visit your   website and refresh the page to see your changes live.
-
-
-
-
-
-  
-
-
-
