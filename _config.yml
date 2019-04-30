@@ -105,14 +105,18 @@ whitelist:
   - jekyll-seo-tag
   - jekyll-archives
 
+# GitHub Pages compatible archive
+category_archive:
+  type: liquid
+  path: /category/
 
 # Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
+# jekyll-archives:
+#   enabled:
+#     - categories
+#   layout: archive
+#   permalinks:
+#     category: '/category/:name/'
 
 # Conversion
 markdown: kramdown
