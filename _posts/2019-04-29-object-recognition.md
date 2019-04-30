@@ -94,10 +94,17 @@ Above code is used to connect Google Drive with Colab for downloading input imag
 ![](/assets/images/objdetect/result.png)
 
 ```py
-detections = detector.detectObjectsFromImage(input_image=os.path.join(execution_path , "/content/gdrive/My Drive/objects.jpg"), output_image_path=os.path.join(execution_path , "/content/gdrive/My Drive/output.jpg"), minimum_percentage_probability=30)
+detections = detector.detectObjectsFromImage(
+    input_image=os.path.join(execution_path, 
+        "/content/gdrive/My Drive/objects.jpg"), 
+    output_image_path=os.path.join(execution_path, 
+        "/content/gdrive/My Drive/output.jpg"), 
+        minimum_percentage_probability=30)
 
 for eachObject in detections:
-    print(eachObject["name"] , " : ", eachObject["percentage_probability"], " : ", eachObject["box_points"] )
+    print(eachObject["name"], 
+        " : ", eachObject["percentage_probability"], 
+        " : ", eachObject["box_points"])
 print("--------------------------------")
 ```
 
