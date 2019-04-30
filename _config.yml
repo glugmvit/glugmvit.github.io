@@ -113,15 +113,18 @@ jekyll-archives:
   permalinks:
     category: '/category/:name/'
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-
 # Output
 permalink: /:title/
+
+# Pagination 
 paginate: 10
+paginate_path: /page:num/
 
 # Markdown Processing
+markdown: kramdown
+# Conversion
+highlighter: rouge
+
 kramdown:
   input: GFM
   hard_wrap: false
@@ -131,7 +134,13 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
 sass:
     sass_dir: _sass
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"
