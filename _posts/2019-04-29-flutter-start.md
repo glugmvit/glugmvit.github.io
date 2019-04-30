@@ -98,7 +98,7 @@ Simply put, if a page is static with non-changing information, make it a **State
 
 The **build** method builds the widgets themselves. Think of this as building the layout. In the MyApp class, we return a MaterialApp which is a widget which creates a Material App. These are convenience widgets made by the Flutter team to avoid a lot of extra boilerplate code.
 
-```
+```dart
 return new MaterialApp(
   title: 'Flutter Demo',
   theme: new ThemeData(
@@ -106,7 +106,6 @@ return new MaterialApp(
   ),
   home: new MyHomePage(title: 'Flutter Demo Home Page'),
 );
-
 ```
 
 In the MaterialApp, the title, the theme and the home page is set. If you change the **home:** argument, you will change the first opening page of the app itself.
@@ -123,7 +122,7 @@ A **Scaffold** is a widget which simplifies the addition of things like AppBars 
 
 The body has a Center widget, which simply centres everything inside it on the screen. Inside the center widget, a Column is placed. A column is a linear, vertical arrangement of elements. (Similar to LinearLayout in Android)
 
-```
+```dart
 new Column(
   mainAxisAlignment: MainAxisAlignment.center,
   children: <Widget>[
@@ -136,7 +135,6 @@ new Column(
     ),
   ],
 ),
-
 ```
 
 A column contains an element called children in which all your elements to be vertically arranged are placed. Inside our column is some text for the counter itself.
@@ -153,24 +151,22 @@ To run the app start an emulator first. To start an emulator, select an emulator
 
 This is the app it brings up. Clicking the FloatingActionButton increases the count itself. Now let’s dive into how exactly that happens.
 
-```
+```dart
 floatingActionButton: new FloatingActionButton(
   onPressed: _incrementCounter,
   tooltip: 'Increment',
   child: new Icon(Icons.add),
 ),
-
 ```
 
 The FloatingActionButton has an **onTap** parameter which triggers a function called **_incrementCounter()** .
 
-```
+```dart
 void _incrementCounter() {
   setState(() {
     _counter++;
   });
 }
-
 ```
 
 The increment itself is pretty straightforward. We have a variable called **counter** which stores the number of taps. But what does setState() do?
@@ -187,9 +183,3 @@ This was a lot of information to process, and it’s okay to read it a few more 
 Flutter might seem hard at first because it’s a very sharp change from normal Android/iOS app development, but it simplifies a lot of things that bugged developers before.
 
 _Happy Fluttering_
-
-
-
-
-
-
