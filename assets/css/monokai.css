@@ -1,3 +1,6 @@
+body .gist {
+    font-size: 25px !important;
+}
 body .gist .highlight {
     background: #272822;
 }
