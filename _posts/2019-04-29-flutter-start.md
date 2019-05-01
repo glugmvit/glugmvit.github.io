@@ -177,7 +177,7 @@ The increment itself is pretty straightforward. We have a variable called **coun
 
 This was a lot of information to process, and it’s okay to read it a few more times to completely understand it. Try changing a few values to see how things work.
 
-#### For Android developers: Notice how this system completely removes the need for IDs for views. Any change must be stored in a variable because unlike Java/Kotlin development, the text in a field cannot be fetched any time we want it from the view itself.💫
+##### For Android developers: Notice how this system completely removes the need for IDs for views. Any change must be stored in a variable because unlike Java/Kotlin development, the text in a field cannot be fetched any time we want it from the view itself. 💫
 
 ## Conclusion  
 Flutter might seem hard at first because it’s a very sharp change from normal Android/iOS app development, but it simplifies a lot of things that bugged developers before.
