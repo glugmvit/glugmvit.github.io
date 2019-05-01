@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Object Recognition using Python's ImageAI library"
+title:  "Object Recognition in 20 lines of code with ImageAI"
 author: harsh
 categories: [ Deep Learning, Computer Vision ]
 image: assets/images/objdetect/mainobj.jpg
 featured: true
-excerpt: ImageAI is Python library built to empower developers to build applications with self-contained Computer Vision capabilities.
+excerpt: ImageAI is a Python library built to empower developers to build applications with self-contained Computer Vision capabilities.
 ---
 With the rise and popularity of deep learning algorithms, there has been impressive progress in the field of Artificial Intelligence, especially in Computer Vision.
 
@@ -38,9 +38,11 @@ Before you install ImageAI, you must install the following dependencies.
 10. keras: <code>pip3 install keras</code>
 
 After installing these packages locally, now install **ImageAI** by running the pip command below.
-```sh
+
+```bash
 pip3 install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl
 ```
+
 We will be using **Google Colab** for writing our code. See the whole code on [GitHub](https://github.com/Euno257/Object-detection-using-ImageAI)
 # Adding input
 Add an input image "object.jpg" to the main folder. We'll use the following photo for our demo:
@@ -54,27 +56,28 @@ Create a Python file or Jupyter Notebook (for example, “Predict.ipynb”) and 
 ![](/assets/images/objdetect/imageai.png)
 
 For downloading **YOLOv3** as our object detection model, run the below command in the terminal:
-```sh
+
+```bash
 wget https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5
 ```
 
 # Load Model
 ![](/assets/images/objdetect/loadmodel.png)
 
-```py
+```python
 from imageai.Prediction import ImagePrediction
 import os
 ```
 
 The code above imports the ImageAI ImagePrediction class and the Python os module.
 
-```py
+```python
 execution_path = os.getcwd()
 ```
 
 The above line creates a variable which holds the reference to the path that contains your python file (in this example, `predict.ipynb`) and the YOLOv3 model file.
 
-```py
+```python
 detector = ObjectDetection()
 detector.setModelTypeAsYOLOv3()
 detector.setModelPath( os.path.join(execution_path , "yolo.h5"))
@@ -83,7 +86,7 @@ detector.loadModel()
 
 In the 4 lines above, we created a new instance of the ObjectDetection class in the first line, set the model type to YOLOv3 in the second line, set the model path to the YOLOv3 model file we downloaded and copied to the python file folder in the third line and load the model in the fourth line.
 
-```py
+```python
 from google.colab import drive
 drive.mount('/content/gdrive')
 ```
@@ -93,7 +96,7 @@ Above code is used to connect Google Drive with Colab for downloading input imag
 # Object Detection
 ![](/assets/images/objdetect/result.png)
 
-```py
+```python
 detections = detector.detectObjectsFromImage(
     input_image=os.path.join(execution_path, 
         "/content/gdrive/My Drive/objects.jpg"), 
