@@ -11,3 +11,7 @@
 @media only screen 
 and (max-device-width: 600px)
 { p { overflow-x: scroll; } }
+
+pre {
+	font-size: 15px !important;
+}

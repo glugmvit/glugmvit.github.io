@@ -94,10 +94,17 @@ Above code is used to connect Google Drive with Colab for downloading input imag
 ![](/assets/images/objdetect/result.png)
 
 ```py
-detections = detector.detectObjectsFromImage(input_image=os.path.join(execution_path , "/content/gdrive/My Drive/objects.jpg"), output_image_path=os.path.join(execution_path , "/content/gdrive/My Drive/output.jpg"), minimum_percentage_probability=30)
+detections = detector.detectObjectsFromImage(
+    input_image=os.path.join(execution_path, 
+        "/content/gdrive/My Drive/objects.jpg"), 
+    output_image_path=os.path.join(execution_path, 
+        "/content/gdrive/My Drive/output.jpg"), 
+        minimum_percentage_probability=30)
 
 for eachObject in detections:
-    print(eachObject["name"] , " : ", eachObject["percentage_probability"], " : ", eachObject["box_points"] )
+    print(eachObject["name"], 
+        " : ", eachObject["percentage_probability"], 
+        " : ", eachObject["box_points"])
 print("--------------------------------")
 ```
 
@@ -113,8 +120,6 @@ bicycle  :  97.85240888595581  :  (318, 433, 666, 772)
 person  :  99.87272620201111  :  (2050, 61, 2250, 1203)
 person  :  99.88183975219727  :  (1502, 142, 1728, 751)
 person  :  99.913889169693  :  (1138, 125, 1669, 1421)
---------------------------------
-
 ```
 
 So as the output shows the image consists of **3 persons, 2 cars, 1 bicycle and a handbag**.
