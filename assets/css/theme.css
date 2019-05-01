@@ -30,7 +30,7 @@ pre {
 .mediumnavigation {
 	background: #fff;
         transition: top 0.5s ease-in-out;
-        padding: 1.5rem 1rem;
+        /*padding: 1.5rem 1rem;*/
         box-shadow: 0px 10px 40px 0px rgba( 0, 0, 0, 0.05 );
 }
 .nav-up {box-shadow:none;}
