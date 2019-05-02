@@ -90,12 +90,9 @@ post_class: post-template
 						<img class="author-thumb" src="{{ author.gravatar }}" alt="{{ author.display_name }}">
 					</div>
 					<div class="col-md-10">
-                        <a target="_blank" class="link-dark" href="{{ author.web }}" style="float:left">{{ author.display_name }}</a>
-                        <a target="_blank" href="{{ author.twitter }}" class="btn follow" style="float:left">Follow</a>
-                        <br>
+						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
 						<span class="author-description">{{ author.description }}</span>
-                    
-                    </div>
+					</div>
 				</div>
                 {% endif %}
 

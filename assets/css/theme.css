@@ -228,16 +228,12 @@ section.recent-posts {
 .post-top-meta span {
 	font-size:0.9rem;
 	color:rgba(0,0,0,.44);
-    display:inline-block;
-    float:left;
-    margin-left:0px;
+	display:inline-block;
 }
 .post-top-meta .author-description {
-    margin-left:0px;
 	margin-bottom:5px;
 	margin-top:10px;
-    font-size:0.95rem;
-    float:left;
+	font-size:0.95rem;
 }
 .author-meta {
 	flex:1 1 auto;
