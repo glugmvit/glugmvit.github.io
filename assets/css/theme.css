@@ -235,6 +235,24 @@ section.recent-posts {
 	margin-top:10px;
 	font-size:0.95rem;
 }
+@media (max-width:999px)
+{
+    .post-top-meta .author-description{
+        float:left;
+        margin-bottom: 40px;
+        margin-left: 80px; 
+    }
+    .post-top-meta .link-dark{
+        margin-left:120px;
+        margin-top:0px;
+        margin-bottom: 10px;
+        float: left;
+    }
+    .post-top-meta .btn.follow{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
 .author-meta {
 	flex:1 1 auto;
 	white-space:nowrap!important;
@@ -485,6 +503,7 @@ blockquote {
 }
 @media (max-width:1024px) {
 	.post-top-meta .col-md-10 {
+        float:left;
 		text-align:center;
 	}
 }
@@ -578,6 +597,12 @@ a.btn {color:#fff;}
 	display:inline-block;
         box-shadow: none;
     font-weight:400;
+}
+@media (max-width:1024px)
+{
+    .btn.follow{
+        float: right;
+    }
 }
 .btn.subscribe {
 	background-color:#1C9963;
