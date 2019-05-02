@@ -10,7 +10,7 @@ email: 'glugmvit@gmail.com'
 # google_analytics: 'UA-46278016-1'
 disqus: 'glugmvit'
 # sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
-sharethis: '<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5cca329136d0970012b888ec&product=sticky-share-buttons' async='async'></script>'
+sharethis: "<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5cca329136d0970012b888ec&product=sticky-share-buttons' async='async'></script>"
 
 # Authors
 authors:
