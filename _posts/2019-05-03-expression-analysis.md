@@ -68,7 +68,7 @@ img = cv2.imread(path, 0)
 ## How well our model is performing?
 ![](/assets/images/expression/training.png)
 - Construct a new gradient descent optimizer.
-- **tf.Session()** initiates a TensorFlow Graph object in which tensors are processed through operations. Also, a session contains variables, global variables, placeholders and ops. These have to be initiated once the session is created. Hence we call `sess.run(tf.global_variables_initializer())`.
+- **tf.Session()** initiates a TensorFlow Graph object in which tensors are processed through operations. Also, a session contains variables, global variables, placeholders and ops. These have to be initiated once the session is created. Hence we call `sess.run( tf.global_variables_initializer() )`.
 - Calculate loss and accuracy.
 
 ## 4. Prediction
