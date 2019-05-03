@@ -38,6 +38,7 @@
 
 <!-- Begin Menu Navigation
 ================================================== -->
+
 <header class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation">
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsWow" aria-controls="navbarsWow" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -52,16 +53,21 @@
 
         <!-- Begin Menu -->
         <div class="collapse navbar-collapse" id="navbarsWow">
+            <div class="dropdown navbar-item ml-auto">
+                <button class="btn btn-secondary dropdown-toggle active" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="fas fa-search" aria-hidden="true"></i>
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
+                    <input class="form-control form-control-sm w-75" id="search-input" type="text" placeholder="Search" aria-label="Search">
+                    <ul id="results-container" class="pagination dropdown-item"></ul>
+                </div>
+            </div>
 
             <!-- Begin Menu -->
             <ul class="navbar-nav ml-auto">
 
                 <li class="nav-item">
-                <a class="nav-link" href="https://www.glugmvit.com/">Home</a>
-                </li>
-
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+                <a class="nav-link" href="{{ site.baseurl }}/index.html">Home</a>
                 </li>
 
                 <li class="nav-item dropdown">
@@ -91,6 +97,27 @@
 
             </ul>
             <!-- End Menu -->
+
+
+            <!-- Search Box
+            ================================================== -->
+            <!-- HTML elements for search -->
+            
+
+            
+            
+ 
+            <!-- script pointing to jekyll-search.js -->
+            <script src="{{ site.baseurl }}/simple-jekyll-search.min.js"></script>
+            <!-- Configuration -->
+            <script>
+            SimpleJekyllSearch({
+              searchInput: document.getElementById('search-input'),
+              resultsContainer: document.getElementById('results-container'),
+              json: '/search.json'
+            })
+            </script>
+
 
         </div>
     </div>
