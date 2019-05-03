@@ -9,9 +9,9 @@ excerpt: We join hands with Mozilla Reps Bangalore to conduct the Common Voice 1
 ---
 We are conducting Common Voice Sprint at Sir MVIT, Bangalore, in association with Mozilla Reps.
 
-**Register**: http://www.glugmvit.com/
+**Register**: <http://www.glugmvit.com/>
 
-**Event**: https://reps.mozilla.org/e/common-voice-sprint-mvit-bangalore/
+**Event**: <https://reps.mozilla.org/e/common-voice-sprint-mvit-bangalore/>
 
 **Date**: May 4, 2019 (Saturday)
 
