@@ -7,9 +7,17 @@ image: assets/images/mozilla/mozilla.jpg
 featured: true
 excerpt: We join hands with Mozilla Reps Bangalore to conduct the Common Voice 100 hours sprint, contributing to Mozilla's Common Voice project.
 ---
+We are conducting Common Voice Sprint at Sir MVIT, Bangalore, in association with Mozilla Reps.
 
-## Common Voice Sprint - MVIT, Bangalore
-### May 4, 2019 - [Event Details](https://reps.mozilla.org/e/common-voice-sprint-mvit-bangalore/)
+**Register**: http://www.glugmvit.com/
+
+**Event**: https://reps.mozilla.org/e/common-voice-sprint-mvit-bangalore/
+
+**Date**: May 4, 2019 (Saturday)
+
+**Time**: 10:15 AM
+
+**Venue**: Lab 107, Admin Block
 
 ---
 
