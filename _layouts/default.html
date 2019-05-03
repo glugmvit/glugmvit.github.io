@@ -8,11 +8,13 @@
     <title>{{ page.title }} | {{site.name}}</title>
     {% seo %}
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cabin:700|Lora:400" rel="stylesheet">
     <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
-    <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
     <link href="{{ site.baseurl }}/assets/css/table.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
 
     {{site.sharethis}}
 
@@ -31,7 +33,7 @@
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
-<body class="{{ layout }}">
+<body class="{{ layout }} line-numbers">
 
 
 <!-- Begin Menu Navigation
@@ -55,7 +57,11 @@
             <ul class="navbar-nav ml-auto">
 
                 <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Home</a>
+                <a class="nav-link" href="https://www.glugmvit.com/">Home</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
                 </li>
 
                 <li class="nav-item dropdown">
@@ -66,9 +72,9 @@
                     </div>
                 </li>
 
-                <!-- <li class="nav-item"> -->
-                    <!-- <a class="nav-link" href="{{ site.baseurl }}/about">About</a> -->
-                <!-- </li> -->
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+                </li>
 
                 <li class="nav-item">
                     <a class="nav-link" href="{{ site.baseurl }}/contact">Contact</a>
@@ -132,11 +138,11 @@
                 </div>
                 <div class="col-md-4 text-right footersocial">
                     <h5>Connect with Us</h5>
-                    <a href="https://www.facebook.com/groups/193504514397500/"><i class="fa fa-facebook"></i></a>
-                    <a href="#"><i class="fa fa-twitter"></i></a>
-                    <a href="#"><i class="fa fa-google"></i></a>
-                    <a href="#"><i class="fa fa-pinterest"></i></a>
-                    <a href="https://github.com/glugmv"><i class="fa fa-github"></i></a>
+                    <a href="https://www.facebook.com/groups/193504514397500/"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://gitter.im/glugmvit/community"><i class="fab fa-gitter"></i></a>
+                    <a href="https://www.linkedin.com/company/glugmvit/"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="mailto:glugmvit@gmail.com"><i class="fas fa-envelope"></i></a>
+                    <a href="https://github.com/glugmv"><i class="fab fa-github"></i></a>
                 </div>
             </div>
         </div>
@@ -165,7 +171,7 @@
                 <li><a target="_blank" href="https://www.absingh.com/cs101/">Intro to Computer Science</a></li>
                 <li><a target="blank" href="https://github.com/glugmv">GitHub</a></li>
                 <li><a target="blank" href="https://developers.google.com/speed/pagespeed/insights/?url=blog.glugmvit.com">Page Speed Test</a></li>
-                <li><a target="blank" href="#">Partner with Us</a></li>
+                <li><a target="blank" href="{{ site.baseurl }}/contact/">Partner with Us</a></li>
                 <li><a target="blank" href="https://github.com/glugmv">Our Projects</a></li>
                 </ul>
                 </div>
@@ -175,29 +181,29 @@
                 <div class="footer-widget">
                 <h5 class="title">The Team</h5>
                 <ul>
-                <li><a href="#">About Us</a></li>
-                <li><a target="_blank" href="#">Partners</a></li>
-                <li><a href="https://github.com/GlugMVIT/glugmvit.github.io/blob/master/LICENSE">License</a></li>
-                <li><a href="https://blog.glugmvit.com">Blog</a></li>
-                <li><a href="https://www.glugmvit.com/contact/">Contact</a></li>
+                <li><a href="{{ site.baseurl }}/about">About Us</a></li>
+                <li><a target="_blank" href="https://studentpartners.microsoft.com/">Partners</a></li>
+                <li><a href="{{ site.baseurl }}/authors">Authors</a></li>
+                <li><a href="{{ site.baseurl }}/developers">Developers</a></li>
+                <li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
                 </ul>
                 </div>
                 </div>
 
                 <div class="col-sm-3">
                 <div class="footer-widget textwidget">
-                    <h5 class="title">About</h5>
-                    <p>We are a community of open source enthusiasts and developers. If you have a question, or if you simply want to say hi, <a href="mailto:glugmvit@gmail.com">contact us here</a>.</p>
+                    <h5 class="title">Get in touch</h5>
+                    <p>We are a community of open source enthusiasts and developers. If you have a question, or if you simply want to say hi, <a href="{{ site.baseurl }}/contact/">contact us here</a>.</p>
                     <p>Found a bug?<br><a href="https://github.com/glugmvit/glugmvit.github.io">Report it or fix it</a></p>
                 </div>
                 </div>
             </div>
 
             <div class="copyright">
-                <p class="pull-left">
+                <p class="float-left">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }}.
                 </p>
-                <p class="pull-right">
+                <p class="float-right">
                 <a target="_blank" href="http://www.sirmvit.edu/">Sir M. Visvesvaraya Institute of Technology, Bangalore</a>
                 </p>
                 <div class="clearfix"></div>
@@ -221,11 +227,16 @@
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
 
+{% if site.lazyimages == "enabled" %}
+<script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
+{% endif %}
+
 <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
 
 <script type='text/javascript' src='{{ site.baseurl }}/assets/js/masonry.pkgd.min.js'></script>
 
 <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+<script src="{{ site.baseurl }}/assets/js/prism.js"></script>
 
 </body>
 

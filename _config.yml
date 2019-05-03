@@ -9,7 +9,8 @@ baseurl:
 email: 'glugmvit@gmail.com'
 # google_analytics: 'UA-46278016-1'
 disqus: 'glugmvit'
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+# sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+sharethis: "<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5cca329136d0970012b888ec&product=sticky-share-buttons' async='async'></script>"
 
 # Authors
 authors:
@@ -56,11 +57,11 @@ authors:
   masoomi:
     name: Masoomi Saxena
     display_name: Masoomi Saxena
-    gravatar: "https://www.gravatar.com/avatar/a9b01bf4da44670301874b"
-    email:
-    web: 
-    twitter: 
-    description:
+    gravatar: "https://secure.gravatar.com/avatar/12225806f6a4dec7c55e5d2ea227137a?s=250&d=mm&r=x"
+    email: masoomi.saxena99@gmail.com
+    web: https://www.linkedin.com/in/masoomi-saxena-372b84172
+    twitter: https://www.linkedin.com/in/masoomi-saxena-372b84172
+    description: "Java | Web developer | Blogger"
   vipul:
     name: Vipul Gaurav
     display_name: Vipul Gaurav
@@ -77,6 +78,14 @@ authors:
     web: https://vhr121.github.io/
     twitter: https://twitter.com/vhr121
     description: "Machine Learning Engineer, Full stack Developer, Tech Speaker, FOSS Enthusiast, Traveller and Biker. Founder of GLUG MVIT."
+  sharjil:
+    name: Syed Sharjil Ahmed
+    display_name: Sharjil Ahmed
+    gravatar: "/assets/images/avatar/sharjil.jpg"
+    email: syedsharjil@outlook.com
+    web: https://www.linkedin.com/in/syedsharjil/
+    twitter: https://twitter.com/_syedsharjil_
+    description: "Web Developer | Blogger | Chelsea Fanatic"
 
 # Reading Files
 include:
@@ -97,7 +106,6 @@ whitelist:
   - jekyll-seo-tag
   - jekyll-archives
 
-
 # Archives
 jekyll-archives:
   enabled:
@@ -106,13 +114,34 @@ jekyll-archives:
   permalinks:
     category: '/category/:name/'
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-
 # Output
 permalink: /:title/
-paginate: 8
+
+# Pagination 
+paginate: 10
+paginate_path: /page:num/
+
+# Markdown Processing
+markdown: kramdown
+# Conversion
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  entity_output: as_char
+  footnote_nr: 1
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
 sass:
     sass_dir: _sass
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"

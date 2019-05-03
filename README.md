@@ -1,8 +1,8 @@
 # GLUG MVIT Official Blog
 
-[Website](http://www.glugmvit.com/) &nbsp; | &nbsp; [Blog](http://blog.glugmvit.com/) &nbsp; | &nbsp; [LinkedIn](https://in.linkedin.com/company/glugmvit) &nbsp; | &nbsp; [Facebook](https://www.facebook.com/groups/193504514397500/) &nbsp; | &nbsp; [Email](mailto:glugmvit@gmail.com)
+[Website](http://www.glugmvit.com/) &nbsp; | &nbsp; [Blog](http://blog.glugmvit.com/) &nbsp; | &nbsp; [LinkedIn](https://in.linkedin.com/company/glugmvit) &nbsp; | &nbsp; [Facebook](https://www.facebook.com/groups/193504514397500/) &nbsp; | &nbsp; [Email](mailto:glugmvit@gmail.com) &nbsp; | &nbsp; [Gitter](https://gitter.im/glugmvit/community)
 
-![affiliates](assets/images/logo_full_rect.png)
+![](assets/images/logo_full_rect.png)
 
 ### Copyright
 
