@@ -53,9 +53,9 @@ The event was organized by the *Computer Science & Engineering Department* of [S
 **Hosted by**: Dr. G. C. Banu Prakash (Professor and Head)  
 
 **Faculty coordinators**:
-- Mrs Sushila Shidnal (Associate Professor, Dept. of CSE)
-- Mrs Savita Choudhary (Associate Professor, Dept. of CSE)
 - Mrs Sheela Kathavate (Associate Professor, Dept. of CSE)
+- Mrs Savita Choudhary (Associate Professor, Dept. of CSE)
+- Mrs Sushila Shidnal (Associate Professor, Dept. of CSE)
 
 **Student coordinators**:
 - [Abhijeet Singh](http://absingh.com), 1MV16CS001 (Microsoft Student Partner & Lead, GLUG MVIT)
