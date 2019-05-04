@@ -15,12 +15,12 @@ On Saturday, 30th March 2019, we hosted our first ever MLH Localhost: Game Devel
 **Topics**: Game Development for Windows, Unity 3D, C#  
 **No. of participants**: 150
 
-# Prerequisites
+## Prerequisites
 Participants need to be able to install the Unity engine on their computers. While no background knowledge is required, familiarity with any scripted language (C, Java, etc.) will be beneficial for participation in this workshop.
 
 **System Requirements**: MacOS, Linux, or Windows 8 or higher
 
-# Agenda
+## Agenda
 
 | No. | Session | Time | Speaker |
 |-----|---------|------|---------|
@@ -33,11 +33,11 @@ Participants need to be able to install the Unity engine on their computers. Whi
 |  7. | Closing keynote | 12:15 - 12:30 | Abhijeet Singh |
   
 
-# The event
+## The event
 
 The event was organized by the *Computer Science & Engineering Department* of [Sir M. Visvesvaraya Institute of Technology, Bangalore](http://sirmvit.edu). The event began with an invocation keynote after which the technical sessions started. The event was sponsored by MLH, Microsoft, and Subway. Students were given a starter code with bugs for a 3D car racing game using Unity 3D. The aim of the workshop was to explain the workflow of Unity 3D for Windows Desktop game development and solve the bugs in the code to complete and play the game. The event ended with a closing keynote and a group photograph after which the audience was dispersed.
 
-# About the speakers
+## About the speakers
 
 - [Sushen Kumar]()  
     Founder of Statosphere.io
@@ -48,7 +48,7 @@ The event was organized by the *Computer Science & Engineering Department* of [S
 - [Abhijeet Singh](http://absingh.com/)  
     A Microsoft Student Partner, AI developer, open source contributor, and low-key memelord.
 
-# Organizers
+## Organizers
 **Hosting Department**: Department of Computer Science and Engineering  
 **Hosted by**: Dr. G. C. Banu Prakash (Professor and Head)  
 
