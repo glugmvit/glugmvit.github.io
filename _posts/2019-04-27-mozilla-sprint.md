@@ -15,7 +15,7 @@ We conducted Common Voice Sprint at Sir MVIT, Bangalore, in association with Moz
 **Time**: 10:15 AM - 12:30 PM  
 **Venue**: Lab 107, Admin Block  
 **Topics**: Mozilla Extensions, Common Voice Project, Open Source Contribution  
-**No. of participants**: 52
+**No. of participants**: 61
 
 ---
 ## About Common Voice 100 hours sprint
