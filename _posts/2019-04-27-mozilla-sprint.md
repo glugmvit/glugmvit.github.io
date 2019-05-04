@@ -12,15 +12,13 @@ We conducted Common Voice Sprint at Sir MVIT, Bangalore, in association with Moz
 **Event**: [https://reps.mozilla.org/e/common-voice-sprint-mvit-bangalore/](https://reps.mozilla.org/e/common-voice-sprint-mvit-bangalore/)
 
 **Date**: May 4, 2019 (Saturday)  
-**Time**: 10:15 AM - 12:30 PM
+**Time**: 10:15 AM - 12:30 PM  
 **Venue**: Lab 107, Admin Block  
 **Topics**: Mozilla Extensions, Common Voice Project, Open Source Contribution  
 **No. of participants**: 52
+
 ---
-
-# About
-
-## Common Voice 100 hours sprint
+## About Common Voice 100 hours sprint
 ### April 22 - May 5
 
 > Mozilla's Common Voice is the project that aims to unlock and open the voice ecosystem. It needs **YOUR** help to advance English voice collection and get to the next level. In order for a language to be usable by speech recognition engines we need at least 2000 hours of voice collected from at least 1000 diverse people, and we think communities are the only ones that can enable this diversity.
@@ -85,3 +83,5 @@ Mozilla's Common Voice is the project that aims to unlock and open the voice eco
 ![](/assets/images/mozilla/IMG_2485.JPG)
 ![](/assets/images/mozilla/IMG_2492.JPG)
 ![](/assets/images/mozilla/IMG_2494.JPG)
+
+The complete photos of the event are available [here](https://drive.google.com/drive/folders/1rfei9NV0lW3lKOaAqk9BNDMRikjUMVWR?usp=sharing).

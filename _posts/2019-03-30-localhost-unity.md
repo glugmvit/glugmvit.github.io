@@ -60,3 +60,13 @@ The event was organized by the *Computer Science & Engineering Department* of [S
 **Student coordinators**:
 - [Abhijeet Singh](http://absingh.com), 1MV16CS001 (Microsoft Student Partner & Lead, GLUG MVIT)
 - [Vipul Gaurav](https://www.linkedin.com/in/vipul-gaurav/), 1MV16CS124 (Co-lead, GLUG MVIT)
+
+## Photos from our event
+
+![](/assets/images/unity3d/IMG_2304.JPG)
+![](/assets/images/unity3d/IMG_2332.JPG)
+![](/assets/images/unity3d/IMG_2338.JPG)
+![](/assets/images/unity3d/IMG_2347.JPG)
+![](/assets/images/unity3d/IMG_2359.JPG)
+![](/assets/images/unity3d/IMG_2395.JPG)
+![](/assets/images/unity3d/IMG_2403.JPG)
