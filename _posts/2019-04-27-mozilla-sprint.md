@@ -4,7 +4,7 @@ title : "Mozilla Voice Sprint 2019"
 author: sunchit
 categories: [ glug, mozilla ]
 image: assets/images/mozilla/mozilla.jpg
-featured: true
+featured: false
 excerpt: We join hands with Mozilla Reps Bangalore to conduct the Common Voice 100 hours sprint, contributing to Mozilla's Common Voice project.
 ---
 We conducted Common Voice Sprint at Sir MVIT, Bangalore, in association with Mozilla Reps.
