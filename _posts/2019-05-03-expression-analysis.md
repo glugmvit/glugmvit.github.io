@@ -55,8 +55,8 @@ img = cv2.imread(path, 0)
 - To build a classification model,split the whole dataset into trainig and test sets.
 >The reason for splitting the dataset — evaluating the performance of classifier on the same set as it has been trained is unfair or poor practice, because we are not interested in how well the classifier memorizes the training set. Rather, we are interested in how well the classifier generalizes its recognition capability to unseen data.
 
-- **Flattening the data**: Also we have to convert our image from 2D to 1D vector since input can be taken as only ! dimension array.
-![](/assets/images/expression/flattened_image.jpg)
+- **Flattening the data**-Also we have to convert our image from 2D to 1D vector since input can be taken as only 1 dimension array.
+![](/assets/images/expression/flattened_image1.jpg)
 
 ## 3. Model Training
 - Building softmax regression model using tensorflow.
