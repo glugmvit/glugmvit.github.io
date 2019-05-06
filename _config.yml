@@ -86,6 +86,14 @@ authors:
     web: https://www.linkedin.com/in/syedsharjil/
     twitter: https://twitter.com/_syedsharjil_
     description: "Web Developer | Blogger | Chelsea Fanatic"
+  shruti:
+    name: Shruti Shukla
+    display_name: Shruti Shukla
+    gravatar: "/assets/images/avatar/shrutiss.jpg"
+    email: shrutiss2511@gmail.com
+    twitter: https://www.linkedin.com/in/shruti-shukla-156b21184
+    web: https://shrutishuk.github.io
+    description: "Web Developer | Problem Solver"
 
 # Reading Files
 include:
@@ -117,7 +125,7 @@ jekyll-archives:
 # Output
 permalink: /:title/
 
-# Pagination 
+# Pagination
 paginate: 12
 paginate_path: /page:num/
 
