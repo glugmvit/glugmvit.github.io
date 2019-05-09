@@ -26,13 +26,6 @@
 |2. [Object Recognition](https://blog.glugmvit.com/object-recognition/)|[*euno257*](https://github.com/Euno257)|
 
 -----------------
-### Copyright
-
-Copyright (C) 2019 GLUG MVIT
-
-**blog.glugmvit.com** is designed and maintained by [GLUG MVIT](https://www.glugmvit.com) and it is licensed [MIT](https://github.com/glugmvit/glugmvit.github.io/blob/master/LICENSE).
-
------------------
 ### Contribute
 
 1. [Fork the repo](https://github.com/glugmvit/glugmvit.github.io).
@@ -43,3 +36,10 @@ Copyright (C) 2019 GLUG MVIT
 Go through our [Contribution Guidelines](https://github.com/glugmvit/glugmvit.github.io/blob/master/CONTRIBUTING.md) for more details on getting started with contributing to this project.
 
 Thank you!
+
+-----------------
+### Copyright
+
+Copyright (C) 2019 GLUG MVIT
+
+**blog.glugmvit.com** is designed and maintained by [GLUG MVIT](https://www.glugmvit.com) and it is licensed [MIT](https://github.com/glugmvit/glugmvit.github.io/blob/master/LICENSE).
