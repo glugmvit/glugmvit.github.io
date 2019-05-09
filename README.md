@@ -25,6 +25,7 @@
 |1. [Introduction](https://blog.glugmvit.com/self-drivivg-cars/)|[*shrutishuk*](https://github.com/shrutishuk)|
 |2. [Object Recognition](https://blog.glugmvit.com/object-recognition/)|[*euno257*](https://github.com/Euno257)|
 
+-----------------
 ### Copyright
 
 Copyright (C) 2019 GLUG MVIT
@@ -32,7 +33,6 @@ Copyright (C) 2019 GLUG MVIT
 **blog.glugmvit.com** is designed and maintained by [GLUG MVIT](https://www.glugmvit.com) and it is licensed [MIT](https://github.com/glugmvit/glugmvit.github.io/blob/master/LICENSE).
 
 -----------------
-
 ### Contribute
 
 1. [Fork the repo](https://github.com/glugmvit/glugmvit.github.io).
