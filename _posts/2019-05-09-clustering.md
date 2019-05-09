@@ -141,4 +141,4 @@ Silhouette Coefficient: 0.016
 
 4. Slow for large number of samples: As this algorithm access each point of the dataset, it becomes slow when the sample size grows.
 
-For code, see the GitHub repository **[here](https://github.com/ayushianan/expression_analysis)**.
+For code, see the GitHub repository **[here](https://github.com/ayushianan/clustering)**.
