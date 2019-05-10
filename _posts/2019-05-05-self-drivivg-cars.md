@@ -4,7 +4,7 @@ title:  "Self Driving Cars: A marvel of technology"
 author: shruti
 categories: [ Deep Learning , Neural networks, Computer Vision ]
 image: assets/images/self_driving/car1.jpg
-featured: true
+featured: false
 mathjax: true
 excerpt: The self-driving car revolution is ramping up. But there are still a few obstacles standing in the way.
 ---

@@ -17,7 +17,8 @@
 #### (B) Deep Learning Series
 |Topic|Author|
 |-|-|
-|1. [Expression Analysis](https://blog.glugmvit.com/expression-analysis/)|[*ayushianan*](https://github.com/ayushianan)|
+|1. [Convolutional Neural Networks](https://blog.glugmvit.com/convolutional-neural-networks/)|[*susmit-a*](https://github.com/susmit-a)|
+|2. [Expression Analysis](https://blog.glugmvit.com/expression-analysis/)|[*ayushianan*](https://github.com/ayushianan)|
 
 #### (C) Self Driving Cars
 |Topic|Author|
