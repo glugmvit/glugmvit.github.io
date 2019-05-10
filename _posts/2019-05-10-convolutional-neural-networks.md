@@ -52,7 +52,7 @@ The gif below shows a 6 pix * 3 pix maxpooling operation with `stride = 3`.
  
 ###### So what do we do now?
  
- One thing about the Deep Learning community - people rather fond of pets. So let's make a CNN that classifies whether a given image is that of a dog or a cat!
+ One thing about the Deep Learning community - people are rather fond of pets. So let's make a CNN that classifies whether a given image is that of a dog or a cat!
  
 ##### Time to get our hands dirty!
  The code below assumes you are working on Google Colab, on a GPU instance. Feel free to set up Tensorflow GPU on your local machine.
@@ -298,7 +298,7 @@ cnn.fit_generator(data_loader, steps_per_epoch=128, epochs=10)
 You may get some errors saying that some image cannot be loaded, or such.
 This may happen if the particular image is corrupt.
 
-In such cases, simple delete the image file with the following line:
+In such cases, simply delete the image file with the following line:
 ```python
 !rm path/to/image
 ```
