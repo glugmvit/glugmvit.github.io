@@ -94,7 +94,14 @@ authors:
     twitter: https://www.linkedin.com/in/shruti-shukla-156b21184
     web: https://shrutishuk.github.io
     description: "Web Developer | Problem Solver"
-
+  susmit:
+    name: Susmit Agrawal
+    display_name: Susmit Agrawal
+    gravatar: "/assets/images/avatar/susmit.jpg"
+    email: susmit.agrawal.dev@gmail.com
+    twitter: https://www.github.com/Susmit-A
+    web: https://www.linkedin.com/in/susmit-agrawal-9b6443149
+    description: "Deep Learning | Android | IoT"
 # Reading Files
 include:
 - _pages
