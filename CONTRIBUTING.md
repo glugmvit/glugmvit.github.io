@@ -25,7 +25,7 @@ You need to follow certain steps before making any changes to the code or adding
 
  3. Layouts of a page are templates that wrap around your content.There is no front matter to the HTML files,just content is replaced with content variable.You can add images to the _images folder and you can also make use of preprocessor support. Advanced features of Jekyll includes the concept of Data files(in YAML and JSON) form which can be used to store datasets.Collections can be used to define your own document types in Jekyll.
 
- To gain insight,you can refer to [Jekyll tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) 
+ To gain insight, you can refer to [Jekyll tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) 
 
 
 ## To add a post:
@@ -86,7 +86,7 @@ For everyone who have made changes and want to see their site running,you can fo
      * After the commit has completed, click “Sync” in the upper right.
      * Allow 10-90 seconds for your changes to reach GitHub’s web servers, then visit your   website and refresh the page to see your changes live.
 
-### Contribute to the code
+## Contribute to the code
 
 If you know how to code, we welcome you to send fixes and new features, but in order to be efficient we ask you to follow the following procedure:
 
