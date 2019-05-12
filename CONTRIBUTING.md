@@ -1,13 +1,21 @@
->Want to learn or add something and feeling left out? No worries.This post is for people like you.We would like to have maximum participation from people to make this site a massive success.We at GLUG MVIT, believe that there should not be any barriers on learning new skills and sharing knowledge.So, this is a guide to running and contributing to the code of this website and adding a new blog post.This will help all the aspiring authors and programming beginners to contribute and grow.
+## Contribute
 
-This is a website built with **Jekyll**, a fantastic website generator that’s designed for building minimal, static blogs to be hosted on **GitHub Pages**.Jekyll takes your content written in **Markdown**, passes it through your templates and spits it out as a complete static website, ready to be served. GitHub Pages conveniently serves the website directly from your GitHub repository so that you don’t have to deal with any hosting.
+You can help this project by authoring a post, reporting problems & suggestions, localizing it or contributing to the code.
+
+### Report a problem or suggestion
+
+Go to our [issue tracker](https://github.com/glugmvit/glugmvit.github.io/issues) and check if your problem/suggestion is already reported. If not, create a new issue with a descriptive title and detail your suggestion or steps to reproduce the problem.
+
+### About the project
+
+This is a website built with **Jekyll**, a website generator that’s designed for building minimal, static blogs to be hosted on **GitHub Pages**. Jekyll takes your content written in **Markdown**, passes it through your templates and produces a complete static website, ready to be served. GitHub Pages conveniently serves the website directly from your GitHub repository so that you don’t have to deal with hosting.
  
 You need to follow certain steps before making any changes to the code or adding any post.The steps are:
    - Install Jekyll locally via the command line.
    - Clone a starting point to your local machine, install Jekyll locally via the command line, make updates to your website, build it locally, and then serve it.
    - Fork a starting point, make changes, and then serve it.
 
-   For the above steps to be done you need to be familiar with git and github.For installations you may go through the following link:(https://jekyllrb.com/docs/)
+   For the above steps to be done you need to be familiar with git and github. For installation, you may go through the following link: (https://jekyllrb.com/docs/)
 
 ## Knowing Jekyll:
 
@@ -48,15 +56,14 @@ Using _Github editor_ :
 
 ## To make changes and create issues:
 
-1. We have made this website in a simple way and any developer can suggest new ideas and make changes accordingly.You can raise issues if you feel that the working of any part in this website is not proper.For simple questions and queries,you can easily connect with us through various social media platforms.Make sure you raise a relevant issue and create a proper pull request and it will definitely be considered.
+1. We have made this website in a simple way and any developer can suggest new ideas and make changes accordingly.You can raise issues if you feel that the working of any part in this website is not proper.For simple questions and queries,you can easily connect with us through various social media platforms. Make sure you raise a relevant issue and create a proper pull request and it will definitely be considered.
 
 2. You can suggest changes first and then open an issue or send a pull request.These suggestions can be made by connecting with our team of developers through emails and social media platforms.Once you get positive feedbacks from the team,you can go ahead with it. 
 
 3. Ensure the bug was not already reported by searching on GitHub under Issues.
 If you're unable to find an open issue addressing the problem, open a new one. Be sure to include a title and clear description, as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
 
-4. For fixing a bug,open a new pull request with  the patch of code and make sure to include details describing the changes you made and the bug your code fixes clearly.Also,changes like formatting of text and adding styles to font may not be accepted because these changes do not add anything substantial to the website.  
-
+4. For fixing a bug, open a new pull request with the patch of code and make sure to include details describing the changes you made and the bug your code fixes clearly.Also,changes like formatting of text and adding styles to font may not be accepted because these changes do not add anything substantial to the website.  
 
 
 ## Hosting on Github and Pull requests:
@@ -64,7 +71,6 @@ If you're unable to find an open issue addressing the problem, open a new one. B
 For everyone who have made changes and want to see their site running,you can follow these steps:
  
   - **To test stuff locally**:
-
      
      * Start local site: Type bundle exec jekyll serve --watch at the command line
      * Visit local site: Open localhost:4000/yourwebfoldername(or glugmvit.github.io/ in a web browser (e.g.localhost:4000/JekyllDemo/). Don’t forget the trailing slash!
@@ -79,3 +85,72 @@ For everyone who have made changes and want to see their site running,you can fo
      * Click “Commit to gh-pages” in the lower left.
      * After the commit has completed, click “Sync” in the upper right.
      * Allow 10-90 seconds for your changes to reach GitHub’s web servers, then visit your   website and refresh the page to see your changes live.
+
+### Contribute to the code
+
+If you know how to code, we welcome you to send fixes and new features, but in order to be efficient we ask you to follow the following procedure:
+
+* Fork this repo using the button at the top.
+* Clone your forked repo locally.
+
+``$ git clone git@github.com:yourname/glugmvit.github.io.git``
+
+* Don't modify or work on the master branch, we'll use it to always be in sync with webogram upstream.
+
+```
+$ git remote add upstream git@github.com:glugmvit/glugmvit.github.io.git
+$ git fetch upstream
+```
+
+* Always create a new issue when you plan to work on a bug or new feature and wait for other devs input before start coding.
+* Once the new feature is approved or the problem confirmed, go to your local copy and create a new branch to work on it. Use a descriptive name for it, include the issue number for reference.
+
+``$ git checkout -b improve-contacts-99``
+
+* Do your coding and push it to your fork. Include as few commits as possible (one should be enough) and a good description. Always include a reference to the issue with "Fix #number".
+
+```
+$ git add .
+$ git commit -m "Improved contact list. Fix #99"
+$ git push origin improve-contacts-99
+```
+
+* Do a new pull request from your "improve-contacts-99" branch to webogram "master".
+
+#### How to implement changes suggested on a pull request
+
+Sometimes when you submit a PR, you will be asked to correct some code. You can make the changes on your work branch and commit normally and the PR will be automatically updated.
+
+``$ git commit -am "Ops, fixing typo"``
+
+Once everything is OK, you will be asked to merge all commit messages into one to keep history clean.
+
+``$ git rebase -i master``
+
+Edit the file and mark as fixup (f) all commits you want to merge with the first one:
+
+```
+pick 1c85e07 Improved contact list. Fix #99
+f c595f79 Ops, fixing typo
+```
+
+Once rebased you can force a push to your fork branch and the PR will be automatically updated.
+
+``$ git push origin improve-contacts-99 --force``
+
+#### How to keep your local branches updated
+
+To keep your local master branch updated with upstream master, regularly do:
+
+```
+$ git fetch upstream
+$ git checkout master
+$ git pull --rebase upstream master
+```
+
+To update the branch you are coding in:
+
+```
+$ git checkout improve-contacts-99
+$ git rebase master
+```
