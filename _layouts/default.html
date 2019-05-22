@@ -38,6 +38,7 @@
 
 <!-- Begin Menu Navigation
 ================================================== -->
+
 <header class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation">
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsWow" aria-controls="navbarsWow" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -51,13 +52,27 @@
         <!-- End Logo -->
 
         <!-- Begin Menu -->
-        <div class="collapse navbar-collapse" id="navbarsWow">
-
+        <div class="collapse navbar-collapse" id="navbarsWow">            
+            
             <!-- Begin Menu -->
             <ul class="navbar-nav ml-auto">
+                <!-- HTML for search box -->
+	            <div class="dropdown navbar-item">
+	                <button class="btn btn-secondary active" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"  style="background-color:transparent;border-color: transparent;box-shadow:none;">
+	                    <i class="fas fa-search" aria-hidden="true"></i>
+	                </button>
+	                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+	                    <input class="form-control" id="search-input" type="text" placeholder="Search" aria-label="Search" style="border-radius: 0;">
+	                    <ul id="results-container" class="pagination dropdown-item"></ul>
+	                </div>
+	            </div>
 
                 <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Home</a>
+                    <a class="nav-link" href="https://www.glugmvit.com/">Home</a>     
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
                 </li>
 
                 <li class="nav-item dropdown">
@@ -77,7 +92,7 @@
                 </li>
 
                  <li class="nav-item">
-                    <a target="_blank" class="nav-link" href="https://github.com/glugmv">GitHub</a>
+                    <a target="_blank" class="nav-link" href="https://github.com/glugmvit">GitHub</a>
                 </li>
 
 
@@ -87,6 +102,23 @@
 
             </ul>
             <!-- End Menu -->
+
+
+            <!-- Search Box
+            ================================================== -->
+            <!-- HTML elements for search -->
+ 
+            <!-- script pointing to jekyll-search.js -->
+            <script src="{{ site.baseurl }}/assets/js/simple-jekyll-search.min.js"></script>
+            <!-- Configuration -->
+            <script>
+            SimpleJekyllSearch({
+              searchInput: document.getElementById('search-input'),
+              resultsContainer: document.getElementById('results-container'),
+              json: '/assets/search.json'
+            })
+            </script>
+
 
         </div>
     </div>
@@ -130,7 +162,7 @@
                         since in the end, innovations tend to come from small groups, not from large,
                         structured efforts."</p></i>
                     <p>- <span></span><span class="risk-free">Tim O'Reilly</span></p>
-                    <a class="btn btn-primary btn-lg" href="#">Join us</a>
+                    <a class="btn btn-primary btn-lg" href="https://join.slack.com/t/smvit/shared_invite/enQtNDA4NTYyMjYzNTQzLTQyZDA1ODEwZTM4ZDJkNWRlYzhhOWY0ZTBjMWUyZTMxY2Y3NzFiYTgyNzZiN2RjNDU1ZTNjZjU3NDRkZDkxYTQ">Join us</a>
                 </div>
                 <div class="col-md-4 text-right footersocial">
                     <h5>Connect with Us</h5>
@@ -138,7 +170,7 @@
                     <a href="https://gitter.im/glugmvit/community"><i class="fab fa-gitter"></i></a>
                     <a href="https://www.linkedin.com/company/glugmvit/"><i class="fab fa-linkedin-in"></i></a>
                     <a href="mailto:glugmvit@gmail.com"><i class="fas fa-envelope"></i></a>
-                    <a href="https://github.com/glugmv"><i class="fab fa-github"></i></a>
+                    <a href="https://github.com/glugmvit"><i class="fab fa-github"></i></a>
                 </div>
             </div>
         </div>

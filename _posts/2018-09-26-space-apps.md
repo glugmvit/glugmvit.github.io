@@ -4,7 +4,7 @@ title:  "NASA Space Apps Challenge"
 author: masoomi
 categories: [ Glug, Hackathon, NASA]
 image: assets/images/nasa/logo.jpg
-featured: true
+featured: false
 excerpt: We conducted the NASA Space Apps Challenge 2018 Regional Round for Karnataka at Sir M. Visvesvaraya Institute of Technology, Bangalore.
 ---
 ## Concept 
@@ -59,14 +59,14 @@ The International Space Apps Challenge is a hackathon that happens world wide wi
 - The Earth and Us
 - Planetary builders
 
-![](/assets/images/nasa3.jpeg)
+![](/assets/images/nasa/nasa3.jpeg)
 
 **Number of Participants**: 86  
 **Number of Teams Registered**: 22
 
 ## DAY 1:
 
-![](/assets/images/nasa2.jpeg)
+![](/assets/images/nasa/nasa2.jpeg)
 
 The day began with registrations at the CS Seminar hall, which was followed by an invocation.
 The college welcomed the esteemed chief guests and they lit the lamps. Dr. G.C Bhanuprakash (HOD)
@@ -131,6 +131,6 @@ The teams had to resume with their coding and work in session 2. This event happ
 * To support the students selected to the next round of Space     Apps hackathon by providing relevant mentors and technical      experts.
 * To support innovations in the community from layman and young    students.
 
-![](/assets/images/nasa4.jpeg)
+![](/assets/images/nasa/nasa4.jpeg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/61ob9GDEdLc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
