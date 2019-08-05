@@ -4,7 +4,7 @@ categories: [ machine learning, python ]
 title: Facial Recognition with Python
 image: assets/images/facerec/facerec.jpg
 author: srishti
-featured: true
+featured: false
 mathjax: false
 excerpt: A Machine Learning implementation in Python to recognise faces in input images.
 ---
