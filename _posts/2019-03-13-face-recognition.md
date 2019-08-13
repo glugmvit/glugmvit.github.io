@@ -71,7 +71,36 @@ Here, faces in pictures will be identified.
 
 The code can be studied thoroughly. Just try to understand the code and go through the folder structure. You can run it in your own system. This would help you understand better. The sections of the code can be referred and the explanation for each block of code is given in the next section.
 
-![](/assets/images/face_rec/whole.png)
+```py
+   # import the libraries
+import os
+import face_recognition
+
+# make a list of all the available images
+images = os.listdir('images')
+
+# load your image
+image_to_be_matched = face_recognition.load_image_file('my_image.jpeg')
+
+# encoded the loaded image into a feature vector
+image_to_be_matched_encoded = face_recognition.face_encodings(
+    image_to_be_matched)[0]
+
+# iterate over each image
+for image in images:
+    # load the image
+    current_image = face_recognition.load_image_file("images/" + image)
+    # encode the loaded image into a feature vector
+    current_image_encoded = face_recognition.face_encodings(current_image)[0]
+    # match your image with the image and check if it matches
+    result = face_recognition.compare_faces(
+        [image_to_be_matched_encoded], current_image_encoded)
+    # check if it was a match
+    if result[0] == True:
+        print("Matched: " + image)
+    else:
+        print("Not matched: " + image)  
+``` 
 
 ## Understanding the code
 
@@ -79,28 +108,60 @@ You need to follow the blocks of code in order to understand the explanation giv
 
 - The first three lines of code show the various libraries which are imported for the purpose. The **os** library is for getting the images in data set and the **face_recognition** library is used to implement the algorithm.
 
-![](/assets/images/face_rec/pic1.png)
+```py 
+# import the libraries
+import os
+import face_recognition
+```
 
 - The next two lines give the path of all images present in the images directory. After writing these lines, an array "images" is formed containing all the images which are present in the images directory. The **listdir()** method of the os library is used for this purpose.
 
-![](/assets/images/face_rec/pic2.png)
+```py
+# make a list of all the available images
+images = os.listdir('images')
+```
 
 
-3. The image which is to be matched is loaded in the following two lines. The **load_image_file()** method does this. The parameter is usually the name or path of the input image.
+- The image which is to be matched is loaded in the following two lines. The **load_image_file()** method does this. The parameter is usually the name or path of the input image.
 
-![](/assets/images/face_rec/pic3.png)
-
-
-4. The next three lines of code tell you how to encode these images into a feature vector. For this, a face_recognition method called **face_encodings()** is used. The parameters for this can be RGB values or numbers to specify the attributes which make up the feature vector. 
-
-![](/assets/images/face_rec/pic4.png)
+```py
+# load your image
+image_to_be_matched = face_recognition.load_image_file('my_image.jpeg')
+```
 
 
-5. The rest of the lines of code navigate through all the images and check each image of the data set with the input image with every iteration if the for loop. A method **compare_faces()** is used for this. The if condition is used to display the message "matched" or "not matched" along with the name of the image.
+- The next three lines of code tell you how to encode these images into a feature vector. For this, a face_recognition method called **face_encodings()** is used. The parameters for this can be RGB values or numbers to specify the attributes which make up the feature vector. 
 
-![](/assets/images/face_rec/pic5.png)
+```py
+# encoded the loaded image into a feature vector
+image_to_be_matched_encoded = face_recognition.face_encodings(
+    image_to_be_matched)[0]
+```
 
+
+- The rest of the lines of code navigate through all the images and check each image of the data set with the input image with every iteration if the for loop. A method **compare_faces()** is used for this. The if condition is used to display the message "matched" or "not matched" along with the name of the image.
+
+```py 
+# iterate over each image
+for image in images:
+    # load the image
+    current_image = face_recognition.load_image_file("images/" + image)
+    # encode the loaded image into a feature vector
+    current_image_encoded = face_recognition.face_encodings(current_image)[0]
+    # match your image with the image and check if it matches
+    result = face_recognition.compare_faces(
+        [image_to_be_matched_encoded], current_image_encoded)
+    # check if it was a match
+    if result[0] == True:
+        print("Matched: " + image)
+    else:
+        print("Not matched: " + image)
+```
 Great! You can now design your own models taking various sets of data. There are a various other methods inside the face_recognition library which can be used for various purposes.
+
+The output for the above code is as follows :
+
+![](/assets/images/facerec/facerec_output.png)
 
 ## Overfitting and Underfitting
 
