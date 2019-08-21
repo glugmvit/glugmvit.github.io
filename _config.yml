@@ -110,7 +110,15 @@ authors:
     twitter: https://twitter.com/_adityaraman
     web: https://ramanaditya.github.io
     description: "Software Developer | Engineer | Former Full Stack Developer Intern | Volunteer at UNV Online"
-
+  prakruthi:
+    name: Prakruthi Manjunath
+    display_name: Prakruthi Maanjunath
+    gravatar: "/assets/images/avatar/prakruthi.jpeg"
+    email: prakruthim25@gmail.com
+    twitter: https://twitter.com/Prakrut66322847
+    web: https://prakruthi3.github.io
+    description: "App Developer | Engineer | Reader"
+    
 # Reading Files
 include:
 - _pages
