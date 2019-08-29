@@ -64,19 +64,6 @@ You can choose one or multiple from the list below
 |**Total**|**100**|
 
 <br>
-## EVENT SCHEDULE
-
-|--|--|
-|Announcement of Build-a-thon|April 13, 2019|
-|Virtual Registration Start|April 13, 2019|
-|Virtual Registration End|April 14, 2019|
-|Final Registration Start|April 23, 2019|
-|Final Registration End	|April 23, 2019|
-|Last Date for Submission of Project Information/Github Link|April 23, 2019|
-|Assigning of Mentors and Confirmation Mail|April 24, 2019|
-|Project Exhibition and Felicitations|May 11, 2019|
-
-<br>
 #### Note
 
 * Virtual Registration : The registration is just for the official purpose and all the decisions regarding mentors, prizes and goodies will be based on this registration.
