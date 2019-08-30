@@ -8,7 +8,6 @@ image: assets/images/20190516Buildathon/20190516Buildathon.png
 excerpt: "An intra-college hackathon to provide an opportunity for brilliant young talents to create their works with the help of mentors and experts."
 ---
 
-
 ## About
 
 Put your **talent**, **passion**, and **determination** to the test at a high-tech event that will feature all of the latest trends and technologies.
@@ -17,11 +16,14 @@ The goal of this **Build-a-thon** is to **prototype ideas**, **products** and **
 
 This **Build-a-thon** will provide an opportunity for **brilliant young talents** to create their works with the help of **mentors** and **experts**, who—together with the panel of judges (see below)—will be on hand throughout their project, while also experiencing the unforgettable thrill of coming together with peers who share the same passion for technology and innovation.
 
-## Target Audience
-This is open to all the students of **1st** , **2nd** , **3rd** and **4th year** from **different branches**.
-The **Build-a-thon** is open to both **teams** (of utmost 5 people) and individuals. Individuals who sign up may then form teams with the help of the event organizers or may participate alone. 
+![](/assets/images/mozilla/mozilla.jpeg)
 
-The **five teams/individuals** that impress the judges most will then be awarded **certificates**(1st,2nd,3rd and consolation),**goodies** and lot more.
+We're proud to announce [Mozilla](https://www.mozilla.org/) as the official sponsor for the event, and Ms. [Shina Dhingra](https://reps.mozilla.org/u/shina_dhingra/) from the Mozilla Reps community as a technical mentor for the event.
+
+## Target Audience
+This is open to all the students of **1st**, **2nd**, **3rd** and **4th year** from **different branches**. The **Build-a-thon** is open to both **teams** (of utmost 5 people) and individuals. Individuals who sign up may then form teams with the help of the event organizers or may participate alone. 
+
+The **five teams/individuals** that impress the judges most will then be awarded **certificates** (1st, 2nd, 3rd and consolation), **goodies** and lot more.
 All other teams who participate and submit their projects will be awarded **participation certificates**.
 
 ## Date and Venue
@@ -29,7 +31,7 @@ All other teams who participate and submit their projects will be awarded **part
 The date and time is for the presentation of the projects/ideas before the judges and all the participants must be present as evaluation will be done on this day.
 
 |:--:|:--:|
-|Date|September 14'2019|
+|Date|September 14, 2019|
 |Time|11:00 AM - 12:30 PM|
 |Venue|CS Seminar Hall, Main Block|
 
@@ -66,7 +68,7 @@ You can choose one or multiple from the list below
 <br>
 #### Note
 
-* Virtual Registration : The registration is just for the official purpose and all the decisions regarding mentors, prizes and goodies will be based on this registration.
+* Virtual Registration: The registration is just for the official purpose and all the decisions regarding mentors, prizes and goodies will be based on this registration.
 * Final Registration is compulsory for all the candidates. Link of which will be shared later.
 * All the final timings of the day for online submission and receiving confirmation is by 12 midnight.
 
@@ -81,21 +83,21 @@ Founder & CTO startosphere.io <br>
 Former Intern at GISCLE Systems,Game Developer and over 5 apps on Playstore <br>
 Linkedin : <a href="https://linkedin.com/in/sushenk">sushenk</a> <br>
 Published : An Effective Approach to Discern Leaders in Wireless Sensor Networks <br>
-Winner of Valuepitch Hackathon,Ideathon,runner up IESA Makeathon and many more <br>
+Winner of Valuepitch Hackathon,Ideathon,runner up IESA Makeathon and many more.<br>
 </article><br>
 <article>
 <span class="image left" ><img src="{{ 'https://avatars2.githubusercontent.com/u/29686866?s=460&v=4' | absolute_url }}" width="20%" style="float:left;margin-right:10px;"/></span>
 <a href="http://absingh.com">Mr. Abhijeet Singh</a><br>
 Artificial Intelligence Intern | Microsoft Student Partner | Google Scholar		<br>
 Email Id : contact.abhijeetsingh@gmail.com <br>
-Linkedin : <a href="https://www.linkedin.com/in/thatniceman/">thatniceman</a> <br> Winner of Innovation and FutureSkills Hackathon, Ideathon, NASA Space Apps 2018 India and many more
+Linkedin : <a href="https://www.linkedin.com/in/thatniceman/">thatniceman</a> <br> Winner of Innovation and FutureSkills Hackathon, Ideathon, NASA Space Apps 2018 India and many more.
 </article><br>
 <article>
 <span class="image left" ><img src="{{ 'https://avatars1.githubusercontent.com/u/30434974?s=460&v=4' | absolute_url }}" width="20%" style="float:left;margin-right:10px;"/></span>
 Mr. Vipul Gaurav<br>
 Email Id : vgaurav3011@gmail.com <br>
 Linkedin : <a href="https://www.linkedin.com/in/vipul-gaurav/">vipul-gaurav</a><br>
-Winner of Smart India Hackathon, goldman Sachs  2019, Ideathon Incubate, Futureskills Hackathon, Makeathon Mvit, Incubateind Scholar Recipient and many more
+Winner of Smart India Hackathon, goldman Sachs  2019, Ideathon Incubate, Futureskills Hackathon, Makeathon Mvit, Incubateind Scholar Recipient and many more.
 </article><br>
 <article>
 <span class="image left" ><img src="{{ 'https://media.licdn.com/dms/image/C5103AQFQUDgTcjraBg/profile-displayphoto-shrink_800_800/0?e=1567641600&v=beta&t=oo82Ia561GbK4hP7vvwEQHrqZ9H2vMLXmGKw9qB8Joo' | absolute_url }}" width="20%" style="float:left;margin-right:10px;"/></span>
@@ -103,7 +105,7 @@ Mr. Susmit Agarwal<br>
 Deep Learning Intern<br>
 Email Id : susmit600@gmail.com<br>
 Linkedin : <a href="https://www.linkedin.com/in/susmit-agrawal-9b6443149/">susmit-agrawal-9b6443149</a> <br>
-Winner of Innovation and FutureSkills Hackathon, Ideathon, NASA Space Apps 2018 India, MSHACK Finalist and many more
+Winner of Innovation and FutureSkills Hackathon, Ideathon, NASA Space Apps 2018 India, MSHACK Finalist and many more.
 </article><br>
 <article>
 <span class="image left" ><img src="{{ 'https://avatars3.githubusercontent.com/u/38475583?s=460&v=4' | absolute_url }}" width="20%" style="float:left;margin-right:10px;"/></span>
@@ -116,7 +118,7 @@ Linkedin: <a href="https://www.linkedin.com/in/tusharsharma16/">tusharsharma16</
 
 ## EVENT PARTICIPATION
 ### REGISTRATION
-Registration for participation in the Build-a-thon is to take place online by providing all necessary information using the form that can be found at https://forms.gle/9o3YFYEyuJyHDBEr6. Registration will begin on April 19, 2019.
+Registration for participation in the Build-a-thon is to take place online by providing all necessary information using the form that can be found at https://forms.gle/9o3YFYEyuJyHDBEr6. Registration began on April 19, 2019.
 Any applications submitted with incomplete or inaccurate information will result in the team being disqualified from participation in the Build-a-thon. 
 Organizers rulings in this regard are final.
 
@@ -193,7 +195,5 @@ Computer Science and Engineering
 Institute Of Technology</a></h5>
 </div>
 </div>
-
-
 
 <br>
