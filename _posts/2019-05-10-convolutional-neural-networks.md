@@ -3,7 +3,7 @@ layout: post
 title:  "Intro to CNNs"
 author: susmit
 categories: [ tutorial, deep learning, computer vision ]
-featured: true
+featured: false
 image: assets/images/cnn/7.jpg
 excerpt: This is a basic tutorial to get started with Convolutional Neural Networks.
 ---
