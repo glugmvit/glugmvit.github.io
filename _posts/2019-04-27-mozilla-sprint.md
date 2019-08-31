@@ -2,7 +2,7 @@
 layout: post
 title : "Mozilla Voice Sprint 2019"
 author: sunchit
-categories: [ glug, mozilla ]
+categories: [ events, mozilla ]
 image: assets/images/mozilla/mozilla.jpg
 featured: false
 excerpt: We join hands with Mozilla Reps Bangalore to conduct the Common Voice 100 hours sprint, contributing to Mozilla's Common Voice project.

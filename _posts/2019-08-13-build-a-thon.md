@@ -2,7 +2,7 @@
 layout: post
 title: Build-a-thon
 author: aditya
-categories: [ events, hackathon ]
+categories: [ events, hackathon, mozilla ]
 featured: true
 image: assets/images/20190516Buildathon/20190516Buildathon.png
 excerpt: "An intra-college hackathon to provide an opportunity for brilliant young talents to create their works with the help of mentors and experts."
