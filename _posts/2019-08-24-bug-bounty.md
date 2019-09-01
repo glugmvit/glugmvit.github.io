@@ -3,7 +3,7 @@ layout: post
 title:  "Bug Bounty programs (complete list for 2k19)"
 author: ujwal
 categories: [ computer networks ]
-featured: true
+featured: false
 image: assets/images/CyberSec/bugbounty.jpeg
 excerpt: List of all Bug Bounty programs and recommendations.
 ---
