@@ -77,7 +77,7 @@ You can choose one or multiple from the list below
 
 <div><div>
 <article>
-<img src="{{ 'https://media.licdn.com/dms/image/C5103AQHJTT_zSpWqBQ/profile-displayphoto-shrink_800_800/0?e=1567641600&v=beta&t=MJolL_4jSG1fWtmo-Vsx2CLwGSLr7A-GTRqyG2jDWbA' | absolute_url }}" width="20%" style="float:left;margin-right:10px;"/>
+<img src="{{ 'https://media.licdn.com/dms/image/C5103AQHJTT_zSpWqBQ/profile-displayphoto-shrink_200_200/0?e=1573084800&v=beta&t=WkhG0UqMVekIirrKHcykIyPklWl_1adw3oo1CVo7Bzo' | absolute_url }}" width="20%" style="float:left;margin-right:10px;"/>
 <a href="https://www.sushen.in/">Mr Sushen Kumar</a> <br>
 Founder & CTO startosphere.io <br>
 Former Intern at GISCLE Systems,Game Developer and over 5 apps on Playstore <br>
@@ -100,7 +100,7 @@ Linkedin : <a href="https://www.linkedin.com/in/vipul-gaurav/">vipul-gaurav</a><
 Winner of Smart India Hackathon, goldman Sachs  2019, Ideathon Incubate, Futureskills Hackathon, Makeathon Mvit, Incubateind Scholar Recipient and many more.
 </article><br>
 <article>
-<span class="image left" ><img src="{{ 'https://media.licdn.com/dms/image/C5103AQFQUDgTcjraBg/profile-displayphoto-shrink_800_800/0?e=1567641600&v=beta&t=oo82Ia561GbK4hP7vvwEQHrqZ9H2vMLXmGKw9qB8Joo' | absolute_url }}" width="20%" style="float:left;margin-right:10px;"/></span>
+<span class="image left" ><img src="{{ 'https://media.licdn.com/dms/image/C5103AQFQUDgTcjraBg/profile-displayphoto-shrink_200_200/0?e=1573084800&v=beta&t=NfzcbRn2zNUKOSmoI3RfdI11NZ0z01eOKojBSnfphkY' | absolute_url }}" width="20%" style="float:left;margin-right:10px;"/></span>
 Mr. Susmit Agarwal<br>
 Deep Learning Intern<br>
 Email Id : susmit600@gmail.com<br>
@@ -163,7 +163,7 @@ Email Id : adityaraman96@gmail.com<br>
 Linkedin : <a href="https://www.linkedin.com/in/ramanaditya/">ramanaditya</a><br>
 </article><br><br><br><br>
 <article>
-<span class="image left"><img src="https://media.licdn.com/dms/image/C5103AQHJ9f8xxsKwcA/profile-displayphoto-shrink_800_800/0?e=1567641600&v=beta&t=ZIuWgB_VyVF0fBty2zq2OA32cgVcja8o3ERfomVGJb4" width="20%" style="float:left;margin-right:10px;"/></span>
+<span class="image left"><img src="https://media.licdn.com/dms/image/C5103AQHJ9f8xxsKwcA/profile-displayphoto-shrink_200_200/0?e=1573084800&v=beta&t=e6_cnGl_A13Q8LQ7R5jK_5n3ad_q0_X2d6saVHGCxc4" width="20%" style="float:left;margin-right:10px;"/></span>
 
 <a>Mr. Aswin Gopinathan</a><br>
 Contact No.: 9900167683<br>
