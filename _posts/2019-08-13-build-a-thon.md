@@ -16,7 +16,7 @@ The goal of this **Build-a-thon** is to **prototype ideas**, **products** and **
 
 This **Build-a-thon** will provide an opportunity for **brilliant young talents** to create their works with the help of **mentors** and **experts**, who—together with the panel of judges (see below)—will be on hand throughout their project, while also experiencing the unforgettable thrill of coming together with peers who share the same passion for technology and innovation.
 
-![](/assets/images/mozilla/mozilla.jpeg)
+![](/assets/images/mozilla/mozilla-india-dark.jpg)
 
 We're proud to announce [Mozilla](https://www.mozilla.org/) as the official sponsor for the event, and Ms. [Shina Dhingra](https://reps.mozilla.org/u/shina_dhingra/) from the Mozilla Reps community as a technical mentor for the event.
 
@@ -177,9 +177,9 @@ Linkedin: <a href="https://www.linkedin.com/in/aswin-gopinathan-69556716a">aswin
 <div class="row">
 <div class="4u 12u$(small)">
 <h3>Faculty Coordinators</h3>
-<li>Dr Savita Chaudhary </li>
+<li>Dr. Savita Chaudhary </li>
 <li>Mrs. Pallavi</li>
-<li>Mrs Sushila</li>
+<li>Mrs. Sushila</li>
 <li>Mrs. Rekha BN</li>
 </div>
 <div class="6u 12u$(small)">
