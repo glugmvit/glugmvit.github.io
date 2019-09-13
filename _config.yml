@@ -139,6 +139,15 @@ authors:
     twitter: https://twitter.com/Ujwal07kumar?s=03
     web: https://www.linkedin.com/in/ujwal-kumar-a096b179
     description: "Cyber Security Consultant"
+
+  shashwat:
+    name: Shashwat Srivastava
+    display_name: Shashwat Srivastava
+    gravatar: "/assets/images/avatar/shashwat.jpeg"
+    email: shanu.sri0212@gmail.com
+    twitter: https://www.instagram.com/shashwat.0212/
+    web:
+    description: "Proficient in Java, C++ and OOP | Problem Solving Enthusiast"
     
     
 # Reading Files
