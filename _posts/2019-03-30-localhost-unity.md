@@ -46,7 +46,7 @@ The event was organized by the *Computer Science & Engineering Department* of [S
     MLH representative and Smart India Hackathon winner 2019
 
 - [Abhijeet Singh](http://absingh.com/)  
-    A Microsoft Student Partner, AI developer, open source contributor, and low-key memelord.
+    Senior Microsoft Student Partner, AI developer, open-source contributor, and Mozillian.
 
 ## Organizers
 **Hosting Department**: Department of Computer Science and Engineering  
