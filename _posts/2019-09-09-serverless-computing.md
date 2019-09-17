@@ -3,9 +3,9 @@ layout: post
 title:  "Introduction to Serverless Computing"
 author: shashwat
 categories: [ cloud ]
-image: assets/images/aws-cli/aws-cli-header.png
+image: assets/images/aws-cli/Serverless-Architecture-Market.jpg
 featured: true
-excerpt: Serverless computing is a cloud-computing execution model in which the cloud provider runs the server, and dynamically manages the allocation of machine resources.
+excerpt: Serverless computing is a cloud-computing execution model which runs the server, and dynamically manages the allocation of machine resources.
 ---
 <!-- Add post written in markdown or html below -->
 Serverless Computing is a cloud-computing execution model in which the cloud provider runs the server, and dynamically manages the allocation of machine resources. Pricing is based on the actual amount of resources consumed by an application, rather than on pre-purchased units of capacity. It can be a form of utility computing.
