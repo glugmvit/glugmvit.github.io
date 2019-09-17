@@ -83,14 +83,14 @@ Founder & CTO startosphere.io <br>
 Former Intern at GISCLE Systems,Game Developer and over 5 apps on Playstore <br>
 Linkedin : <a href="https://linkedin.com/in/sushenk">sushenk</a> <br>
 Published : An Effective Approach to Discern Leaders in Wireless Sensor Networks <br>
-Winner of Valuepitch Hackathon,Ideathon,runner up IESA Makeathon and many more.<br>
+Winner of Valuepitch Hackathon, Ideathon, runner up IESA Makeathon.<br>
 </article><br>
 <article>
 <span class="image left" ><img src="{{ 'https://avatars2.githubusercontent.com/u/29686866?s=460&v=4' | absolute_url }}" width="20%" style="float:left;margin-right:10px;"/></span>
 <a href="http://absingh.com">Mr. Abhijeet Singh</a><br>
 Artificial Intelligence Intern | Microsoft Student Partner | Google Scholar		<br>
 Email Id : contact.abhijeetsingh@gmail.com <br>
-Linkedin : <a href="https://www.linkedin.com/in/thatniceman/">thatniceman</a> <br> Winner of Innovation and FutureSkills Hackathon, Ideathon, NASA Space Apps 2018 India and many more.
+Linkedin : <a href="https://www.linkedin.com/in/thatniceman/">thatniceman</a> <br> Winner of Innovation and FutureSkills Hackathon, Ideathon, NASA Space Apps 2018 India.
 </article><br>
 <article>
 <span class="image left" ><img src="{{ 'https://avatars1.githubusercontent.com/u/30434974?s=460&v=4' | absolute_url }}" width="20%" style="float:left;margin-right:10px;"/></span>
