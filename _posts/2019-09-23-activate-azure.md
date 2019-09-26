@@ -18,8 +18,11 @@ author: shresth
  2. Under "Which best describes your academic status", you need to select 'Student'.
 
  ![status](https://help.github.com/assets/images/help/education/academic-status-student.png)
+ 
+ 
  3. Now you need to add the email address that you use for college.
 
+ 
  ![email](https://help.github.com/assets/images/help/education/select-email-address.png)
 
  4. Then you need to upload a picture for proof of your academic status (college ID will do just fine). You can do this by two ways:
@@ -35,8 +38,11 @@ author: shresth
  5. Next step is to add your college name.
 
  ![collegename](https://help.github.com/assets/images/help/education/enter-school-name.png)
+ 
+ 
  6. The last step is to describe the purpose on how do you plan to use Github. You can tell about your willingness to contribute to the open source here.
 
+ 
  ![contribute](https://help.github.com/assets/images/help/education/purpose-for-github-education.png)
 
  Verify your application details, and click on "Submit your Information".
@@ -46,7 +52,7 @@ author: shresth
 
   **You'll get the confirmation shortly.**
 
-![Azure1](https://github.com/shresth26/glugmvit.github.io/blob/Azure-patch-1/assets/images/Azure/Azure.png)
+![Azure1](/assets/images/Azure/Azure1.png)
 
 
   <h3>How to activate Azure from your pack</h3>
@@ -57,22 +63,22 @@ author: shresth
 
   There will be many tools available so you need to scroll down and find Microsoft Azure. Click to generate your unique code.
 
-  ![Azure2](https://github.com/shresth26/glugmvit.github.io/blob/Azure-patch-1/assets/images/Azure/Azure2.png)
+  ![Azure2](/assets/images/Azure/Azure2.png)
 
   Now go to the Microsoft website and click on "Activate Now" button where you'll get a prompt to sign in.
 
-  ![Azure3](https://github.com/shresth26/glugmvit.github.io/blob/Azure-patch-1/assets/images/Azure/Azure3.png)
+  ![Azure3](/assets/images/Azure/Azure3.png)
 
    Enter your details and you'll see a page like this:
 
-   ![Azure4](https://github.com/shresth26/glugmvit.github.io/blob/Azure-patch-1/assets/images/Azure/Azure4.png)
+   ![Azure4](/assets/images/Azure/Azure4.png)
 
 
 
   Click on the dropdown icon and select Verification code. Copy your verification code from your Git website and paste it here.
 
-  ![Azure5](https://github.com/shresth26/glugmvit.github.io/blob/Azure-patch-1/assets/images/Azure/Azure5.png)
+  ![Azure5](/assets/images/Azure/Azure5.png)
 
-  ![Azure6](https://github.com/shresth26/glugmvit.github.io/blob/Azure-patch-1/assets/images/Azure/Azure6.png)
+  ![Azure6](/assets/images/Azure/Azure6.png)
 
   Kudos! You can now access your Azure account.
