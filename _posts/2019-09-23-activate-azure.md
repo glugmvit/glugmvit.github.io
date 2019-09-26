@@ -77,8 +77,11 @@ author: shresth
 
   Click on the dropdown icon and select Verification code. Copy your verification code from your Git website and paste it here.
 
+  
   ![Azure5](/assets/images/Azure/Azure5.png)
 
+  
+  
   ![Azure6](/assets/images/Azure/Azure6.png)
 
   Kudos! You can now access your Azure account.
