@@ -150,13 +150,13 @@ authors:
     description: "Proficient in Java, C++ and OOP | Problem Solving Enthusiast"
     
   shresth:
-    name: Shresth
-    display_name: Shresth
-    gravatar: "/assets/images/avatar/user.jpg"
-    email: 
-    twitter: 
-    web:
-    description: "Software Engineer"
+    name: Shresth Singh
+    display_name: Shresth Singh
+    gravatar: "/assets/images/avatar/shresth.jpeg"
+    email: singhshresth26@gmail.com
+    twitter: https://www.instagram.com/shresth_sing/
+    web: https://www.linkedin.com/in/shresth-singh-7aa062175/
+    description: "Software Engineer | Web Developer"
     
 
 # Reading Files
