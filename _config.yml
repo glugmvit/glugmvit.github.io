@@ -149,7 +149,16 @@ authors:
     web:
     description: "Proficient in Java, C++ and OOP | Problem Solving Enthusiast"
     
+  shresth:
+    name: Shresth
+    display_name: Shresth
+    gravatar: "/assets/images/avatar/user.jpg"
+    email: 
+    twitter: 
+    web:
+    description: "Software Engineer"
     
+
 # Reading Files
 include:
 - _pages

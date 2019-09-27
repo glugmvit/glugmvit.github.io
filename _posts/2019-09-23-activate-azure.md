@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Get your Azure Account"
+title: "Activate Azure for Students using GitHub"
 author: shresth
+categories: [ microsoft, azure, github ]
+image: assets/images/Azure/azure.jpg
+featured: true
+excerpt: How to get the GitHub Student Developer pack to activate your Microsoft Azure account for free without a debit card.
 ---
-### How to get the Github student developer pack to activate your Azure account
-
-![Ms Azure](https://www.tricentis.com/wp-content/uploads/2019/04/Microsoft-Azure-Logo-1024x753.png)
-
+<!-- Add post written in markdown or html below -->
  As a student, you can apply for the GitHub Student Developer Pack, which includes offers and benefits from GitHub partners.
 
  You can use the Github student developer pack to activate your Microsoft Azure account so that you can access the benefits.
