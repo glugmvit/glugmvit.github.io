@@ -4,7 +4,7 @@ title:  "Introduction to Serverless Computing"
 author: shashwat
 categories: [ cloud, aws ]
 image: assets/images/aws-cli/Serverless-Architecture-Market.jpg
-featured: true
+featured: false
 excerpt: Serverless computing is a cloud-computing execution model which runs the server, and dynamically manages the allocation of machine resources.
 ---
 <!-- Add post written in markdown or html below -->
