@@ -300,7 +300,7 @@ is an essential skill in Unity.
 
 4. To edit code, a text editor or IDE is essential. Go to **Preferences > External Tools > External Script Editor**
 
-![](/assets/images/Unity_Images/Screenshot from 2019-09-28 19-20-23.png)
+![](/assets/images/Unity_Images/sc1.png)
 
 # Finally! Car Racing Game.
 
@@ -313,7 +313,7 @@ is an essential skill in Unity.
 
 ### Let's Test This Out
 
-![](/assets/images/Unity_Images/Screenshot from 2019-09-28 19-25-37.png)
+![](/assets/images/Unity_Images/sc2.png)
 
 ### In order to move the car, we will now use C#
 
@@ -345,7 +345,7 @@ Edit > Project Settings > Input > Axes > Vertical
 
 Set it as follows:
 
-![](/assets/images/Unity_Images/Screenshot from 2019-09-28 21-04-48.png)
+![](/assets/images/Unity_Images/sc3.png)
 
 **For Jump:**
 
@@ -353,11 +353,11 @@ Edit > Project Settings > Input > Axes > Jump
  
  Set it as follows:
 
- ![](/assets/images/Unity_Images/Screenshot from 2019-09-28 21-12-14.png)
+ ![](/assets/images/Unity_Images/sc4.png)
 
  **The Final Script would look like this:**
 
- ![](/assets/images/Unity_Images/Screenshot from 2019-09-28 21-13-31.png)
+ ![](/assets/images/Unity_Images/sc5.png)
 
  # Test Run!
 
@@ -369,11 +369,11 @@ Edit > Project Settings > Input > Axes > Jump
 
  1. Left click an object inside the scene. It will bring up the Inspector tab.
 
- ![](/assets/images/Unity_Images/Screenshot from 2019-09-28 21-16-50.png)
+ ![](/assets/images/Unity_Images/sc6.png)
 
 Set it as follows:
 
-![](/assets/images/Unity_Images/Screenshot from 2019-09-28 21-21-44.png)
+![](/assets/images/Unity_Images/sc7.png)
 
 ### Great! What do I do about the other wall?
 
@@ -389,7 +389,7 @@ Add Component > Physics > Mesh Collider
 
 3. Select 'Build' at the bottom of the window, a new window will open up to select where to save the build of the game.
 
-![](/assets/images/Unity_Images/Screenshot from 2019-09-28 21-28-59.png)
+![](/assets/images/Unity_Images/sc8.png)
 
 # You now have an executable of this project! Try running it in your machine!
  
