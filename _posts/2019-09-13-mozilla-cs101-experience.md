@@ -4,7 +4,7 @@ title:  "Mozilla CS101 Experience"
 author: ujwal
 categories: [ mozilla, events, machine learning, cyber security, flutter ]
 image: assets/images/mozilla/mozilla-india-dark.jpg
-featured: true
+featured: false
 excerpt: Our experience with hosting the Mozilla CS101 series of workshops at Sir M. Visvesvaraya Institute of Technology, Bangalore.
 ---
 <!-- Add post written in markdown or html below -->

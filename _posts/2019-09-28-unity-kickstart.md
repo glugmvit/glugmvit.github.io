@@ -2,10 +2,12 @@
 layout: post
 title:  "Beginner's guide to game development with Unity 3D"
 author: masoomi
-categories: [ Glug, Gaming, Unity]
+categories: [ game development, unity ]
+image: assets/images/Unity_Images/logo.jpg
+featured: true
+excerpt: Get started with the cross-platform engine behind your favourite games. A powerful development tool for building 2D and 3D games for over 25 different platforms. 
 ---
-![](/assets/images/Unity_Images/logo.jpg)
-
+<!-- Post written in markdown or html below -->
 ## What is Unity3D anyway?
 
 > _Unity is a powerful development tool for building 2D and 3D games for
@@ -18,20 +20,20 @@ for development!_
  
 ## And what am I gonna learn from this guide today?
 
-1) What you can build with Unity
+1. What you can build with Unity
 
-2) How to use Unity
+2. How to use Unity
 
-3) The basics of C#
+3. The basics of C#
 
-4) How to build Unity projects
+4. How to build Unity projects
 
 
 ## Alright, but how do I install it?
 
 Click  [here for a step-by-step installation process](https://cs.hofstra.edu/docs/pages/guides/unity_install.html).
   
-  ### Also, you need the following tools and technical specifications before we go ahead:
+### Also, you need the following tools and technical specifications before we go ahead:
    
 * Unity version 2018.1.1 (this version is required, please don't use any other version)
 * 15GB of storage available.
@@ -319,7 +321,7 @@ is an essential skill in Unity.
 
 # CarUserControl.CS
 
-**Open the file CarUserControl.cs. The path is:
+Open the file `CarUserControl.cs`. The path is:
 
 **Standard Assets > Vehicles > Car > Scripts > CarUserControl.cs**
 
@@ -359,13 +361,13 @@ Edit > Project Settings > Input > Axes > Jump
 
  ![](/assets/images/Unity_Images/sc5.png)
 
- # Test Run!
+# Test Run!
 
  Press the play button on the top of the window!
 
  Hold on, you can drive through WALLS. WHAT?
 
- Now we introduce Colliders!
+ Now we introduce **Colliders**!
 
  1. Left click an object inside the scene. It will bring up the Inspector tab.
 
@@ -391,31 +393,6 @@ Add Component > Physics > Mesh Collider
 
 ![](/assets/images/Unity_Images/sc8.png)
 
-# You now have an executable of this project! Try running it in your machine!
- 
+#### You now have an executable of this project! Try running it in your machine!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Congratulations on building your first 3D game with Unity!
