@@ -5,7 +5,7 @@ author: aditya
 categories: [ Glug, Workshop, GirlScript]
 image: assets/images/girlscript/gslogo-sam.png
 featured: false
-excerpt: We conducted a workshop on Book My Trip Chat Bot using Python and AWS.
+excerpt: We conducted a workshop on Book My Trip Chat Bot using Python and AWS, in association with GirlScript Bangalore.
 ---
 ## About GirlScript
 GirlScript Bangalore is the child community of the not-for-profit tech organisation GirlScript. It is a not-for-profit venture aimed at growing and supporting women participation in the field of technology. Our aim is to create a platform conducive to the holistic growth of beginners and learners - everyone who wants kickstart in technology!
@@ -17,8 +17,8 @@ The event was focussed to make the student aware of Chat Bots and building them 
 
 **Number of Participants**: 60+
 
-## Wrokshop Details
-**Date**: _14th of September '18_
+## Workshop Details
+**Date**: _14th of September '19_
 
 **Time**: _9:00 AM - 12:00 Noon_
 
@@ -33,14 +33,14 @@ The event was focussed to make the student aware of Chat Bots and building them 
 
 ## ORGANIZERS 
 
-**HOSTED BY**: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+**HOSTED BY**: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING  
 In association with GirlScript Bangalore and GLUG MVIT
   
-## GIRLSCRIPT COORDINATORS:
+### GIRLSCRIPT COORDINATORS:
 
 - Shaina Parvanda
 
-## STUDENT COORDINATORS:
+### STUDENT COORDINATORS:
    
 - Aditya Raman
 - Aswin Gopinathan
