@@ -4,7 +4,7 @@ title:  "Machine Learning: Email classification"
 author: ayushi
 categories: [ machine learning, python ]
 image: assets/images/classifier/machine-learning1.png
-featured: true
+featured: false
 mathjax: true
 excerpt: A Machine Learning model to classify emails according to author names using Naive Bayes Classifier
 ---

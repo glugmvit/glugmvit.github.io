@@ -2,7 +2,7 @@
 layout: post
 title:  "Starting GNU Linux Users Group"
 author: vhr
-categories: [ glug ]
+categories: [ glug, events ]
 image: assets/images/5.jpg
 excerpt: The inception of this Club for Free Software enthusiasts, called GLUG (GNU Linux Users Group).
 ---

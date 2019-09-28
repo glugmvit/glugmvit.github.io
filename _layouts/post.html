@@ -30,16 +30,27 @@ post_class: post-template
                 <!-- End Categories -->
 
                 <!-- Post Title -->
-				<h1 class="posttitle">{{ page.title }}</h1>
-
+                <style>
+                #titlefont{
+                    font-family: "Lora",sans-serif;
+                    font-size: 40px;
+                    font-weight: 200;
+                }
+                </style>
+				<h1 id="titlefont" class="posttitle">{{ page.title }}</h1>
 			</div>
 
 			<!-- Post Featured Image -->
 			{% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
 			<!-- End Featured Image -->
 
-			<!-- Post Content -->
-			<div class="article-post">
+            <!-- Post Content -->
+            <style>
+                #bodyfont{
+                    font-family:"Lora",sans-serif
+                }
+            </style>
+			<div class="article-post" id="bodyfont">
 				{{content}}
                 <div class="clearfix"></div>
 			</div>
@@ -107,3 +118,4 @@ post_class: post-template
 
 <!-- End Article
 ================================================== -->
+<link href="{{ site.baseurl }}/assets/css/monokai.css" rel="stylesheet">
