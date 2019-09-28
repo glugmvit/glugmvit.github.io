@@ -4,7 +4,7 @@ title:  "Beginner's guide to game development with Unity 3D"
 author: masoomi
 categories: [ Glug, Gaming, Unity]
 ---
-![](/assets/images/Unity Images/logo.jpg)
+![](/assets/images/Unity_Images/logo.jpg)
 
 ## What is Unity3D anyway?
 
@@ -42,7 +42,7 @@ Click  [here for a step-by-step installation process](https://cs.hofstra.edu/doc
 
  You are going to write code for a really cool car racing game! Just [navigate to this URL to test the game.](https://yenv672.itch.io/desert?password=gogogo).
 
-![](/assets/images/Unity Images/main3.png)
+![](/assets/images/Unity_Images/main3.png)
 
 ## How am I going to do this?
 
@@ -63,7 +63,7 @@ You need the following applications on your PC:
 
 #### Navigate to the [Unity Starter Code](https://www.dropbox.com/s/lp7q8oz0j1sxfed/unity-starter-code.zip?dl=0) to download the project! Note - it might take a long time to download. It's a huge file!
 
-![](/assets/images/Unity Images/Screenshot(42).png)
+![](/assets/images/Unity_Images/Screenshot(42).png)
 
 You can see the download button at the top right side. 
 
@@ -75,21 +75,21 @@ You can see the download button at the top right side.
 2) Right click on **unity-starter-code**.
 3) Click **Extract All**.
 
-![](/assets/images/Unity Images/Screenshot(43).png)
+![](/assets/images/Unity_Images/Screenshot(43).png)
 
 4) Delete **unity-starter-code** from the end of the filename.
 5) Click **Extract**
 
 #### Please use the picture below for reference.
 
-![](/assets/images/Unity Images/new.png)
+![](/assets/images/Unity_Images/new.png)
 
 ## MAC Extraction 
 
 1) Open your downloads folder.
 2) Double click the zip file. It will unzip automatically.
 
-![](/assets/images/Unity Images/new1.png)
+![](/assets/images/Unity_Images/new1.png)
 
 # Let's get cracking!
 
@@ -97,11 +97,11 @@ You can see the download button at the top right side.
 
 1) Navigate to [Unity Hub](http://mlhlocal.host/unity-hub) and select **Try Personal**.
 
-![](/assets/images/Unity Images/new2.png)
+![](/assets/images/Unity_Images/new2.png)
 
 2) Accept the terms and select **Download Unity Hub**.
 
-![](/assets/images/Unity Images/Screenshot(46).png)
+![](/assets/images/Unity_Images/Screenshot(46).png)
 
 ## Installing Unity Hub
 
@@ -114,7 +114,7 @@ Unity terms of service.
 5) Once you've installed it, we can
 open up Unity Hub!
 
-![](/assets/images/Unity Images/Screenshot(47).png)
+![](/assets/images/Unity_Images/Screenshot(47).png)
 
 6) The Windows installation will
 provide the option for selecting
@@ -131,7 +131,7 @@ the Applications folder.
 > After a few minutes of installing, Unity Hub should now be installed
 on our system. Both Windows and OS X installers should open Unity Hub after a successful installation. If not, open it up!
 
-![](/assets/images/Unity Images/Screenshot(49).png)
+![](/assets/images/Unity_Images/Screenshot(49).png)
 
 ## Creating a User ID
 
@@ -149,7 +149,7 @@ open up an account creation form.
 
 6) Click the confirmation link sent to the email you provided.
 
-![](/assets/images/Unity Images/Screenshot(52).png)
+![](/assets/images/Unity_Images/Screenshot(52).png)
 
 # Great! You've got Unity Hub installed. Let's get familiar!
 
@@ -169,11 +169,11 @@ tab
 ● And within the Learn tab we can
 find Unity tutorials and resources
 
-![](/assets/images/Unity Images/Screenshot1.png)
+![](/assets/images/Unity_Images/Screenshot1.png)
 
 ● This area displays the Unity Hub content. Content from the Projects, Learn and Installs tabs are displayed here.
 
-![](/assets/images/Unity Images/Screenshot2.png)
+![](/assets/images/Unity_Images/Screenshot2.png)
 
 ## Installing Unity
 
@@ -181,7 +181,7 @@ find Unity tutorials and resources
 * Choose Unity 2018 x from it.
 * Unity can be downloaded directly to your machine with either the Downloads(Mac) or Downloads(Win) buttons.
 
-![](/assets/images/Unity Images/Screenshot3.png)
+![](/assets/images/Unity_Images/Screenshot3.png)
 
 This will download the Unity Install Assistant and guide you through the installation process. You can also download this version through the green Unity Hub button.
 
@@ -202,7 +202,7 @@ This will download the Unity Install Assistant and guide you through the install
 
 ### The following window will open:
 
-![](/assets/images/Unity Images/Screenshot4.png)
+![](/assets/images/Unity_Images/Screenshot4.png)
 
 ## The Scene Hierarchy
 
@@ -217,7 +217,7 @@ the scene window.
 1. Try selecting the MainCamera object
 Cameras > CarCameraRig > Pivot > MainCamera
 
-![](/assets/images/Unity Images/Screenshot5.png)
+![](/assets/images/Unity_Images/Screenshot5.png)
 
 ●  If we select the MainCamera in the
 Hierarchy window, we are provided with
@@ -232,7 +232,7 @@ Car or AICar, we can see the objects
 become the area of focus and become
 outlined within the scene window.
 
-![](/assets/images/Unity Images/Screenshot6.png)
+![](/assets/images/Unity_Images/Screenshot6.png)
 
 ## The Project Window
 
@@ -249,7 +249,7 @@ search field. These make it faster to find
 items or relocate frequently used
 content.
 
-![](/assets/images/Unity Images/Screenshot7.png)
+![](/assets/images/Unity_Images/Screenshot7.png)
 
 ## Inspector Window
 
@@ -268,7 +268,7 @@ will still display within the Inspector view.
 control the Components we apply to game
 objects. We will explore Components more later!
 
-![](/assets/images/Unity Images/Screenshot8.png)
+![](/assets/images/Unity_Images/Screenshot8.png)
 
 ## Scene Window
 
@@ -284,7 +284,7 @@ is an essential skill in Unity.
 
 ## The 3D World 
 
-![](Images/Screenshot10.png)
+![](/assets/images/Unity_Images/Screenshot10.png)
 
 ### We can drag 3D Assets directly into the scene to create content. Unity provides numerous built-in assets for the project!
 
@@ -294,13 +294,13 @@ is an essential skill in Unity.
 
 2. Then drag that file into our scene and a new D object will appear! It's really that simple.
 
-![](/assets/images/Unity Images/Screenshot11.png)
+![](/assets/images/Unity_Images/Screenshot11.png)
 
-3. In the top right corner, a drop down menu provides several layout configurations. These will reposition the entire Unity Edito layout.
+3. In the top right corner, a drop down menu provides several layout configurations. These will reposition the entire Unity Editor layout.
 
 4. To edit code, a text editor or IDE is essential. Go to **Preferences > External Tools > External Script Editor**
 
-![](/assets/images/Unity Images/Screenshot from 2019-09-28 19-20-23.png)
+![](/assets/images/Unity_Images/Screenshot from 2019-09-28 19-20-23.png)
 
 # Finally! Car Racing Game.
 
@@ -313,7 +313,7 @@ is an essential skill in Unity.
 
 ### Let's Test This Out
 
-![](/assets/images/Unity Images/Screenshot from 2019-09-28 19-25-37.png)
+![](/assets/images/Unity_Images/Screenshot from 2019-09-28 19-25-37.png)
 
 ### In order to move the car, we will now use C#
 
@@ -345,7 +345,7 @@ Edit > Project Settings > Input > Axes > Vertical
 
 Set it as follows:
 
-![](/assets/images/Unity Images/Screenshot from 2019-09-28 21-04-48.png)
+![](/assets/images/Unity_Images/Screenshot from 2019-09-28 21-04-48.png)
 
 **For Jump:**
 
@@ -353,11 +353,11 @@ Edit > Project Settings > Input > Axes > Jump
  
  Set it as follows:
 
- ![](/assets/images/Unity Images/Screenshot from 2019-09-28 21-12-14.png)
+ ![](/assets/images/Unity_Images/Screenshot from 2019-09-28 21-12-14.png)
 
  **The Final Script would look like this:**
 
- ![](/assets/images/Unity Images/Screenshot from 2019-09-28 21-13-31.png)
+ ![](/assets/images/Unity_Images/Screenshot from 2019-09-28 21-13-31.png)
 
  # Test Run!
 
@@ -369,11 +369,11 @@ Edit > Project Settings > Input > Axes > Jump
 
  1. Left click an object inside the scene. It will bring up the Inspector tab.
 
- ![](/assets/images/Unity Images/Screenshot from 2019-09-28 21-16-50.png)
+ ![](/assets/images/Unity_Images/Screenshot from 2019-09-28 21-16-50.png)
 
 Set it as follows:
 
-![](/assets/images/Unity Images/Screenshot from 2019-09-28 21-21-44.png)
+![](/assets/images/Unity_Images/Screenshot from 2019-09-28 21-21-44.png)
 
 ### Great! What do I do about the other wall?
 
@@ -389,7 +389,7 @@ Add Component > Physics > Mesh Collider
 
 3. Select 'Build' at the bottom of the window, a new window will open up to select where to save the build of the game.
 
-![](/assets/images/Unity Images/Screenshot from 2019-09-28 21-28-59.png)
+![](/assets/images/Unity_Images/Screenshot from 2019-09-28 21-28-59.png)
 
 # You now have an executable of this project! Try running it in your machine!
  
