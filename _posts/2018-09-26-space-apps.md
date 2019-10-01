@@ -2,7 +2,7 @@
 layout: post
 title:  "NASA Space Apps Challenge"
 author: masoomi
-categories: [ Glug, Hackathon, NASA]
+categories: [ events, hackathon, nasa ]
 image: assets/images/nasa/logo.jpg
 featured: false
 excerpt: We conducted the NASA Space Apps Challenge 2018 Regional Round for Karnataka at Sir M. Visvesvaraya Institute of Technology, Bangalore.

@@ -4,7 +4,7 @@ title:  "Machine Learning: Clustering Text documents"
 author: ayushi
 categories: [ Machine Learning, Python ]
 image: assets/images/cluster/img1.jpg
-featured: true
+featured: false
 mathjax: true
 excerpt: Applying K-means Clustering algorithm to 20 newsgroup datasets to cluster most frequent words in articles together.
 ---

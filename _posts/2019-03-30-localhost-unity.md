@@ -2,7 +2,7 @@
 layout: post
 title:  "MLH Localhost: Game Development with Unity 3D"
 author: absingh
-categories: [ glug, microsoft ]
+categories: [ events, microsoft ]
 image: assets/images/unity3d/poster.jpg
 featured: false
 excerpt: Our experience with hosting MLH Localhost at Sir M. Visvesvaraya Institute of Technology, Bangalore, in association with Microsoft and Subway.
@@ -28,7 +28,7 @@ Participants need to be able to install the Unity engine on their computers. Whi
 |  2. | Setting up the Unity development environment  | 09:40 - 10:00  | Sushen Kumar |
 |  3. | Introduction to Unity | 10:00 - 10:45 | Sushen Kumar |
 |  4. | Introduction to C# | 10:45 - 11:15 | Vipul Gaurav |
-|  5. | Subway Snack break | 11:15 - 11:30 | NIL |
+|  5. | Subway Snack break | 11:15 - 11:30 | Nil |
 |  6. | Build your own 3D game | 11:30 - 12:15 | Sushen Kumar |
 |  7. | Closing keynote | 12:15 - 12:30 | Abhijeet Singh |
   
@@ -46,16 +46,16 @@ The event was organized by the *Computer Science & Engineering Department* of [S
     MLH representative and Smart India Hackathon winner 2019
 
 - [Abhijeet Singh](http://absingh.com/)  
-    A Microsoft Student Partner, AI developer, open source contributor, and low-key memelord.
+    Senior Microsoft Student Partner, AI developer, open-source contributor, and Mozillian.
 
 ## Organizers
 **Hosting Department**: Department of Computer Science and Engineering  
 **Hosted by**: Dr. G. C. Banu Prakash (Professor and Head)  
 
 **Faculty coordinators**:
-- Mrs Sheela Kathavate (Associate Professor, Dept. of CSE)
-- Mrs Savita Choudhary (Associate Professor, Dept. of CSE)
-- Mrs Sushila Shidnal (Associate Professor, Dept. of CSE)
+- Dr. Sheela Kathavate (Associate Professor, Dept. of CSE)
+- Dr. Savita Choudhary (Associate Professor, Dept. of CSE)
+- Mrs. Sushila Shidnal (Associate Professor, Dept. of CSE)
 
 **Student coordinators**:
 - [Abhijeet Singh](http://absingh.com), 1MV16CS001 (Microsoft Student Partner & Lead, GLUG MVIT)

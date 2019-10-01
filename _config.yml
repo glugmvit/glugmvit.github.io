@@ -139,8 +139,26 @@ authors:
     twitter: https://twitter.com/Ujwal07kumar?s=03
     web: https://www.linkedin.com/in/ujwal-kumar-a096b179
     description: "Cyber Security Consultant"
+
+  shashwat:
+    name: Shashwat Srivastava
+    display_name: Shashwat Srivastava
+    gravatar: "/assets/images/avatar/shashwat.jpeg"
+    email: shanu.sri0212@gmail.com
+    twitter: https://www.instagram.com/shashwat.0212/
+    web:
+    description: "Proficient in Java, C++ and OOP | Problem Solving Enthusiast"
     
+  shresth:
+    name: Shresth Singh
+    display_name: Shresth Singh
+    gravatar: "/assets/images/avatar/shresth.jpeg"
+    email: singhshresth26@gmail.com
+    twitter: https://www.instagram.com/shresth_sing/
+    web: https://www.linkedin.com/in/shresth-singh-7aa062175/
+    description: "Software Engineer | Web Developer"
     
+
 # Reading Files
 include:
 - _pages
