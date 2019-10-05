@@ -152,6 +152,43 @@ Reset the board or unplug it and plug it back in, then connect to the serial REP
 
 ## Voila ! Now you are all set to write your own codes and run them.
 
+## LED Blinking on NodeMCU ESP8266
+
+Open any editor and copy the following in the file and save the filename as ```led_blink.py```
+
+```python
+import machine, time
+
+led = machine.Pin(2, machine.Pin.OUT)
+
+for i in range(20):
+    led.off()
+    time.sleep_ms(500)
+    led.on()
+    time.sleep_ms(500)
+
+```
+
+Now open the terminal and move to the directory where ```led_blink.py``` file is saved and paste the following code in the terminal
+
+on MacOS
+
+```bash
+ampy --port /dev/tty.SLAB_USBtoUART run led_blink.py
+```
+
+on Linux
+
+```bash
+ampy --port /dev/ttyUSB0 run led_blink.py
+```
+
+if you want to save the file in the NodeMCU paste the following command
+
+```bash
+ampy --port /dev/ttyUSB0 put led_blink.py main.py
+```
+
 
 #### References
 
