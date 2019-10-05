@@ -189,7 +189,6 @@ if you want to save the file in the NodeMCU paste the following command
 ampy --port /dev/ttyUSB0 put led_blink.py main.py
 ```
 
-
 #### References
 
 - [The Podnet Blog](https://blog.thepodnet.com)
