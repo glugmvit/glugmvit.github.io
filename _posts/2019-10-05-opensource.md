@@ -31,7 +31,7 @@ Next comes git.Git is a command line tool which can be used as a service to uplo
 
  The other features of GitHub includes projects, security and following system. But the above definitions pretty much include what helps you to make your first contribution. Remote means the repository is not on your system. It is on a "remote" server. Local refers to your own repository in your own system which you have created or cloned from another user.
 
-##The Git commands
+## The Git commands
 **Initialising git**
 ```
 git init [project_name]
@@ -41,7 +41,10 @@ The above command helps to create a new local git repository. project_name is th
 
 
  **For developers**
- 1. The first step to your very first open source contribution is to fork your repository from the "master" repository. After forking the repository, you can clone the forked repository to work on it locally by using the following command:
+ 1. The first step to your very first open source contribution is to fork your repository from the "master" repository. Fork can be made by using the GitHub GUI:
+ <img src= "https://drupal.gatech.edu/sites/default/files/inline-images/fork1.jpg"> 
+ After forking the repository, you can clone the forked repository to work on it locally by using the following command:
+
  
  ```
 git clone username@host:/path/to/repository
@@ -56,3 +59,10 @@ git clone username@host:/path/to/repository
 git add <filename>
 
 ```
+4. After making the required changes and adding your files, you have to commit your changes so that it gets saved in your remote repository. The commit history helps you to keep a record of what you have changed. You can commit by using the following command :
+
+```
+git commit –m “Message to go with the commit here”
+
+```
+
