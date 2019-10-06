@@ -33,8 +33,10 @@ Next comes git.Git is a command line tool which can be used as a service to uplo
 
 ## The Git commands
 **Initialising git**
-```sh
+
+```
 git init [project_name]
+
 ```
 The above command helps to create a new local git repository. project_name is the name of the directory or the project.
 
@@ -111,3 +113,29 @@ You can start with the following repositories:
 - [Hactoberfest by Glug MVIT](https://github.com/glugmvit/Hacktoberfest)
 
 Also, we have a curated list of Mozilla Projects [here](https://docs.google.com/document/d/1tFS-Yc0F91efiKwmYzGy9TrlGReXzFrVSMn39TGeC0c/edit).
+ **For developers**
+ 1. The first step to your very first open source contribution is to fork your repository from the "master" repository. Fork can be made by using the GitHub GUI:
+ <img src= "https://drupal.gatech.edu/sites/default/files/inline-images/fork1.jpg"> 
+ After forking the repository, you can clone the forked repository to work on it locally by using the following command:
+
+ 
+ ```
+git clone username@host:/path/to/repository
+
+```
+
+2. After this you can make any changes you want on the cloned repository and save them.  You can add a new feature, solve an issue or change any file.
+
+3. After this you can add your changed files to your remote by using the following commands:
+
+```
+git add <filename>
+
+```
+4. After making the required changes and adding your files, you have to commit your changes so that it gets saved in your remote repository. The commit history helps you to keep a record of what you have changed. You can commit by using the following command :
+
+```
+git commit –m “Message to go with the commit here”
+
+```
+
