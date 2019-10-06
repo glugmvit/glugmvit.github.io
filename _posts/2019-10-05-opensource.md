@@ -33,36 +33,81 @@ Next comes git.Git is a command line tool which can be used as a service to uplo
 
 ## The Git commands
 **Initialising git**
-```
+```sh
 git init [project_name]
-
 ```
 The above command helps to create a new local git repository. project_name is the name of the directory or the project.
 
 
- **For developers**
- 1. The first step to your very first open source contribution is to fork your repository from the "master" repository. Fork can be made by using the GitHub GUI:
- <img src= "https://drupal.gatech.edu/sites/default/files/inline-images/fork1.jpg"> 
+ **Make your first pull request!**
+ - The first step to your very first open source contribution is to fork your repository from the "master" repository. Fork can be made by using the GitHub GUI: 
+
+ ![](/assets/images/opensource/fork.png) 
+
  After forking the repository, you can clone the forked repository to work on it locally by using the following command:
 
  
- ```
-git clone username@host:/path/to/repository
-
+ ```sh
+ git clone username@host:/path/to/repository
 ```
 
-2. After this you can make any changes you want on the cloned repository and save them.  You can add a new feature, solve an issue or change any file.
+After this you can make any changes you want on the cloned repository and save them.  You can add a new feature, solve an issue or change any file.
 
-3. After this you can add your changed files to your remote by using the following commands:
+- After this you can add your changed files to your remote by using the following commands:
 
-```
+```sh
 git add <filename>
-
 ```
-4. After making the required changes and adding your files, you have to commit your changes so that it gets saved in your remote repository. The commit history helps you to keep a record of what you have changed. You can commit by using the following command :
+- After making the required changes and adding your files, you have to commit your changes so that it gets saved in your remote repository. The commit history helps you to keep a record of what you have changed. You can commit by using the following command :
 
-```
+```sh
 git commit –m “Message to go with the commit here”
-
 ```
+- If ou are an absolute beginner, you need to set your account and configure it with values like email, password and so on. You can do that by writing the following commands in terminal:
 
+```sh
+git config --global user.email youremail@example.com
+```
+Here the global flag tells that it works on any of the local repositories on your system.
+For making changes to local, you can use the local keyword instead of global. 
+
+- You can create a new branch and push your changes to that branch. It is not mandatory to do that, but it would be easier for the organisation to test and merge your changes, that way. To create a new branch:
+
+```sh
+git checkout -b <branch-name>
+```
+To switch from one branch to another use:
+
+```sh
+git checkout <branch-name> 
+```
+- To check  the status of your repository changes, use :
+```sh
+git status
+```
+- You can use the following to push your local commits to any branch of your remote repository:
+```sh
+git push origin <branch-name>
+```
+- For creating a pull request, use the GitHub GUI and add your comments to specify your changes. 
+
+<img src= "https://help.github.com/assets/images/help/pull_requests/pullrequest-send.png">
+
+Voila, you just created your first pull request! After this your pull request will reach the organisation and might merge or comment on your changes. 
+
+## The Beginner's space
+
+Nervous? No need to be. You can start by contributing to some of the easy issues: 
+- [Viking-Robotics](https://github.com/DVC-Viking-Robotics/webapp/issues/60)
+- [Dart](https://github.com/dart-lang/site-www/issues/1976)
+- [GLUG MVIT Issue 1](https://github.com/glugmvit/glugmvit.github.io/issues/36)
+- [GLUG MVIT Issue 2](https://github.com/glugmvit/glugmvit.github.io/issues/42)
+
+This is October, not just the month of Halloween, this is also the month of another festival which starts with 'H'- Hacktoberfest! You can contribute all October and get prizes for your open source contributions. 
+
+You can start with the following repositories:
+- [NIT-K Hacktobrfest](https://github.com/WebClub-NITK/Hacktoberfest-2k19/)
+- [Hacktoberfest repository By Aswin](https://github.com/infiniteoverflow/Hacktoberfest_19)
+- [Hactoberfest by Glug MVIT](https://github.com/glugmvit/Hacktoberfest)
+
+Also, we have a curated list of Mozilla Projects [here](https://docs.google.com/document/d/1tFS-Yc0F91efiKwmYzGy9TrlGReXzFrVSMn39TGeC0c/edit).
