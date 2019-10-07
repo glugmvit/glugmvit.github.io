@@ -16,7 +16,7 @@ Whether you’re a developer, student learning to code, event host, or company o
 
 The event kicked off at 10:00 am in the beautiful workspace of CoffeeBeans, HSR Layout. The place bustled with lots of college students and professionals. Everyone was brimming with enthusiasm and were ready to dive into open source. 
 
-There were mentors and guides from Mozilla community assisting the participants throughout the event. From newbies to experts, everyone learned and explored new ideas. There were tech talks given by students. There were discussions on open source, Mozilla's open design and DeepSpeech. 
+There were mentors and guides from the Mozilla community assisting the participants throughout the event. The attendees, both beginners to open-source veterans alike, explored various Mozilla projects on GitHub anf contributed to them, guided by Mozillians. There were talks about Mozilla mission, Open Source, Open Design, Deep Speech, Common Voice, Rust, Bug Hunting and Add-ons. Akshay and Jyotsna enlightened people with the projects by Mozilla and motivated them with their words.
 
 Overall, it was an interesting event. As much as people learned, they also enjoyed brainstorming ideas over tea and pizza. 
 
@@ -35,8 +35,8 @@ The entire October of 2019! You can contribute any time in this month. All you n
 
 # Thank You!
 
-A special thanks to the Mozilla community for organising this wonderful event. Thank you Jyotsna Gupta, Akshay Dinesh and Abhiram Ravikumar for the oppurtunity!
-Also, thank you CoffeeBeans, HSR Layout and SAP for providing us with the facilities and support.
+A special thanks to the Mozilla community for organising this wonderful event. Thank you Jyotsna Gupta, Akshay S Dinesh, Abhiram Ravikumar and Mozilla Reps Bangalore community for the oppurtunity and making the event possible. 
+Also, thank you to the sponsors, CoffeeBeans Consulting and SAP Labs for providing us with the facilities and support.
 
 *Happy Hacktoberfest everyone!*
 
