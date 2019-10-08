@@ -4,7 +4,7 @@ title: "Getting Started with MicroPython on NodeMCU ESP8266"
 author: aditya
 categories: [ IoT, micropython, nodemcu ]
 image: assets/images/nodemcu/nodemcu.jpg
-featured: true
+featured: false
 excerpt: Getting Started with MicroPython on NodeMCU ESP8266
 ---
 
@@ -18,11 +18,11 @@ The **ESP8266** chip is a great platform for using MicroPython.
 ## About NodeMCU
 NodeMCU is an open source IoT platform. It includes firmware which runs on the ESP8266 Wi-Fi SoC from Espressif Systems, and hardware which is based on the ESP-12 module.
 
-## Features of NodeMCU :
+## Features of NodeMCU:
 
-- **Arduino-like hardware IO** : Advanced API for hardware IO, which can dramatically reduce the redundant work for configuring and manipulating hardware. Code like arduino, but interactively.
-- **Nodejs style network API** : Event-driven API for network applications, which facilitates developers writing code and running on a MCU in Nodejs style. This speeds up your IOT application developing process.
-- **Lowest cost programmable WI-FI** : Less than $2 WI-FI MCU ESP8266 integrated and easy to prototyping development kit.
+- **Arduino-like hardware IO**: Advanced API for hardware IO, which can dramatically reduce the redundant work for configuring and manipulating hardware. Code like arduino, but interactively.
+- **Nodejs style network API**: Event-driven API for network applications, which facilitates developers writing code and running on a MCU in Nodejs style. This speeds up your IOT application developing process.
+- **Lowest cost programmable WI-FI**: Less than $2 WI-FI MCU ESP8266 integrated and easy to prototyping development kit.
 - **Wifi networking** (can be used as access point and/or station, host a web server), connect to internet to fetch or upload data.
 
 ## Using NodeMCU on your System
@@ -53,7 +53,7 @@ picocom /dev/tty.SLAB_USBtoUART -b115200
 
 Once you have made the connection over the serial port you can test if it is working by hitting enter a few times. You should see the Python REPL prompt, indicated by ```>>>```.
 
-Now you are ready to play with the NodeMCU
+Now you are ready to play with the NodeMCU.
 
 ## Testing the NodeMCU
 In the REPL run these commands :
@@ -75,4 +75,4 @@ Ctrl-A + Ctrl-Q
 - [NodeMCU](https://www.nodemcu.com/)
 - [MicroPython](https://docs.micropython.org/en/latest/)
 
-### The post is also available on the author's [personal website](https://ramanaditya.github.io) and [Podnet Blog](https://blog.thepodnet.com/getting-started-with-micropython-on-nodemcu/)
+The post is also available on the author's [personal website](https://ramanaditya.github.io) and the [Podnet blog](https://blog.thepodnet.com/getting-started-with-micropython-on-nodemcu/).

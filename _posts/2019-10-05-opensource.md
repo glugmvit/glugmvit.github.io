@@ -34,9 +34,8 @@ Next comes git.Git is a command line tool which can be used as a service to uplo
 ## The Git commands
 **Initialising git**
 
-```
+```sh
 git init [project_name]
-
 ```
 The above command helps to create a new local git repository. project_name is the name of the directory or the project.
 
@@ -107,9 +106,4 @@ Nervous? No need to be. You can start by contributing to some of the easy issues
 
 This is October, not just the month of Halloween, this is also the month of another festival which starts with 'H'- Hacktoberfest! You can contribute all October and get prizes for your open source contributions. 
 
-You can start with the following repositories:
-- [NIT-K Hacktobrfest](https://github.com/WebClub-NITK/Hacktoberfest-2k19/)
-- [Hacktoberfest repository By Aswin](https://github.com/infiniteoverflow/Hacktoberfest_19)
-- [Hactoberfest by Glug MVIT](https://github.com/glugmvit/Hacktoberfest)
-
-Also, we have a curated list of Mozilla Projects [here](https://docs.google.com/document/d/1tFS-Yc0F91efiKwmYzGy9TrlGReXzFrVSMn39TGeC0c/edit).
+We have a curated list of Mozilla Projects [here](https://docs.google.com/document/d/1tFS-Yc0F91efiKwmYzGy9TrlGReXzFrVSMn39TGeC0c/edit).
