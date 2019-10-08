@@ -29,7 +29,7 @@ NodeMCU is an open source IoT platform. It includes firmware which runs on the E
 
 - [Using it on Mac OS Mojave and higher](https://blog.thepodnet.com/set-up-micropython-on-nodemcu-on-mac-os-10-14-5/)
 - [Using it on GNU Linux](https://blog.thepodnet.com/getting-started-with-nodemcu-esp8266-on-linux/)
-- Using it on Windows (Coming Soon)
+- [Using it on Windows](https://blog.thepodnet.com/getting-started-on-winows-with-micropython-and-node-mcu8266/)
 
 ## Getting a MicroPython REPL prompt
 REPL stands for Read Evaluate Print Loop, and is the name given to the interactive MicroPython prompt that you can access on the ESP8266. Using the REPL is by far the easiest way to test out your code and run commands.
@@ -48,7 +48,7 @@ picocom /dev/tty.SLAB_USBtoUART -b115200
 
 ### On Linux
 ```bash
-
+picocom /dev/ttyUSB0 -b115200
 ```
 
 Once you have made the connection over the serial port you can test if it is working by hitting enter a few times. You should see the Python REPL prompt, indicated by ```>>>```.
