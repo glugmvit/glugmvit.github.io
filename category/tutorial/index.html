@@ -17,18 +17,19 @@
 <meta property="og:url" content="http://localhost:4000/category/tutorial/" />
 <meta property="og:site_name" content="GLUG MVIT" />
 <script type="application/ld+json">
-{"headline":"tutorial","@type":"WebPage","url":"http://localhost:4000/category/tutorial/","description":"Community of FOSS developers from Sir M. Visvesvaraya Institute of Technology","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/logo_full_rect.png"}},"@context":"http://schema.org"}</script>
+{"url":"http://localhost:4000/category/tutorial/","headline":"tutorial","description":"Community of FOSS developers from Sir M. Visvesvaraya Institute of Technology","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/logo_full_rect.png"}},"@type":"WebPage","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cabin:700|Lora:400" rel="stylesheet">
     <link href="/assets/css/theme.css" rel="stylesheet">
-    <link href="/assets/css/custom.css" rel="stylesheet">
     <link href="/assets/css/table.css" rel="stylesheet">
     <link href="/assets/css/prism.css" rel="stylesheet">
+    <link href="/assets/css/custom.css" rel="stylesheet">
 
-    <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>
+    <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5cca329136d0970012b888ec&product=sticky-share-buttons' async='async'></script>
 
     
     <!-- start custom head snippets -->
@@ -49,7 +50,6 @@
 <meta name="msapplication-config" content="/assets/images/icons/browserconfig.xml">
 
 <meta name="msapplication-TileImage" content="/assets/images/icons/mstile-150x150.png">
-
 <meta name="theme-color" content="#ffffff">
 
 <!-- end custom head snippets -->
@@ -57,11 +57,12 @@
 </head>
 
 
-<body class="layout-archive">
+<body class="layout-archive line-numbers">
 
 
 <!-- Begin Menu Navigation
 ================================================== -->
+
 <header class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation">
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsWow" aria-controls="navbarsWow" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -79,9 +80,23 @@
 
             <!-- Begin Menu -->
             <ul class="navbar-nav ml-auto">
+                <!-- HTML for search box -->
+	            <div class="dropdown navbar-item">
+	                <button class="btn btn-secondary active" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"  style="background-color:transparent;border-color: transparent;box-shadow:none;">
+	                    <i class="fas fa-search" aria-hidden="true"></i>
+	                </button>
+	                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+	                    <input class="form-control" id="search-input" type="text" placeholder="Search" aria-label="Search" style="border-radius: 0;">
+	                    <ul id="results-container" class="pagination dropdown-item"></ul>
+	                </div>
+	            </div>
 
                 <li class="nav-item">
-                <a class="nav-link" href="/index.html">Home</a>
+                    <a class="nav-link" href="https://www.glugmvit.com/">Home</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="/index.html">Blog</a>
                 </li>
 
                 <li class="nav-item dropdown">
@@ -101,7 +116,7 @@
                 </li>
 
                  <li class="nav-item">
-                    <a target="_blank" class="nav-link" href="https://github.com/glugmv">GitHub</a>
+                    <a target="_blank" class="nav-link" href="https://github.com/glugmvit">GitHub</a>
                 </li>
 
 
@@ -111,6 +126,23 @@
 
             </ul>
             <!-- End Menu -->
+
+
+            <!-- Search Box
+            ================================================== -->
+            <!-- HTML elements for search -->
+
+            <!-- script pointing to jekyll-search.js -->
+            <script src="/assets/js/simple-jekyll-search.min.js"></script>
+            <!-- Configuration -->
+            <script>
+            SimpleJekyllSearch({
+              searchInput: document.getElementById('search-input'),
+              resultsContainer: document.getElementById('results-container'),
+              json: '/assets/search.json'
+            })
+            </script>
+
 
         </div>
     </div>
@@ -157,12 +189,117 @@
 
 <div class="col-md-6 grid-item">
 <div class="card">
+    <a href="http://localhost:4000/aws-cli/">
+         <img class="img-fluid" src="/assets/images/aws-cli/aws-cli-header.png" alt="Introduction to AWS Command Line Interface"> 
+    </a>
+    <div class="card-block">
+        <h2 class="card-title"><a href="http://localhost:4000/aws-cli/">Introduction to AWS Command Line Interface</a></h2>
+        <h4 class="card-text">The AWS Command Line Interface (AWS CLI) is an open source tool that enables you to interact with AWS services using your command-line shell.</h4>
+        <div class="metafooter">
+          <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                <img class="author-thumb" src="https://www.gravatar.com/avatar/a737e0e0b617487e706c406b0b80ef5d?s=250&d=mm&r=x" alt="Abhijeet Singh">
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="https://www.absingh.com">Abhijeet Singh</a></span><br/>
+                
+                <span class="post-date">01 Sep 2019</span>
+                </span>
+                <span class="post-read-more"><a href="http://localhost:4000/aws-cli/" title="Read Story"><i class="fa fa-link"></i></a></span>
+                <div class="clearfix"></div>
+                </div>
+                
+        </div>
+    </div>
+</div>
+</div>
+<!-- end post -->
+
+
+            
+
+            <!-- begin post -->
+
+
+<div class="col-md-6 grid-item">
+<div class="card">
+    <a href="http://localhost:4000/first-app/">
+         <img class="img-fluid" src="/assets/images/first_app/flutter.jpg" alt="Installing Flutter"> 
+    </a>
+    <div class="card-block">
+        <h2 class="card-title"><a href="http://localhost:4000/first-app/">Installing Flutter</a></h2>
+        <h4 class="card-text">How to install flutter for Windows</h4>
+        <div class="metafooter">
+          <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                <img class="author-thumb" src="/assets/images/avatar/prakruthi.jpeg" alt="Prakruthi Maanjunath">
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="https://prakruthi3.github.io">Prakruthi Maanjunath</a></span><br/>
+                
+                <span class="post-date">22 Aug 2019</span>
+                </span>
+                <span class="post-read-more"><a href="http://localhost:4000/first-app/" title="Read Story"><i class="fa fa-link"></i></a></span>
+                <div class="clearfix"></div>
+                </div>
+                
+        </div>
+    </div>
+</div>
+</div>
+<!-- end post -->
+
+
+            
+
+            <!-- begin post -->
+
+
+<div class="col-md-6 grid-item">
+<div class="card">
+    <a href="http://localhost:4000/convolutional-neural-networks/">
+         <img class="img-fluid" src="/assets/images/cnn/7.jpg" alt="Intro to CNNs"> 
+    </a>
+    <div class="card-block">
+        <h2 class="card-title"><a href="http://localhost:4000/convolutional-neural-networks/">Intro to CNNs</a></h2>
+        <h4 class="card-text">This is a basic tutorial to get started with Convolutional Neural Networks.</h4>
+        <div class="metafooter">
+          <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                <img class="author-thumb" src="/assets/images/avatar/susmit.jpg" alt="Susmit Agrawal">
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="https://www.linkedin.com/in/susmit-agrawal-9b6443149">Susmit Agrawal</a></span><br/>
+                
+                <span class="post-date">10 May 2019</span>
+                </span>
+                <span class="post-read-more"><a href="http://localhost:4000/convolutional-neural-networks/" title="Read Story"><i class="fa fa-link"></i></a></span>
+                <div class="clearfix"></div>
+                </div>
+                
+        </div>
+    </div>
+</div>
+</div>
+<!-- end post -->
+
+
+            
+
+            <!-- begin post -->
+
+
+<div class="col-md-6 grid-item">
+<div class="card">
     <a href="http://localhost:4000/opencv/">
          <img class="img-fluid" src="/assets/images/opencv/opencv.png" alt="OpenCV Techniques and Approaches"> 
     </a>
     <div class="card-block">
         <h2 class="card-title"><a href="http://localhost:4000/opencv/">OpenCV Techniques and Approaches</a></h2>
-        <h4 class="card-text">OpenCV is a library of programming functions mainly aimed at real-time computer vision. The library is cross-platform and free for use under the open-source BSD license.</h4>
+        <h4 class="card-text">OpenCV is a library of programming functions mainly aimed at real-time computer vision.</h4>
         <div class="metafooter">
           <div class="wrapfooter">
                 
@@ -202,10 +339,10 @@
           <div class="wrapfooter">
                 
                 <span class="meta-footer-thumb">
-                <img class="author-thumb" src="/assets/images/avatar/patrick.jpg" alt="Sharjil Ahmed">
+                <img class="author-thumb" src="/assets/images/avatar/sharjil.jpg" alt="Sharjil Ahmed">
                 </span>
                 <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="">Sharjil Ahmed</a></span><br/>
+                <span class="post-name"><a target="_blank" href="https://www.linkedin.com/in/syedsharjil/">Sharjil Ahmed</a></span><br/>
                 
                 <span class="post-date">29 Apr 2019</span>
                 </span>
@@ -242,44 +379,9 @@
                 <span class="author-meta">
                 <span class="post-name"><a target="_blank" href="https://www.absingh.com">Abhijeet Singh</a></span><br/>
                 
-                <span class="post-date">27 Apr 2019</span>
+                <span class="post-date">01 Mar 2019</span>
                 </span>
                 <span class="post-read-more"><a href="http://localhost:4000/markdown/" title="Read Story"><i class="fa fa-link"></i></a></span>
-                <div class="clearfix"></div>
-                </div>
-                
-        </div>
-    </div>
-</div>
-</div>
-<!-- end post -->
-
-
-            
-
-            <!-- begin post -->
-
-
-<div class="col-md-6 grid-item">
-<div class="card">
-    <a href="http://localhost:4000/markup-example/">
-         <img class="img-fluid" src="/assets/images/6.jpg" alt="Markdown Example"> 
-    </a>
-    <div class="card-block">
-        <h2 class="card-title"><a href="http://localhost:4000/markup-example/">Markdown Example</a></h2>
-        <h4 class="card-text">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways,...</h4>
-        <div class="metafooter">
-          <div class="wrapfooter">
-                
-                <span class="meta-footer-thumb">
-                <img class="author-thumb" src="https://www.gravatar.com/avatar/a737e0e0b617487e706c406b0b80ef5d?s=250&d=mm&r=x" alt="Abhijeet Singh">
-                </span>
-                <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="https://www.absingh.com">Abhijeet Singh</a></span><br/>
-                
-                <span class="post-date">11 Jan 2018</span>
-                </span>
-                <span class="post-read-more"><a href="http://localhost:4000/markup-example/" title="Read Story"><i class="fa fa-link"></i></a></span>
                 <div class="clearfix"></div>
                 </div>
                 
@@ -311,15 +413,16 @@
                         since in the end, innovations tend to come from small groups, not from large,
                         structured efforts."</p></i>
                     <p>- <span></span><span class="risk-free">Tim O'Reilly</span></p>
-                    <a class="btn btn-primary btn-lg" href="#">Join us</a>
+                    <a class="btn btn-primary btn-lg" href="https://join.slack.com/t/smvit/shared_invite/enQtNDA4NTYyMjYzNTQzLWE3MWEyNjBiM2U2MTljZjY5ODRmZmJjNmQ4MjAwYzJiOTg4ZGYxZGQxOTJiMzA1NGRlY2EzZWM3NWQ0ZGE0M2E">Join us</a>
                 </div>
                 <div class="col-md-4 text-right footersocial">
                     <h5>Connect with Us</h5>
-                    <a href="https://www.facebook.com/groups/193504514397500/"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.facebook.com/glugmvit/"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://gitter.im/glugmvit/community"><i class="fab fa-gitter"></i></a>
                     <a href="https://www.linkedin.com/company/glugmvit/"><i class="fab fa-linkedin-in"></i></a>
                     <a href="mailto:glugmvit@gmail.com"><i class="fas fa-envelope"></i></a>
-                    <a href="https://github.com/glugmv"><i class="fab fa-github"></i></a>
+                    <a href="https://github.com/glugmvit"><i class="fab fa-github"></i></a>
+                    <a href="https://twitter.com/glugmvit"><i class="fab fa-twitter"></i></a>
                 </div>
             </div>
         </div>
@@ -346,10 +449,10 @@
                 <h5 class="title">Resources</h5>
                 <ul>
                 <li><a target="_blank" href="https://www.absingh.com/cs101/">Intro to Computer Science</a></li>
-                <li><a target="blank" href="https://github.com/glugmv">GitHub</a></li>
+                <li><a target="blank" href="https://github.com/glugmvit">GitHub</a></li>
                 <li><a target="blank" href="https://developers.google.com/speed/pagespeed/insights/?url=blog.glugmvit.com">Page Speed Test</a></li>
                 <li><a target="blank" href="/contact/">Partner with Us</a></li>
-                <li><a target="blank" href="https://github.com/glugmv">Our Projects</a></li>
+                <li><a target="blank" href="https://github.com/glugmvit">Our Projects</a></li>
                 </ul>
                 </div>
                 </div>
@@ -370,7 +473,7 @@
                 <div class="col-sm-3">
                 <div class="footer-widget textwidget">
                     <h5 class="title">Get in touch</h5>
-                    <p>We are a community of open source enthusiasts and developers. If you have a question, or if you simply want to say hi, <a href="https://www.glugmvit.com/contact/">contact us here</a>.</p>
+                    <p>We are a community of open source enthusiasts and developers. If you have a question, or if you simply want to say hi, <a href="/contact/">contact us here</a>.</p>
                     <p>Found a bug?<br><a href="https://github.com/glugmvit/glugmvit.github.io">Report it or fix it</a></p>
                 </div>
                 </div>
@@ -403,6 +506,10 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+
+<script src="/assets/js/lazyload.js"></script>
+
 
 <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
 

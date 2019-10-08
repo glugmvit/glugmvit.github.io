@@ -8,9 +8,15 @@
 	"syntax"
 ;
 
-@media only screen 
+@media only screen
 and (max-device-width: 600px)
-{ p { overflow-x: scroll; } }
+{
+	p { overflow-x: scroll; }
+	div.copyright p {
+		text-align: center !important;
+		float:none !important;
+	}
+}
 
 pre {
 	font-size: 15px !important;
