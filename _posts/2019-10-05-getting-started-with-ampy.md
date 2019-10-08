@@ -4,10 +4,9 @@ title: "Getting Started with ampy"
 author: aditya
 categories: [ IoT, micropython, nodemcu ]
 image: assets/images/nodemcu/a5734465-d861-477f-b483-42996cb7fcd9.jpeg
-featured: true
+featured: false
 excerpt: Getting Started with ampy
 ---
-
 ## Adafruit MicroPython tool or ampy
 
 ## Introduction
@@ -66,7 +65,7 @@ The esp.osdebug function should run and return no output. After running the comm
 
 It is highly recommended to add the above two lines to the board's boot.py so debug output is disabled permanently. If you don't make this change you'll need to manually disable debug output every time you reset the board!
 
-## Quiting REPL
+## Quitting REPL
 
 ```txt
 ctrl-A + ctrl-Q
@@ -195,4 +194,4 @@ ampy --port /dev/ttyUSB0 put led_blink.py main.py
 - [NodeMCU](https://www.nodemcu.com/)
 - [MicroPython](https://docs.micropython.org/en/latest/)
 
-### The post is also available on the author's [personal website](https://ramanaditya.github.io) and [Podnet Blog](https://blog.thepodnet.com/getting-started-with-micropython-on-nodemcu/)
+The post is also available on the author's [personal website](https://ramanaditya.github.io) and the [Podnet blog](https://blog.thepodnet.com/getting-started-with-micropython-on-nodemcu/).

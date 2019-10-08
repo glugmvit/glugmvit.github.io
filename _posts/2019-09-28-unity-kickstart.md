@@ -4,8 +4,8 @@ title:  "Beginner's guide to game development with Unity 3D"
 author: masoomi
 categories: [ game development, unity ]
 image: assets/images/Unity_Images/logo.jpg
-featured: true
-excerpt: Get started with the cross-platform engine behind your favourite games. A powerful development tool for building 2D and 3D games for over 25 different platforms. 
+featured: false
+excerpt: Get started with the cross-platform engine behind your favourite games. A powerful development tool for building 2D & 3D games for over 25 different platforms. 
 ---
 <!-- Post written in markdown or html below -->
 ## What is Unity3D anyway?
