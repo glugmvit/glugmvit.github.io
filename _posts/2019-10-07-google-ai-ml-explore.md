@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google AI | ML Explore
-author: ujwal
+author: avikant
 categories: [ events, workshop, google ]
 featured: false
 image: assets/images/google-ai-ml-explore/google-ai-ml-explore.jpeg

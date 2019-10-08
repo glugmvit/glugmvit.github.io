@@ -22,7 +22,7 @@ authors:
     web: https://www.absingh.com
     twitter: https://twitter.com/cse_as
     description: "Neighbourhood friendly Software Engineer. GLUG Lead | Microsoft Student Partner | AI Developer"
-  
+
   ayushi:
     name: Ayushi
     display_name: Ayushi
@@ -31,7 +31,7 @@ authors:
     web: https://ayushianan.github.io
     twitter: https://twitter.com/Ayushi21084272
     description: "Web Developer, Machine Learning Engineer, Tech Speaker"
-  
+
   harsh:
     name: Harsh Gahlot
     display_name: Harsh Gahlot
@@ -40,7 +40,7 @@ authors:
     web: https://euno257.github.io
     twitter: https://twitter.com/Hersh257
     description: "Web Developer | Machine Learning Developer | Tech Speaker"
-  
+
   sunchit:
     name: Sunchit Lakhanpal
     display_name: Sunchit Lakhanpal
@@ -49,7 +49,7 @@ authors:
     web: https://sunchit17.github.io
     twitter: https://twitter.com/SLakhanpal17
     description: "Java | Android | Flutter | Django Developer | Tech Speaker"
-  
+
   srishti:
     name: Srishti Nema
     display_name: Srishti Nema
@@ -58,7 +58,7 @@ authors:
     web: https://www.linkedin.com/in/srishti-nema-909954182/
     twitter: https://github.com/srishti-nema
     description: "Web Developer | Problem Solver | Filled with Ideas"
-  
+
   masoomi:
     name: Masoomi Saxena
     display_name: Masoomi Saxena
@@ -67,7 +67,7 @@ authors:
     web: https://www.linkedin.com/in/masoomi-saxena-372b84172
     twitter: https://www.linkedin.com/in/masoomi-saxena-372b84172
     description: "Java | Web developer | Blogger"
-  
+
   vipul:
     name: Vipul Gaurav
     display_name: Vipul Gaurav
@@ -76,7 +76,7 @@ authors:
     web: https://www.linkedin.com/in/vipul-gaurav/
     twitter: https://twitter.com/username
     description: "MLH representative and Smart India Hackathon winner 2019"
-  
+
   vhr:
     name: Veeresh H R
     display_name: Veeresh H R
@@ -85,7 +85,7 @@ authors:
     web: https://vhr121.github.io/
     twitter: https://twitter.com/vhr121
     description: "Machine Learning Engineer, Full stack Developer, Tech Speaker, FOSS Enthusiast, Traveller and Biker. Founder of GLUG MVIT."
-  
+
   sharjil:
     name: Syed Sharjil Ahmed
     display_name: Sharjil Ahmed
@@ -94,7 +94,7 @@ authors:
     web: https://www.linkedin.com/in/syedsharjil/
     twitter: https://twitter.com/_syedsharjil_
     description: "Web Developer | Blogger | Chelsea Fanatic"
-  
+
   shruti:
     name: Shruti Shukla
     display_name: Shruti Shukla
@@ -103,7 +103,7 @@ authors:
     twitter: https://www.linkedin.com/in/shruti-shukla-156b21184
     web: https://shrutishuk.github.io
     description: "Web Developer | Problem Solver"
-  
+
   susmit:
     name: Susmit Agrawal
     display_name: Susmit Agrawal
@@ -112,7 +112,7 @@ authors:
     twitter: https://www.github.com/Susmit-A
     web: https://www.linkedin.com/in/susmit-agrawal-9b6443149
     description: "Deep Learning | Android | IoT"
-  
+
   aditya:
     name: Aditya Raman
     display_name: Aditya Raman
@@ -121,7 +121,7 @@ authors:
     twitter: https://twitter.com/_adityaraman
     web: https://ramanaditya.github.io
     description: "Software Developer | Engineer | Former Full Stack Developer Intern | Volunteer at UNV Online"
-  
+
   prakruthi:
     name: Prakruthi Manjunath
     display_name: Prakruthi Maanjunath
@@ -148,7 +148,7 @@ authors:
     twitter: https://www.instagram.com/shashwat.0212/
     web:
     description: "Proficient in Java, C++ and OOP | Problem Solving Enthusiast"
-    
+
   shresth:
     name: Shresth Singh
     display_name: Shresth Singh
@@ -157,7 +157,16 @@ authors:
     twitter: https://www.instagram.com/shresth_sing/
     web: https://www.linkedin.com/in/shresth-singh-7aa062175/
     description: "Software Engineer | Web Developer"
-    
+
+  avikant:
+    name: Avikant Srivastava
+    display_name: Avikant Srivastava
+    gravatar: "/assets/images/avatar/avikant.jpeg"
+    email: asdavikant@gmail.com
+    twitter: https://www.instagram.com/aesthetixell/
+    web: https://avikant.works/
+    description: "Proficient in Python | Junior ML Engineer at Omdena"
+
 
 # Reading Files
 include:
