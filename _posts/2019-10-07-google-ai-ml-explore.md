@@ -62,5 +62,5 @@ International Airport Road, Hunasamaranahalli, Yelahanka, Krishnadeveraya Nagar,
 
 
 ### REGISTRATION
-Registration for attendees in the Google AI | ML Explore can be found at <https://bit.ly/mviteml/>.
+Registration for attendees in the Google AI | ML Explore can be found at <https://bit.ly/2ODa96E/>.
 Seats on First come First Serve Basis.
