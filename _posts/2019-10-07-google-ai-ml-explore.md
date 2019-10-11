@@ -28,23 +28,20 @@ We're proud to announce [Mozilla](https://www.mozilla.org/) as the official spon
 **Date**: Oct 11, 2019
 
 |No.|Topic|Time|Duration|Speaker|
-|:--:|:--:|:--:|:--:|
-|1.|Registrations|08:45 - 09:00|15 min|-|
-|2.|Opening Keynote|09:00 - 09:10|10 min|-|
-|3.|Introduction to Machine Learning|09:10 - 09:40|30 min|[Ravi Jain](https://www.linkedin.com/in/ravi-jain-59941116a/)|
-|4.|Exploratory Data Analysis|09:40 - 10:10|30 min|-|
-|5.|Basic classification: Classify images of clothing|10:10 - 10:40|30 min|[Abhijeet Singh](https://www.absingh.com/)|
-|6.|Text classification: Movie reviews|10:40 - 11:10|30 min|[Vipul Gaurav](https://www.linkedin.com/in/vipul-gaurav/)|
-|7.|Regression: Predict fuel efficiency|11:10 - 11:35|25 min|[Abhijeet Singh](https://www.absingh.com/)|
-|8.|Exploring Overfit and Underfit|11:35 - 12:00|25 min|[Vipul Gaurav](https://www.linkedin.com/in/vipul-gaurav/)|
-|9.|Q&A|12:00 - 12:15|15 min|-|
-|10.|Closing Keynote|12:00 - 12:15|15 min|-|
+|:--:|:--:|:--:|:--:|:--:|
+|1.|Overview + Intro to ML|09:00 - 10:00| 1.0 hr| [Ravi Jain](https://www.linkedin.com/in/ravi-jain-59941116a/)|
+|2.|Basic classification: Classify images of clothing|10:00 - 10:30|0.5 hr|[Abhijeet Singh](https://www.absingh.com/)|
+|3.|Exploratory Data Analysis|10:30 - 11:00|0.5 hr| Avikant, Sanyam and Ritesh|
+|4.|Text Classification: Movie Review|11:00 - 11:25|0.41 hr|[Vipul Gaurav](https://www.linkedin.com/in/vipul-gaurav/)|
+|5.|Regression: Predict Fuel Efficiency|11:25 - 11:50|0.41 hr|[Abhijeet Singh](https://www.absingh.com/)|
+|6.|Exploring Overfit and Underfit|11:50 - 12:15|0.41 hr |[Vipul Gaurav](https://www.linkedin.com/in/vipul-gaurav/)|
+|7.|Q & A|12:15 - 12:30|0.25 hr|-|
 
 
 ## Day 2
 **Image Captioning with Tensorflow 2.0 (Intermediate)**
 
-|:--:|:--:|
+|:--:|:--:|:--:|:--:
 |Date|Oct 12, 2019|
 |Time|08:45AM - 12:30 PM|
 
