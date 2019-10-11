@@ -40,7 +40,8 @@ We're proud to announce [Mozilla](https://www.mozilla.org/) as the official spon
 
 ## Day 2
 **Image Captioning with Tensorflow 2.0 (Intermediate)**
-**Date**: Oct 12,2019
+**Date**: Oct 12,2019 
+
 |No.|Topic|Time|Duration|Speaker|
 |:--:|:--:|:--:|:--:|:--:|
 |1.|ML Extended + Problem Framing| 0.5 hr|9:00-9:30|
