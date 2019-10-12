@@ -41,9 +41,9 @@ We're proud to announce [Mozilla](https://www.mozilla.org/) as the official spon
 ## Day 2
 **Image Captioning with Tensorflow 2.0 (Intermediate)**
 **Date**: Oct 12,2019 
-
-|No.|Topic|Time|Duration|Speaker|
-|:--:|:--:|:--:|:--:|:--:|
+**Speaker**: Shadab Hussain, Google AI | Explore ML Facilitator
+|No.|Topic|Time|Duration|
+|:--:|:--:|:--:|:--:|
 |1.|ML Extended + Problem Framing| 0.5 hr|9:00-9:30|
 |2.|First steps with TF 2.0|0.5 hr|9:00-10:00|
 |3.|Building Image captioning with TF 2.0| 1.0 hr|10:00-11:00|
