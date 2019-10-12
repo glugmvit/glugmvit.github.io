@@ -23,9 +23,9 @@ We're proud to announce [Mozilla](https://www.mozilla.org/) as the official spon
 ![](/assets/images/google-ai-ml-explore/google-ai-ml-explore2.jpeg)
 
 
-## Day 1
-**ML basics with Keras (Beginners)**
-**Date**: Oct 11, 2019
+## Day 1 
+**ML basics with Keras (Beginners)** 
+**Date**: Oct 11, 2019 
 
 |No.|Topic|Time|Duration|Speaker|
 |:--:|:--:|:--:|:--:|:--:|
@@ -38,10 +38,11 @@ We're proud to announce [Mozilla](https://www.mozilla.org/) as the official spon
 |7.|Q & A|12:15 - 12:30|0.25 hr|-|
 
 
-## Day 2
-**Image Captioning with Tensorflow 2.0 (Intermediate)**
+## Day 2 
+**Image Captioning with Tensorflow 2.0 (Intermediate)** 
 **Date**: Oct 12,2019 
-**Speaker**: Shadab Hussain, Google AI | Explore ML Facilitator
+**Speaker**: Shadab Hussain, Google AI | Explore ML Facilitator 
+
 |No.|Topic|Time|Duration|
 |:--:|:--:|:--:|:--:|
 |1.|ML Extended + Problem Framing| 0.5 hr|9:00-9:30|
