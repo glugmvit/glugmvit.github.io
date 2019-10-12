@@ -44,7 +44,7 @@ We're proud to announce [Mozilla](https://www.mozilla.org/) as the official spon
 
 **Date**: Oct 12,2019 
 
-**Speaker**: Shadab Hussain, Google AI | Explore ML Facilitator 
+**Speaker**: Shadab Hussain, Google AI Explore ML Facilitator 
 
 |No.|Topic|Time|Duration|
 |:--:|:--:|:--:|:--:|
