@@ -4,7 +4,7 @@ title: "Activate Azure for Students using GitHub"
 author: shresth
 categories: [ microsoft, azure, github ]
 image: assets/images/Azure/azure.jpg
-featured: true
+featured: false
 excerpt: How to get the GitHub Student Developer pack to activate your Microsoft Azure account for free without a debit card.
 ---
 <!-- Add post written in markdown or html below -->

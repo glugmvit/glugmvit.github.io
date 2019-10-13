@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [ open source, git, GitHub ]
+categories: [ open source, git, gitHub ]
 title: Open Source Contributions- What and How?
 image: assets/images/opensource/1.png
 author: srishti

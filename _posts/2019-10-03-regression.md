@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [ machine learning, python ]
+categories: [ machine-learning, python ]
 title: Linear Regression
 image: assets/images/regression/lin_reg_main.png
 author: srishti
