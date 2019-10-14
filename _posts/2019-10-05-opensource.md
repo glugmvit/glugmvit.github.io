@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [ open source, git, GitHub ]
+categories: [ open source, git, gitHub ]
 title: Open Source Contributions- What and How?
 image: assets/images/opensource/1.png
 author: srishti
@@ -33,9 +33,8 @@ Next comes git.Git is a command line tool which can be used as a service to uplo
 
 ## The Git commands
 **Initialising git**
-
 ```sh
-git init [project_name]
+    $ git init [PROJECT_NAME]
 ```
 The above command helps to create a new local git repository. project_name is the name of the directory or the project.
 
@@ -49,7 +48,7 @@ The above command helps to create a new local git repository. project_name is th
 
  
  ```sh
- git clone username@host:/path/to/repository
+     $ git clone username@host:/path/to/repository
 ```
 
 After this you can make any changes you want on the cloned repository and save them.  You can add a new feature, solve an issue or change any file.
@@ -57,44 +56,89 @@ After this you can make any changes you want on the cloned repository and save t
 - After this you can add your changed files to your remote by using the following commands:
 
 ```sh
-git add <filename>
+    $ git add <FILENAME>
 ```
 - After making the required changes and adding your files, you have to commit your changes so that it gets saved in your remote repository. The commit history helps you to keep a record of what you have changed. You can commit by using the following command :
 
 ```sh
-git commit –m “Message to go with the commit here”
+    $ git commit –m “Message to go with the commit here”
 ```
-- If ou are an absolute beginner, you need to set your account and configure it with values like email, password and so on. You can do that by writing the following commands in terminal:
+- If you are an absolute beginner, you need to set your account and configure it with values like email, password and so on. You can do that by writing the following commands in terminal:
 
 ```sh
-git config --global user.email youremail@example.com
+    $ git config --global user.email youremail@example.com
 ```
 Here the global flag tells that it works on any of the local repositories on your system.
-For making changes to local, you can use the local keyword instead of global. 
+For making changes to local, you can use the local keyword instead of global. Run the commit command again.
 
 - You can create a new branch and push your changes to that branch. It is not mandatory to do that, but it would be easier for the organisation to test and merge your changes, that way. To create a new branch:
 
 ```sh
-git checkout -b <branch-name>
+    $ git checkout -b <BRANCHNAME>
 ```
 To switch from one branch to another use:
 
 ```sh
-git checkout <branch-name> 
+    $ git checkout <BRANCHNAME> 
 ```
 - To check  the status of your repository changes, use :
 ```sh
-git status
+    $ git status
 ```
 - You can use the following to push your local commits to any branch of your remote repository:
 ```sh
-git push origin <branch-name>
+    $ git push origin <BRANCHNAME>
 ```
 - For creating a pull request, use the GitHub GUI and add your comments to specify your changes. 
 
 <img src= "https://help.github.com/assets/images/help/pull_requests/pullrequest-send.png">
 
 Voila, you just created your first pull request! After this your pull request will reach the organisation and might merge or comment on your changes. 
+
+**Maintainers, Admins and Owners- Merge the requests**
+- After the pull request has been created and reached the organisation, the maintainers or admins of the GitHub repository will review your changes and comment regarding improvements and suggestions. The maintainers will see your changes by going to the "Changed files" tab.
+
+- They can test your changes by creating a new branch and pulling your fork in that branch. This is done as follows:
+
+```sh
+    $ git checkout -b <BRANCHNAME>
+    $ git clone <link of your fork>
+```
+
+ - There is another way of doing it but for inactive pull requests. Every pull request has an id number. Fetch that id number and create a branch in the process and then checkout to that branch to test the changes.
+ 
+ ```sh
+     $ git fetch origin pull/<ID>/head:<BRANCHNAME>
+     $ git checkout <BRANCHNAME>
+``` 
+ Now you can push this branch up.  
+
+- You can merge the pull request in three ways.
+  
+  1. Merge pull request- Merges all commits to base branch. This keeps all commits made       separated.
+     <img src= "https://help.github.com/assets/images/help/pull_requests/pullrequest-mergebutton.png">
+  
+  2. Squash and merge- Squashes all commits into one and then merges the pull request.
+     <img src= "https://help.github.com/assets/images/help/pull_requests/select-squash-and-merge-from-drop-down-menu.png">
+
+  3. Rebase and merge- Rebases all commits individually to base branch before merging.
+     <img src= "https://help.github.com/assets/images/help/pull_requests/select-rebase-and-merge-from-drop-down-menu.png">
+
+- In the prompt message, you can provide your own merge message along with your comments(if any) and then press the "confirm merge" button. 
+
+- After this, you can delete the branch which you used for testing the changes. This can be done locally and remotely. For delete the branch from your local use:   
+
+```sh
+    $ git branch -d BRANCHNAME
+```  
+ or   
+ ```sh
+     $ git branch -D BRANCHNAME
+```
+  To delete a remote branch use:  
+```sh 
+    $ git push <REMOTENAME> --delete <BRANCHNAME>
+```
 
 ## The Beginner's space
 
@@ -106,4 +150,9 @@ Nervous? No need to be. You can start by contributing to some of the easy issues
 
 This is October, not just the month of Halloween, this is also the month of another festival which starts with 'H'- Hacktoberfest! You can contribute all October and get prizes for your open source contributions. 
 
-We have a curated list of Mozilla Projects [here](https://docs.google.com/document/d/1tFS-Yc0F91efiKwmYzGy9TrlGReXzFrVSMn39TGeC0c/edit).
+You can start with the following repositories:
+- [NIT-K Hacktobrfest](https://github.com/WebClub-NITK/Hacktoberfest-2k19/)
+- [Hacktoberfest repository By Aswin](https://github.com/infiniteoverflow/Hacktoberfest_19)
+- [Hactoberfest by Glug MVIT](https://github.com/glugmvit/Hacktoberfest)
+
+Also, we have a curated list of Mozilla Projects [here](https://docs.google.com/document/d/1tFS-Yc0F91efiKwmYzGy9TrlGReXzFrVSMn39TGeC0c/edit).
