@@ -68,6 +68,9 @@ After this you can make any changes you want on the cloned repository and save t
 ```sh
     $ git config --global user.email youremail@example.com
 ```
+```sh 
+    $ git config --global user.name your_username
+```
 Here the global flag tells that it works on any of the local repositories on your system.
 For making changes to local, you can use the local keyword instead of global. Run the commit command again.
 
@@ -93,7 +96,19 @@ To switch from one branch to another use:
 
 <img src= "https://help.github.com/assets/images/help/pull_requests/pullrequest-send.png">
 
-Voila, you just created your first pull request! After this your pull request will reach the organisation and might merge or comment on your changes. 
+Voila, you just created your first pull request! After this your pull request will reach the organisation and might merge or comment on your changes.   
+  
+- To keep your fork updated and in sync with the original, "upstream" repository(from which you have created a fork), we add an upstream and sync our fork by using the following commands:   
+
+```sh
+    $ git remote add upstream <LINK_TO_UPSTREAM_REPOSITORY>
+    $ git fetch upstream
+    $ git checkout master
+    $ git merge upstream/master
+```   
+By this, your repository can fetch those changes also which have been made after you have forked or created a pull request. 
+
+- The above instructions are related to creating a pull request using command line interface. For creating a request using the GUI, refer [this](https://help.github.com/en/articles/creating-a-pull-request).
 
 **Maintainers, Admins and Owners- Merge the requests**
 - After the pull request has been created and reached the organisation, the maintainers or admins of the GitHub repository will review your changes and comment regarding improvements and suggestions. The maintainers will see your changes by going to the "Changed files" tab.
