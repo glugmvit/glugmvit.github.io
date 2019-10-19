@@ -75,7 +75,7 @@ print(result)
 * reduce()
 * map()
 
-### *__Using Lambdas with filter() Function__*
+### **Using Lambdas with filter() Function**
 
 The filter() is useful to filter out the elements of a sequence depending on the result of a function.  
 **The basic syntax of the function is:**
@@ -117,7 +117,7 @@ lst1 = list(filter(lambda x: (x%2==0),lst))
 
 The filter() returns even numbers from the list 'lst'.
 
-### *__Using Lambdas with map() Function__*
+### **Using Lambdas with map() Function**
 
 The map() is similar to filter() , but it acts on each element of the sequence and perhaps changes the element too.
 
@@ -160,7 +160,7 @@ Now:
 lst1 : [1,4,9,16]
 ```
 
-### *__Using Lambdas with reduce() Function__*
+### **Using Lambdas with reduce() Function**
 
 The reduce() reduces a sequence of elements to a single value by processing the elements according to a function supplied.
 
