@@ -24,9 +24,9 @@ The same function can be written as a lambda function as:\
 lambda x: x*x
 ```
 
-* Here , the keyword 'lambda' is used to define the anonymous function.
-* After that , we have written an argument of the function, ie , 'x'.
-* Then , colon(:) represents the beginning of the function that contains an expression x*x.
+- Here , the keyword 'lambda' is used to define the anonymous function.
+- After that , we have written an argument of the function, ie , 'x'.
+- Then , colon(:) represents the beginning of the function that contains an expression x*x.
 
 ### Basic Syntax of lambda function
 
@@ -71,9 +71,9 @@ print(result)
 
 ## Lambda Functions are generally used with the following functions
 
-* filter()
-* reduce()
-* map()
+- filter()
+- reduce()
+- map()
 
 ### **Using Lambdas with filter() Function**
 
