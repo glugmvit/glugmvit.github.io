@@ -56,7 +56,7 @@ result = f(10,2)
 print(result)
 ```
 
-*The Output of this code will be 12.*
+The Output of this code will be 12.
 
 **Lambda function to find the biggest of the two numbers:**
 
