@@ -3,6 +3,7 @@ layout: post
 title: Using Lambdas the correct way !!
 author: aswin
 categories: [ Python , tutorial ]
+image: assets/images/python/python_lambdas.jpeg
 excerpt: "An introduction to using the lambdas function in Python"
 ---
 
