@@ -102,9 +102,10 @@ Voila, you just created your first pull request! After this your pull request wi
 
 ```sh
     $ git remote add upstream <LINK_TO_UPSTREAM_REPOSITORY>
-    $ git fetch upstream
     $ git checkout master
-    $ git merge upstream/master
+    $ git fetch upstream
+    $ git rebase upstream/master
+    $ git push origin master
 ```   
 By this, your repository can fetch those changes also which have been made after you have forked or created a pull request. 
 
