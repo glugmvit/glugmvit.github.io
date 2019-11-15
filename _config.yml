@@ -167,6 +167,15 @@ authors:
     web: https://avikant.works/
     description: "Proficient in Python | Junior ML Engineer at Omdena"
 
+  aswin:
+    name: Aswin Gopinathan
+    display_name: Aswin Gopinathan
+    gravatar: "https://en.gravatar.com/userimage/144557467/450f60b0158d58a58db780b9a5a91055.png?size=200"
+    email: aswingopinathan1871@gmail.com
+    web: https://www.linkedin.com/in/aswin-gopinathan-69556716a/
+    twitter: https://twitter.com/GopinathanAswin
+    description: "Python | Machine Learning | Android"
+
 
 # Reading Files
 include:
