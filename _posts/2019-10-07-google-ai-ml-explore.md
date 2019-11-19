@@ -69,3 +69,44 @@ International Airport Road, Hunasamaranahalli, Yelahanka, Krishnadeveraya Nagar,
 ### REGISTRATION
 Registration for attendees in the Google AI | ML Explore can be found at <https://bit.ly/mviteml/>.
 Seats on First come First Serve Basis.
+
+
+### Photographs from the event 
+
+## DAY 1 
+
+![](/assets/images/google-ai-ml-explore/1.JPG) 
+
+![](/assets/images/google-ai-ml-explore/0.JPG) 
+
+![](/assets/images/google-ai-ml-explore/2.JPG)
+
+![](/assets/images/google-ai-ml-explore/3.JPG)
+
+![](/assets/images/google-ai-ml-explore/4.JPG)
+
+![](/assets/images/google-ai-ml-explore/5.JPG)
+
+![](/assets/images/google-ai-ml-explore/6.jpg)
+
+![](/assets/images/google-ai-ml-explore/7.jpg)
+
+![](/assets/images/google-ai-ml-explore/8.jpg)
+
+## DAY 2 
+
+![](/assets/images/google-ai-ml-explore/9.JPG)
+
+![](/assets/images/google-ai-ml-explore/10.JPG)
+
+![](/assets/images/google-ai-ml-explore/11.JPG)
+
+![](/assets/images/google-ai-ml-explore/12.jpg)
+
+![](/assets/images/google-ai-ml-explore/13.JPG)
+
+Was a great event indeed!! Thank you everyone.
+
+
+
+
