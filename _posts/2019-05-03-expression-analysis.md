@@ -4,7 +4,7 @@ title:  "Deep Learning: Expression Analysis"
 author: ayushi
 categories: [ Deep Learning, Python, Computer Vision ]
 image: assets/images/expression/exp.png
-featured: true
+featured: false
 mathjax: true
 excerpt: A neural network model to classify people as smiling or neutral using scikit-learn, OpenCV and TensorFlow.
 ---
