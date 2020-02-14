@@ -3,7 +3,7 @@ layout: post
 title:  "Kreator's Workshop"
 author: prakruthi
 categories: [events, wisekreator]
-image: assets/images/mozilla/hacktoberfest.jpg
+image: assets/images/wisekreator/poster1.jpg
 featured: true
 excerpt: Kreator's Workshop 2020, Bangalore
 ---
