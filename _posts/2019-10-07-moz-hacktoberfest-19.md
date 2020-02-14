@@ -4,7 +4,7 @@ title:  "Mozilla Bangalore Hacktoberfest 2019"
 author: masoomi
 categories: [events, mozilla]
 image: assets/images/mozilla/hacktoberfest.jpg
-featured: true
+featured: false
 excerpt: Hacktoberfest is a month long virtual festival event to celebrate open source contributions, presented by Digital Ocean and DEV.
 ---
 The Mozilla Bangalore community kicked off the month of October 2019 with a Mozilla flavoured Hacktoberfest event, with the help of volunteers from GLUG MVIT.
