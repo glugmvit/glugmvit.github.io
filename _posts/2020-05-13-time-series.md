@@ -54,7 +54,6 @@ Along with this we'll also rename the columns as 'ds' and 'y' respectively since
 
 Now we'll plot our data using matplotlib and label the axes respectively.
 
-![](/assets/images/time_series/plot.png)
 ```python
 ax = df.set_index('ds').plot(figsize=(12, 8))
 plt.ylabel('Monthly Number of Airline Passengers')
