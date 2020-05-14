@@ -7,7 +7,7 @@ featured: false
 image: https://raw.githubusercontent.com/ujwalpro/ujwalpro.github.io/master/assets/img/blog/webrender.png
 excerpt: Hunt from Home, Mozilla karnataka! UI Bug Hunting
 ---
-_This blog was originall published at [ulogx.com](httpps://ulogx.com)_
+_This blog was originally published at [ulogx.com](https://ulogx.com)_
 
 Every developer would agree to the fact that, your code is Incomplete if you never encountered bugs. Irrespective of when it would've arised, the satisfaction you get after resolving them is unbeatable, as it helps you move towards "Perfection" or atleast help you get better and design an experience for your user.
 
