@@ -4,7 +4,7 @@ title:  "Why Every Organization requires a Bug Bounty Program"
 author: ujwal
 categories: [ cyber security ]
 featured: false
-image: https://raw.githubusercontent.com/ujwalpro/ujwalpro.github.io/master/assets/img/blog/bbsetup.png
+image: assets/images/CyberSec/bbsetup.png
 excerpt: Every organization requires to have a Responsible disclosure program and open security policy to avoid breaches & cyber attacks.
 ---
 _This blog was originally published at [ulogx.com](https://ulogx.com)_

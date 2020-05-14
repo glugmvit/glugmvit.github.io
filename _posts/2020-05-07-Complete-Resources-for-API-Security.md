@@ -4,7 +4,7 @@ title:  "API Security Resources & setup"
 author: ujwal
 categories: [ cyber security ]
 featured: false
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824822/theme15_oqsl4z.jpg
+image: assets/images/CyberSec/apisec.jpg
 excerpt: Complete compilation of resources to learn API Pentesting, which consists of resources for absolute beginners to advanced levels.
 ---
 _This blog was originally published at [ulogx.com](https://ulogx.com)_
