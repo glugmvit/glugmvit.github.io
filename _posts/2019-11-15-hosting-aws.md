@@ -4,7 +4,7 @@ title:  "Hosting with Amazon Web Services"
 author: absingh
 categories: [ aws, cloud, events, campus ]
 image: assets/images/hosting-aws/hosting-aws.png
-featured: true
+featured: false
 excerpt: Join us for a lightning session on a complete overview of how to deploy your projects online with AWS services like S3 and EC2.
 ---
 <!-- Add post written in markdown or html below -->

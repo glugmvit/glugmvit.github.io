@@ -4,7 +4,7 @@ title:  "Secure Coding for Developers"
 author: ujwal
 categories: [ cyber security ]
 featured: false
-image: https://raw.githubusercontent.com/ujwalpro/ujwalpro.github.io/master/assets/img/blog/securecoding.jpg
+image: assets/images/CyberSec/securecoding.jpg
 excerpt: Secure coding principles for Developers to reduce vulnerabilities before their inception. This post speaks of robust
 ---
 _This blog was originally published at [ulogx.com](https://ulogx.com)_

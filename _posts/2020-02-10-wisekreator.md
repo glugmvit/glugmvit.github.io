@@ -4,7 +4,7 @@ title:  "Kreator's Workshop"
 author: prakruthi
 categories: [events, wisekreator]
 image: assets/images/wisekreator/poster1.jpg
-featured: true
+featured: false
 excerpt: Kreator's Workshop 2020, Bangalore
 ---
 With the astounding level of advancement achieved in technology, it is getting necessary for people out there to understand the technological know-hows of things. But that doesn't eliminate the fact that creativity plays an equivalent role, as it's the source of ideation and marketing. The around the corner advent of machine era demands you to be sound both technically and creatively. 

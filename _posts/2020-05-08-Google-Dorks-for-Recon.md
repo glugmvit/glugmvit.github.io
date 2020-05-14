@@ -4,7 +4,7 @@ title:  "Google Dorks, Recon & OSINT"
 author: ujwal
 categories: [ cyber security ]
 featured: false
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824021/theme12_e0vxlr.jpg
+image: assets/images/CyberSec/googledork.png
 excerpt: Google dorks Usage - Basics to Advanced For Bug Bounty.
 ---
 _This blog was originally published at [ulogx.com](https://ulogx.com)_

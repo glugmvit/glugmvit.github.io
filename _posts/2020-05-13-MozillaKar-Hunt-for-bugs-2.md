@@ -3,8 +3,8 @@ layout: post
 title:  "Web Rendering & Hunting UI Bugs"
 author: ujwal
 categories: [ cyber security ]
-featured: false
-image: https://raw.githubusercontent.com/ujwalpro/ujwalpro.github.io/master/assets/img/blog/webrender.png
+featured: true
+image: assets/images/CyberSec/webrender.png
 excerpt: Hunt from Home, Mozilla karnataka! UI Bug Hunting
 ---
 _This blog was originally published at [ulogx.com](https://ulogx.com)_
