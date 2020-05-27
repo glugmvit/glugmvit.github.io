@@ -25,7 +25,7 @@ While Google, Opera and their variants use <b>blink</b> as their rendering engin
 
 #### Here are steps below following which you could contribute:
 
-join the Event on 16th May,2020 from 5:30 PM IST to 6:30 PM IST via this [link](https://meet.google.com/rrc-hfrr-imq)
+Event recording link [HERE](https://www.youtube.com/watch?v=gCgUDrqcB2Q)
 
 ![](https://raw.githubusercontent.com/ujwalpro/ujwalpro.github.io/master/assets/img/blog/MozillaKar%20HFH2.jpg)
 
