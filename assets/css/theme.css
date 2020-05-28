@@ -84,7 +84,7 @@ section.recent-posts {
 }
 .layout-page .section-title h2:before {top:17px;}
 .article-post ol, .article-post ul { margin-bottom:1.5rem;}
-.article-post ol ol, .article-post ul ul {   
+.article-post ol ol, .article-post ul ul {
     list-style: disc;
     margin-bottom:0rem;
 }
@@ -110,7 +110,7 @@ section.recent-posts {
     color: #333;
     text-transform: uppercase;
     letter-spacing: 1px;
-    font-size: 0.94em;        
+    font-size: 0.94em;
 	}
 .navbar-toggleable-md .navbar-nav .nav-link.highlight {
     background: #6FD350;
@@ -119,7 +119,7 @@ section.recent-posts {
     box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
         padding-left: 1em;
     padding-right: 1em;
-    
+
 }
 .navbar-toggler {
     z-index:9999;
@@ -138,7 +138,7 @@ section.recent-posts {
         box-shadow:none;
         border:0;
     }
-@media (min-width:992px) {    
+@media (min-width:992px) {
     .mediumnavigation .dropdown-menu {
         border:0;
         box-shadow: 0px 10px 40px 0px rgba( 0, 0, 0, 0.05 );
@@ -183,7 +183,7 @@ section.recent-posts {
 	line-height: 1.25;
 }
 .listfeaturedtag h2.card-title a,.listrecent h2.card-title a {
-	color: #111;    
+	color: #111;
     font-weight:500;
 }
 .listfeaturedtag h2.card-title a:hover,.listrecent h2.card-title a:hover {
@@ -240,7 +240,7 @@ section.recent-posts {
     .post-top-meta .author-description{
         float:left;
         margin-bottom: 40px;
-        margin-left: 80px; 
+        margin-left: 80px;
     }
     .post-top-meta .link-dark{
         margin-left:120px;
@@ -339,13 +339,20 @@ span.post-name a,span.post-read-more a:hover {
 }
 .intro {
     background-image:url(../images/head.jpg);
-    background-size:cover;
+    background-attachment: fixed;
+    background-size: cover;
     padding: 9rem 0;
+    position: relative;
     margin-top:-87px;
     margin-bottom:3.5rem;
     z-index: 1;
-    position: relative;
 }
+@media (min-width: 768px) {
+    .intro {
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+ }
 .intro .btn {
     background: #fff100;
     border: 0;
@@ -551,7 +558,7 @@ ul.tags li a {
     border-radius: 3px;
     font-weight: 500;
     font-size: 0.93em;
-    text-transform: capitalize;    
+    text-transform: capitalize;
     box-shadow: 0 6px 10px 0 rgba(169, 169, 169, 0.1);
 }
 ul.tags li a:hover {
@@ -877,7 +884,7 @@ iframe {
     .sidebar {max-width:100%;}
     .copyright .pull-left, .copyright .pull-right {float:none;}
     .beforefooter {text-align:center;}
-    .beforefooter .footersocial { text-align: center !important;    margin-top: 1rem; }    
+    .beforefooter .footersocial { text-align: center !important;    margin-top: 1rem; }
     .form-group .col-md-6:first-child {   margin-bottom: 1rem;}
-    
+
 }
