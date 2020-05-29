@@ -1,19 +1,17 @@
 ---
 layout: post
-title:  "Time Series Analysis"
+title: "Time Series Analysis"
 author: shresth
-featured: false
+featured: true
 image: assets/images/time_series/cover.jpg
 excerpt: Predicting airline passenger traffic using time series analysis.
 ---
 
 # Time Series Analysis
 
-### Time series analysis is a statistical technique that deals with time series data, or trend analysis.  Time series data means that data is in a series of particular time periods or intervals.
-
+### Time series analysis is a statistical technique that deals with time series data, or trend analysis. Time series data means that data is in a series of particular time periods or intervals.
 
 We analyse time series data in order to forecast the future. Forecasting is the process of making predictions of the future based on past and present data and most commonly by analysis of trends. This could include inventory management, predicting financial market prices, analysing traffic and has several other use cases.
-
 
 Time series analysis differ from Conventional Machine Learning algorithms since we use a different approach while making a model. The dataset available for Time series analysis maybe very limited compared to the data size of most of the commonly used Machine learning algorithms making forecasting even more challenging.
 
@@ -21,11 +19,11 @@ For example we can be asked to predict the sales of a store in the upcoming mont
 
 There are three major components in time series data i.e. trend, seasonality and noise.
 
-* Trend : Continous increase or decrease in the series
+- Trend : Continous increase or decrease in the series
 
-* Seasonality: The repeating short-term cycle in the series which can be determined beforehand by analysing past data.
+- Seasonality: The repeating short-term cycle in the series which can be determined beforehand by analysing past data.
 
-* Noise: The random variation in the series.
+- Noise: The random variation in the series.
 
 The most common methods used for forecasting are Autoregression (AR), Moving Average (MA), Autoregressive Integrated Moving Average (ARIMA).
 
