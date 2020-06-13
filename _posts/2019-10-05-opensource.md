@@ -157,51 +157,6 @@ By this, your repository can fetch those changes also which have been made after
     $ git push <REMOTENAME> --delete <BRANCHNAME>
 ```
 
-**Maintainers, Admins and Owners- Merge the requests**
-- After the pull request has been created and reached the organisation, the maintainers or admins of the GitHub repository will review your changes and comment regarding improvements and suggestions. The maintainers will see your changes by going to the "Changed files" tab.
-
-- They can test your changes by creating a new branch and pulling your fork in that branch. This is done as follows:
-
-```sh
-    $ git checkout -b <BRANCHNAME>
-    $ git clone <link of your fork>
-```
-
- - There is another way of doing it but for inactive pull requests. Every pull request has an id number. Fetch that id number and create a branch in the process and then checkout to that branch to test the changes.
- 
- ```sh
-     $ git fetch origin pull/<ID>/head:<BRANCHNAME>
-     $ git checkout <BRANCHNAME>
-``` 
- Now you can push this branch up.  
-
-- You can merge the pull request in three ways.
-  
-  1. Merge pull request- Merges all commits to base branch. This keeps all commits made       separated.
-     <img src= "https://help.github.com/assets/images/help/pull_requests/pullrequest-mergebutton.png">
-  
-  2. Squash and merge- Squashes all commits into one and then merges the pull request.
-     <img src= "https://help.github.com/assets/images/help/pull_requests/select-squash-and-merge-from-drop-down-menu.png">
-
-  3. Rebase and merge- Rebases all commits individually to base branch before merging.
-     <img src= "https://help.github.com/assets/images/help/pull_requests/select-rebase-and-merge-from-drop-down-menu.png">
-
-- In the prompt message, you can provide your own merge message along with your comments(if any) and then press the "confirm merge" button. 
-
-- After this, you can delete the branch which you used for testing the changes. This can be done locally and remotely. For delete the branch from your local use:   
-
-```sh
-    $ git branch -d BRANCHNAME
-```  
- or   
- ```sh
-     $ git branch -D BRANCHNAME
-```
-  To delete a remote branch use:  
-```sh 
-    $ git push <REMOTENAME> --delete <BRANCHNAME>
-```
-
 ## The Beginner's space
 
 Nervous? No need to be. You can start by contributing to some of the easy issues: 
