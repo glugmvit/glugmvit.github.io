@@ -16,7 +16,7 @@ excerpt: "An Introduction to using Firebase Realtime Database using Javascript. 
 
 - Then click on Add Project.
 
-<img src="../assets/images/firebase-rdb-js/add_project.png" height=300>
+![](../assets/images/firebase-rdb-js/add_project.png)
 
 - Enter your project name.
 
