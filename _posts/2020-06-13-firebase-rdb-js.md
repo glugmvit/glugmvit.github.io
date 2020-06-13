@@ -3,7 +3,7 @@ layout: post
 categories: [ javascript ]
 title: Firebase Realtime DB with JS
 image: assets/images/firebase-rdb-js/firebasejs.png
-author: Aswin gopinathan
+author: aswin
 featured: true
 mathjax: false
 excerpt: "An Introduction to using Firebase Realtime Database using Javascript. "
