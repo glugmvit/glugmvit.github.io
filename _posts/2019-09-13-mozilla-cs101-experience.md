@@ -68,7 +68,8 @@ The event was organized by the _Computer Science &amp; Engineering Department_ o
 
 - [Ujwal kumar](https://www.linkedin.com/in/ujwal-kumar-a096b179/), 1MV17CS129 (Microsoft Student Partner, Pen-Tester)
 - Aswin Gopinathan, 1MV17CS018 (GS Organizer)
-- Prakruthi M, 1MV17CS079 (Flutter Enthusiast)
+- Abhijit kumar singh, 1MV17CS131 (UI / UX Designer)
+
 
 ## Photos from our event
 
