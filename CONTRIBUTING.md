@@ -77,7 +77,7 @@ You can add a page in a similar way and the following can be done:
 
 4.  For fixing a bug, open a new pull request with the patch of code and make sure to include details describing the changes you made and the bug your code fixes clearly.Also,changes like formatting of text and adding styles to font may not be accepted because these changes do not add anything substantial to the website.
 
-### Hosting on Github and Pull requests:
+### Hosting on Github and Pull requests
 
 For everyone who have made changes and want to see their site running,you can follow these steps:
 
@@ -106,11 +106,12 @@ If you know how to code, we welcome you to send fixes and new features, but in o
 
 `$ git clone git@github.com:yourname/glugmvit.github.io.git`
 
--   Don't modify or work on the master branch, we'll use it to always be in sync with webogram upstream.
+-   Don't modify or work on the master branch, we'll use it to always be in sync with upstream.
 
-
-    $ git remote add upstream git@github.com:glugmvit/glugmvit.github.io.git
-    $ git fetch upstream
+```sh
+git remote add upstream git@github.com:glugmvit/glugmvit.github.io.git
+git fetch upstream
+```
 
 -   Always create a new issue when you plan to work on a bug or new feature and wait for other devs input before start coding.
 -   Once the new feature is approved or the problem confirmed, go to your local copy and create a new branch to work on it. Use a descriptive name for it, include the issue number for reference.
@@ -119,10 +120,11 @@ If you know how to code, we welcome you to send fixes and new features, but in o
 
 -   Do your coding and push it to your fork. Include as few commits as possible (one should be enough) and a good description. Always include a reference to the issue with "Fix #number".
 
-
-    $ git add .
-    $ git commit -m "Improved contact list. Fix #99"
-    $ git push origin improve-contacts-99
+```sh
+git add .
+git commit -m "Improved contact list. Fix #99"
+git push origin improve-contacts-99
+```
 
 -   Do a new pull request from your "improve-contacts-99" branch to webogram "master".
 
@@ -138,22 +140,30 @@ Once everything is OK, you will be asked to merge all commit messages into one t
 
 Edit the file and mark as fixup (f) all commits you want to merge with the first one:
 
-    pick 1c85e07 Improved contact list. Fix #99
-    f c595f79 Ops, fixing typo
+```sh
+pick 1c85e07 Improved contact list. Fix #99
+f c595f79 Oops, fixing typo
+```
 
 Once rebased you can force a push to your fork branch and the PR will be automatically updated.
 
-`$ git push origin improve-contacts-99 --force`
+```sh
+git push origin improve-contacts-99 --force
+```
 
 #### How to keep your local branches updated
 
 To keep your local master branch updated with upstream master, regularly do:
 
-    $ git fetch upstream
-    $ git checkout master
-    $ git pull --rebase upstream master
+```sh
+git fetch upstream
+git checkout master
+git pull --rebase upstream master
+```
 
 To update the branch you are coding in:
 
-    $ git checkout improve-contacts-99
-    $ git rebase master
+```sh
+git checkout improve-contacts-99
+git rebase master
+```
