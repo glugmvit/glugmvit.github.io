@@ -23,6 +23,16 @@ authors:
     twitter: https://twitter.com/cse_as
     description: "Neighbourhood friendly Software Engineer. GLUG Lead | Microsoft Student Partner | AI Developer"
 
+  ujwal:
+    name: Ujwal Kumar
+    display_name: Ujwal Kumar
+    gravatar: "/assets/images/avatar/ujwal.jpg"
+    email: ujwal@chillitray.com
+    twitter: https://twitter.com/Ujwal07kumar?s=03
+    web: https://ujwalkr.com
+    description: "Lead - GLLUG MVIT | Founder - Chillitray Technologies & MrPentester | Security Researcher | Mentor @ AIM | Developer | Mozillian | MLSA | Low Key Hacker"
+  
+
   ayushi:
     name: Ayushi
     display_name: Ayushi
@@ -130,15 +140,6 @@ authors:
     twitter: https://twitter.com/Prakrut66322847
     web: https://prakruthi3.github.io
     description: "App Developer | Engineer | Reader"
-
-  ujwal:
-    name: Ujwal Kumar
-    display_name: Ujwal Kumar
-    gravatar: "/assets/images/avatar/ujwal.jpg"
-    email: ujwal@chillitray.com
-    twitter: https://twitter.com/Ujwal07kumar?s=03
-    web: https://ujwalkr.com
-    description: "Lead - GLLUG MVIT | Founder - Chillitray Technologies & MrPentester | Security Researcher | Mentor @ AIM | Developer | Mozillian | MLSA | Low Key Hacker"
 
   shashwat:
     name: Shashwat Srivastava
