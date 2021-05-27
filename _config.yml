@@ -176,6 +176,23 @@ authors:
     twitter: https://twitter.com/GopinathanAswin
     description: "Python | Machine Learning | Android"
 
+  kaushiki:
+    name: Kaushiki Kriti
+    display_name: Kaushiki Kriti
+    gravatar: "/assets/images/avatar/kaushiki.jpeg"
+    email: kaushiki@gmail.com
+    web: https://www.linkedin.com/in/kaushiki-krity-9172b71a5/
+    twitter: https://twitter.com/
+    description: "C++ | OOPS | Web Developer"
+
+  shreya:
+    name: Shreya Raj
+    display_name: Shreya Raj
+    gravatar: "/assets/images/avatar/shreya.jpeg"
+    email: shreya@gmail.com
+    web: https://www.linkedin.com/in/shreya-raj-ab0743199/
+    twitter: https://twitter.com/
+    description: "Web Developer | Community Enthusiast"
 
 # Reading Files
 include:
