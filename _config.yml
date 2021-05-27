@@ -176,16 +176,6 @@ authors:
     twitter: https://twitter.com/GopinathanAswin
     description: "Python | Machine Learning | Android"
 
-    kaushiki:
-    name: Kaushiki Krity
-    display_name: Kaushiki Krity
-    gravatar: "/assets/images/avatar/kaushiki.jpeg"
-    email: kaushikikrity@gmail.com
-    web: https://www.linkedin.com/in/kaushiki-krity-9172b71a5/
-    twitter: https://twitter.com/KaushikiKrity
-    description: "C++ and OOP"
-
-
 
 # Reading Files
 include:
