@@ -21,8 +21,17 @@ authors:
     email: contact.abhijeetsingh@gmail.com
     web: https://www.absingh.com
     twitter: https://twitter.com/cse_as
-    description: "Neighbourhood friendly Software Engineer. GLUG Lead | Microsoft Student Partner | AI Developer"
+    description: "Neighbourhood friendly Software Engineer. Former GLUG Lead | Software Developer @ Danske Bank | AI Developer"
 
+  ujwal:
+    name: Ujwal Kumar
+    display_name: Ujwal Kumar
+    gravatar: "/assets/images/avatar/ujwal.jpg"
+    email: ujwal@chillitray.com
+    twitter: https://twitter.com/Ujwal07kumar?s=03
+    web: https://ujwalkr.com
+    description: "Lead - GLUG MVIT | Founder - Chillitray Technologies & MrPentester | Security Researcher | Mentor @ AIM | Developer | Mozillian | MLSA | Low Key Hacker"
+  
   ayushi:
     name: Ayushi
     display_name: Ayushi
@@ -75,7 +84,7 @@ authors:
     email: vgaurav3011@gmail.com
     web: https://www.linkedin.com/in/vipul-gaurav/
     twitter: https://twitter.com/username
-    description: "Self-taught Programmer. GLUG Lead|Data Scientist|Deep Learning"
+    description: "Self-taught Programmer.Former GLUG Lead|Data Scientist|Deep Learning"
 
   vhr:
     name: Veeresh H R
@@ -131,15 +140,6 @@ authors:
     web: https://prakruthi3.github.io
     description: "App Developer | Engineer | Reader"
 
-  ujwal:
-    name: Ujwal Kumar
-    display_name: Ujwal Kumar
-    gravatar: "/assets/images/avatar/ujwal.png"
-    email: admin@ujwalkr.com
-    twitter: https://twitter.com/Ujwal07kumar?s=03
-    web: https://ujwalkr.com
-    description: "Developer | Web, Mobile & API Security | Mentor"
-
   shashwat:
     name: Shashwat Srivastava
     display_name: Shashwat Srivastava
@@ -175,6 +175,16 @@ authors:
     web: https://www.linkedin.com/in/aswin-gopinathan-69556716a/
     twitter: https://twitter.com/GopinathanAswin
     description: "Python | Machine Learning | Android"
+
+    kaushiki:
+    name: Kaushiki Krity
+    display_name: Kaushiki Krity
+    gravatar: "/assets/images/avatar/kaushiki.jpeg"
+    email: kaushikikrity@gmail.com
+    web: https://www.linkedin.com/in/kaushiki-krity-9172b71a5/
+    twitter: https://twitter.com/KaushikiKrity
+    description: "C++ and OOP"
+
 
 
 # Reading Files
