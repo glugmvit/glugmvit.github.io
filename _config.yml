@@ -185,6 +185,15 @@ authors:
     twitter: https://twitter.com/KaushikiKrity
     description: "C++ and OOP"
 
+  shreya:
+    name: Shreya Raj
+    display_name: Shreya Raj
+    gravatar: "/assets/images/avatar/shreya.jpeg"
+    email: 
+    web: https://www.linkedin.com/in/shreya-raj-ab0743199/
+    twitter: https://twitter.com/
+    description: "Web Developer"
+
 
 # Reading Files
 include:
