@@ -193,6 +193,15 @@ authors:
     web: https://www.linkedin.com/in/shreya-raj-ab0743199/
     twitter: https://twitter.com/
     description: "Web Developer"
+ 
+  test:
+      name: test
+      display_name: test
+      gravatar: "/assets/images/avatar/test.jpeg"
+      email: 
+      web: https://www.linkedin.com/in/shreya-raj-ab0743199/
+      twitter: https://twitter.com/
+      description: "Web Developer"
 
 
 # Reading Files
