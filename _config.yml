@@ -194,6 +194,14 @@ authors:
     twitter: https://twitter.com/
     description: "Web Developer"
 
+  vivek:
+    name: Vivek Kalmath
+    display_name: Vivek Kalmath
+    gravatar: "/assets/images/avatar/vivek.jpeg"
+    email: vivek.kalmath2001@gmail.com
+    web: https://www.linkedin.com/in/vivek-kalmath-1715921bb
+    twitter: https://twitter.com/VivekKalmath
+    description: "Problem Solving | Web Developer"
 
 # Reading Files
 include:
