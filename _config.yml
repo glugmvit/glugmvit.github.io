@@ -193,6 +193,15 @@ authors:
     web: https://www.linkedin.com/in/shreya-raj-ab0743199/
     twitter: https://twitter.com/
     description: "Web Developer"
+  
+  piyush:
+    name: Piyush Verma
+    display_nmae: Piyush Verma  
+    gravatar: "/assets/images/avatar/piyush.jpeg"
+    email: piyushvrm072001@gmail.com
+    web: https://www.linkedin.com/in/piyush-v-1781661b3/
+    twitter: https://twitter.com/vrm_piyush
+    description: "Cybersecurity | Data Science"
 
 
 # Reading Files
