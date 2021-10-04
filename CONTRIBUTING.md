@@ -35,8 +35,9 @@ This is a website built with **Jekyll**, a website generator that’s designed f
 You need to follow the below steps before making any changes to the code or adding a post:
 
 -   Install Jekyll locally via the command line.
--   Clone a starting point to your local machine, install Jekyll locally via the command line, make updates to your website, build it locally, and then serve it.
--   Fork a starting point, make changes, and then serve it.
+-   Clone a starting point to your local machine.
+-   Make updates or changes.
+-   Build it locally, and then serve it.
 
 For the above steps to be done you need to be familiar with git and github. For installation, you may go through the following link: <https://jekyllrb.com/docs/>
 
