@@ -193,6 +193,14 @@ authors:
     web: https://www.linkedin.com/in/shreya-raj-ab0743199/
     twitter: https://twitter.com/
     description: "Web Developer"
+  jyotsna:
+    name: Jyotsna A Patel
+    display_name: Jyotsna A Patel
+    gravatar: "/assets/images/avatar/jyotsna.jpg"
+    email: jyotsna3121@gmail.com
+    web: https://www.linkedin.com/in/jyotsna-a-patel-1012a420b/
+    twitter: https://twitter.com/
+    description: "C++ | Volunteer | Web development"
 
 
 # Reading Files
