@@ -103,7 +103,7 @@ Later we had an intersting brief session on github tour taken up by Shreya where
 
 A session on Microsoft Azure was conducted by Mr. Ujwal Kumar and Mr. Ravi Jain. They gave a detailed tour to Microsoft Azure and explained us about the benefits one can have by using it. They explained everything from deployment of apps and website to using Azure to tools required for AI, ML and Big Data.
 ![](../assets/images/Op_halloween21/ujwal.jpg)
-![](/assets/images/op_halloween/ravi.JPG)
+![](/assets/images/Op_halloween21/ravi.jpg)
 
 Now the session was handed over to Mr. Prayank to explain briefly about Bitcoin
 
@@ -240,7 +240,7 @@ How can businesses and individuals guard against cyber threats? Here are our top
 
 At the end Suma Swamy Ma'am gave a marvelous Thank You speech thanking all the guests, speakers, volunteers and students for making this event a successful one.
 
-![](../assets/images/Op_halloween21/suma.jpg)
+![](../assets/images/Op_halloween21/suma.jpeg)
 
 At the end we want to thank CS Department, specially the Head of Department- Dr. G C Bhanuprakash and Dr. Suma Swamy for helping us conduct this event.
 
