@@ -56,6 +56,10 @@ The event consisted of the participants constantly guided by the mentors on gett
 - [Abhijeet Singh](https://www.linkedin.com/in/thatniceman/)
 - [Aswin Gopinathan](https://www.linkedin.com/in/aswin-gopinathan-69556716a/)
 
+---
+## Special Thanks
+- [Akhil Menon](https://www.linkedin.com/in/akhilmenonz1/)
+
 ## Am I eligible to be a part of the Hacktoberfest?
 
 Yes, you are! In fact anyone can contribute to open source. It's all about celebrating open source and giving it back. It does not have to be a code, it could even be a documentation or a little spelling fix.
