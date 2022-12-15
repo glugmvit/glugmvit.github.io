@@ -202,6 +202,15 @@ authors:
     twitter: https://twitter.com/
     description: "C++ | Volunteer | Web development"
 
+  lavanya:
+    name: Lavanya Lenka
+    display_name: Lavanya Lenka
+    gravatar: "/assets/images/avatar/lavanya.jpeg"
+    email: lavanyasuc31@gmail.com
+    web: https://www.linkedin.com/in/lavanya-lenka-497122206/
+    twitter: https://twitter.com/
+    description: "C++ | Data Science"
+
 
 # Reading Files
 include:
